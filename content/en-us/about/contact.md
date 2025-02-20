@@ -6,7 +6,9 @@ indentation: "1"
 > [[index-en-us|Home]]   [[cv in english|CV]]    [[publications|Publications]]   [[audiovisual productions|Audiovisual]]  [[educational initiatives|Educational Initiatives]]  [[research|Research]]
 
 
-I'm glad you're here. Thanks for taking an interest in my adventures! 
+I'm glad you're here. 
+
+Thanks for taking an interest in my adventures! 
 
 The best way to get in touch with me is by email, but you can follow my work on social media, even though I do not post much there.
 

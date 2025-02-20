@@ -5,7 +5,9 @@ indentation: "1"
 > [[index-es-es|Inicio]] [[cv en español|CV]]  [[publicaciones|Publicaciones]] [[producciones audiovisuales|Producciones Audiovisuales]] [[acciones educativas|Acciones Educativas]]  [[investigaciones|Investigaciones]]
 
   
-Estoy contento de que estés aquí. ¡Gracias por interesarte en mis aventuras!
+Estoy contento de que estés aquí. 
+
+¡Gracias por interesarte en mis aventuras!
 
 La mejor forma de contactarme es por correo electrónico, pero también puedes seguir mi trabajo en las redes sociales, aunque no publico mucho allí.
    
