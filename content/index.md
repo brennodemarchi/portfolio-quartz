@@ -1,6 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Início
+indentation: "0"
 ---
+> [!text] Escolha o seu idioma / Choose your language / Elija su idioma
+> 
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+|  ![[brazil-flag.png\|90]]  |  ![[usa-flag.png\|90]]   | ![[spain-flag.png\|90]]  |
+| :------------------------: | :----------------------: | :----------------------: |
+| [[index-pt-br\|Português]] | [[index-en-us\|English]] | [[index-es-es\|Español]] |
