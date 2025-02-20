@@ -1,0 +1,49 @@
+---
+indentation: "1"
+---
+
+> [!Example] Menu
+> [[index-en-us|Home]]   [[cv in english|CV]]    [[publications|Publications]]   [[audiovisual productions|Audiovisual]]  [[educational initiatives|Educational Initiatives]]  [[research|Research]]
+
+
+I'm glad you're here. Thanks for taking an interest in my adventures! 
+
+The best way to get in touch with me is by email, but you can follow my work on social media, even though I do not post much there.
+
+| ![[email.png\|40]] | **Email** | brennodemarchi@gmail.com |
+| :----------------: | :-------: | :----------------------: |
+
+---
+
+## For academic or professional purposes
+
+
+## CV
+
+|  ![[lattes.png\|40]]  | **Lattes** |              http://lattes.cnpq.br/5599778124078031               |
+| :-------------------: | :--------: | :---------------------------------------------------------------: |
+|  ![[orcid.png\|40]]   | **ORCID**  |               https://orcid.org/0000-0001-9701-1336               |
+
+### Projects
+
+| ![[youtube.png\|40]] | **Youtube** (videos) | [@brennodemarchi](https://www.youtube.com/@brennodemarchi) |
+| :------------------: | :------------------: | :--------------------------------------------------------: |
+| ![[github.png\|40]]  | **GitHub** (coding)  |    [brennodemarchi](https://github.com/brennodemarchi)     |
+
+### Publications
+   
+| ![[academiaedu.png\|40]]  | **AcademiaEdu** |                [Brenno B. Demarchi](https://ufsc.academia.edu/BrennoDemarchi)                 |
+| :-----------------------: | :-------------: | :-------------------------------------------------------------------------------------------: |
+| ![[researchgate.png\|40]] |  ResearchGate   | [Brenno Brandalise Demarchi](https://www.researchgate.net/profile/Brenno-Brandalise-Demarchi) |
+   
+---
+
+## For general use
+
+| ![[instagram.png\|40]] | **Instagram** |  [@brennodemarchi](https://www.instagram.com/brennodemarchi/)   |
+| :--------------------: | :-----------: | :-------------------------------------------------------------: |
+|   ![[imdb.png\|40]]    |   **IMDB**    |     [brennodemarchi](https://www.imdb.com/user/ur43026569)      |
+|  ![[discord.png\|40]]  |  **Discord**  |                            br2n#5451                            |
+|   ![[steam.png\|40]]   |   **Steam**   |           [br2n](https://steamcommunity.com/id/br2n/)           |
+
+---
