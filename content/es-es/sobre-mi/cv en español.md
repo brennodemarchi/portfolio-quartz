@@ -7,7 +7,7 @@ indentation: "1"
 
 ---
 
-Antropólogo y productor cultural independiente. Actualmente cursando un doctorado en Antropología Social en la Universidad Federal de Santa Catarina, donde también obtuve un Máster en Antropología Social. Título de Bachiller y Licencia de Enseñanza en Ciencias Sociales por la Universidade Estadual Paulista (Unesp). Técnico de Grado Medio en Informática en la Escuela Técnica Aristóteles Ferreira (ETEC-AF).   
+Antropólogo, productor cultural y artista multimedia. Actualmente cursando un doctorado en Antropología Social en la Universidad Federal de Santa Catarina, donde también obtuve un Máster en Antropología Social. Título de Bachiller y Licencia de Enseñanza en Ciencias Sociales por la Universidade Estadual Paulista (Unesp). Técnico de Grado Medio en Informática en la Escuela Técnica Aristóteles Ferreira (ETEC-AF).   
 [brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](http://www.brennodemarchi.art.br)
 
 ---

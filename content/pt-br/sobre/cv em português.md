@@ -7,7 +7,7 @@ indentation: "1"
 
 ---
 
-Antropólogo e Produtor Cultural independente. Doutorando e Mestre em Antropologia Social pela Universidade Federal de Santa Catarina (PPGAS/UFSC). Graduado no Bacharelado e Licenciatura em Ciências Sociais pela Universidade Estadual Paulista (Unesp). Técnico em Informática pela Escola Aristóteles Ferreira (ETEC-AF).   
+Antropólogo, produtor cultural e artista multimídia. Doutorando e Mestre em Antropologia Social pela Universidade Federal de Santa Catarina (PPGAS/UFSC). Graduado no Bacharelado e Licenciatura em Ciências Sociais pela Universidade Estadual Paulista (Unesp). Técnico em Informática pela Escola Aristóteles Ferreira (ETEC-AF).   
 [brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](http://www.brennodemarchi.art.br)
 
 ---
