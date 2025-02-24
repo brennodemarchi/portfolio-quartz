@@ -11,7 +11,7 @@ indentation: "1"
 
 ![[video-umossoquecai-festivaldominuto-fev2025-1.png| 600]]
 
-<iframe title="Um Osso que Cai" src="https://www.festivaldominuto.com.br/pt-BR/contents/56005" height="560" width="600"></iframe>
+<iframe src="https://www.festivaldominuto.com.br/pt-BR/contents/56005" height="560" width="600" allowfullscreen></iframe>
 
 **Disponível em:** https://festivaldominuto.com.br/pt-BR/contents/56005
 
