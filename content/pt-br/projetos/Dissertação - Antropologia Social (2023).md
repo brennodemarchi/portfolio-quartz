@@ -2,7 +2,9 @@
 indentation: "2"
 ---
 
-![[dissertacao-brennodemarchi.png|700]]Disponível em: https://repositorio.ufsc.br/handle/123456789/247633.
+![[dissertacao-brennodemarchi-ppgas-ufsc-2023-pt-br.png|600]]
+
+Disponível em: https://repositorio.ufsc.br/handle/123456789/247633.
 
 # Resumo
 
