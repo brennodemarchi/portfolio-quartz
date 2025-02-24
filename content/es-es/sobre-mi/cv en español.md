@@ -100,6 +100,10 @@ Coordinado por el Prof. Dr. Paulo Eduardo Teixeira y la Prof. Dra. Maria Leandra
 
 Coordinado por el Prof. Dr. Adrian Oscar Dongo Montoya y el Prof. Dr. Ricardo Pereira Tassinari. El programa está vinculado al Departamento de Psicología de la Educación, Facultad de Filosofía y Ciencias, Universidad del Estado de São Paulo (Marília, São Paulo, Brasil) y registrado en la base de datos CNPq: http://www.dgp.cnpq.br/dgp/espelhogrupo/9960155130261480.
 
+### 2020 - 2021 | Grupo de Investigación CUAL - Comunes Urbanos en América Latina
+
+Coordinado por las Profs.ª Drs.ª Maria Carolina Maziviero y Marina Toneli Siqueira. El grupo está vinculado a la Universidad Federal de Paraná (UFPR), pero cuenta con asociaciones con otras universidades como la Universidad Federal de Santa Catarina (UFSC), la Universidad de São Paulo (USP), la Universidad Federal de São Carlos (UFSCAR/Sorocaba), la Universidad São Judas Tadeo (USJT), la Facultad de Arquitectura y Urbanismo de Mackenzie, entre otras. El grupo está registrado en el directorio del CNPq: [http://dgp.cnpq.br/dgp/espelhogrupo/678953](http://dgp.cnpq.br/dgp/espelhogrupo/678953). También es posible consultar más información en el siguiente enlace: [https://pt.wikiversity.org/wiki/Comum_-_Grupo_de_Estudos](https://pt.wikiversity.org/wiki/Comum_-_Grupo_de_Estudos).
+
 ---
 # Formación Continua y Entrenamiento Profesional
 

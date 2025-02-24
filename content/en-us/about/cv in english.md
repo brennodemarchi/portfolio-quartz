@@ -102,6 +102,10 @@ Coordinated by Prof. Dr. Paulo Eduardo Teixeira and Prof. Dr. Maria Leandra Bize
 
 Coordinated by Profs. Drs. Adrian Oscar Dongo Montoya and Ricardo Pereira Tassinari. The is linked to the Department of Educational Psychology (Unesp-FFC, Marília-SP) and registered in CNPq database: http://www.dgp.cnpq.br/dgp/espelhogrupo/9960155130261480.
 
+### 2020 - 2021 | Research Group CUAL - Urban Commons in Latin America
+
+Coordinated by Profs. Drs. Maria Carolina Maziviero and Marina Toneli Siqueira. The group is affiliated with the Federal University of Paraná (UFPR) but collaborates with other universities such as the Federal University of Santa Catarina (UFSC), the University of São Paulo (USP), the Federal University of São Carlos (UFSCAR/Sorocaba), São Judas Tadeu University (USJT), the Mackenzie School of Architecture and Urbanism, among others. The group is registered in the CNPq directory: [http://dgp.cnpq.br/dgp/espelhogrupo/678953](http://dgp.cnpq.br/dgp/espelhogrupo/678953). More information can also be found at the following link: [https://pt.wikiversity.org/wiki/Comum_-_Grupo_de_Estudos](https://pt.wikiversity.org/wiki/Comum_-_Grupo_de_Estudos).
+
 ---
 # Continuing Education and Professional Training
 

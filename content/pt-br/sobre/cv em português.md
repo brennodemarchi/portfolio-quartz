@@ -97,11 +97,15 @@ Este grupo de pesquisa tem por objetivo fomentar o uso e a produção de materia
 
 #### 2020 - Atual | Grupo de Estudos de Imagem, Fotografia e Cinema - GEI
 
-Coordenado pelo Prof. Dr. Paulo Eduardo Teixeira e pela Profª. Drª. Maria Leandra Bizello, vinculado com o Departamento de Ciências Políticas e Econômicas (Unesp-FFC, Marília-SP) e cadastrado no CNPq: http://www.dgp.cnpq.br/dgp/espelhogrupo/3011092794865160
+Coordenado pelo Prof. Dr. Paulo Eduardo Teixeira e pela Profª. Drª. Maria Leandra Bizello, vinculado com o Departamento de Ciências Políticas e Econômicas (Unesp-FFC, Marília-SP) e cadastrado no diretório do CNPq: http://www.dgp.cnpq.br/dgp/espelhogrupo/3011092794865160
 
 ### 2018 - Atual | Grupo de Estudo e Pesquisa em Epistemologia Genética e Educação - GEPEGE
 
-Coordenado pelo Profs. Drs. Adrian Oscar Dongo Montoya e Ricardo Pereira Tassinari. O está vinculado com o Departamento de Psicologia da Educação (Unesp-FFC, Marília-SP) e cadastrado no CNPq: http://www.dgp.cnpq.br/dgp/espelhogrupo/9960155130261480.
+Coordenado pelo Profs. Drs. Adrian Oscar Dongo Montoya e Ricardo Pereira Tassinari. O grupo está vinculado com o Departamento de Psicologia da Educação (Unesp-FFC, Marília-SP) e cadastrado no diretório do CNPq: http://www.dgp.cnpq.br/dgp/espelhogrupo/9960155130261480.
+
+### 2020 - 2021 | Grupo de Pesquisa CUAL - Comuns Urbanos na América Latina
+
+Coordenado pelas Profs.ª Drs.ª Maria Carolina Maziviero e Marina Toneli Siqueira. O grupo tem vínculo com a Universidade Federal do Paraná (UFPR), mas tem parceria com outras universidades como a Universidade Federal de Santa Catarina (UFSC), a Universidade de São Paulo (USP), a Universidade Federal de São Carlos (UFSCAR/Sorocaba), a Universidade São Judas Tadeu (USJT), a Faculdade de Arquitetura e Urbanismo da Mackenzie, dentre outras. O grupo tem cadastro no diretório do CNPq: http://dgp.cnpq.br/dgp/espelhogrupo/678953. Também é possível conferir mais informações no seguinte link: https://pt.wikiversity.org/wiki/Comum_-_Grupo_de_Estudos.
 
 ---
 # Educação Continuada & Treinamentos Profissionais
