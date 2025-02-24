@@ -1,14 +1,14 @@
 ---
 indentation: "1"
 ---
-
 > [!Example] Menú de Navegación
-> [[index-es-es|Inicio]] [[publicaciones|Publicaciones]] [[producciones audiovisuales|Producciones Audiovisuales]] [[acciones educativas|Acciones Educativas]] [[investigaciones|Investigaciones]] [[contacto|Contacto]]
+> [[index-es-es|Inicio]] [[publicaciones|Publicaciones]] [[producciones audiovisuales|Producciones Audiovisuales]] [[acciones educativas|Acciones Educativas]] [[investigaciones|Investigaciones]] [[código y tecnología|Código y Tecnología]] [[contacto|Contacto]]
+
 
 ---
 
 Antropólogo, productor cultural y artista multimedia. Actualmente cursando un doctorado en Antropología Social en la Universidad Federal de Santa Catarina, donde también obtuve un Máster en Antropología Social. Título de Bachiller y Licencia de Enseñanza en Ciencias Sociales por la Universidade Estadual Paulista (Unesp). Técnico de Grado Medio en Informática en la Escuela Técnica Aristóteles Ferreira (ETEC-AF).   
-[brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](http://www.brennodemarchi.art.br)
+[brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](https://www.brennodemarchi.art.br)
 
 ---
 # Idiomas

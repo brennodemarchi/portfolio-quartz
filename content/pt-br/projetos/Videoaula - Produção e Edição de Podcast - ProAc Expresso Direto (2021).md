@@ -27,5 +27,5 @@ Brenno Brandalise Demarchi
 
 # Na Mídia
 
-![[oficinapodcast-proac-3.png]]
+![[oficina-podcast-proac-3.png]]
 Disponível em: https://www.instagram.com/p/Cp1NLL0IOZs/

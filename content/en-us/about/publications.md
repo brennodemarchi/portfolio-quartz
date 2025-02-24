@@ -3,7 +3,7 @@ indentation: "1"
 ---
 
 > [!Example] Menu
-> [[index-en-us|Home]]   [[cv in english|CV]]    [[audiovisual productions|Audiovisual]]    [[educational initiatives|Educational Initiatives]] [[research|Research]] [[contact|Contact Me]]
+> [[index-en-us|Home]]   [[cv in english|CV]]    [[audiovisual productions|Audiovisual]]    [[educational initiatives|Educational Initiatives]] [[research|Research]] [[coding and technology|Coding and Technology]] [[contact|Contact Me]]
 
 
 # 2024

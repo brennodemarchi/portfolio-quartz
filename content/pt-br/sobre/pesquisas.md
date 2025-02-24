@@ -2,7 +2,7 @@
 indentation: "1"
 ---
 > [!Example] Menu
-> [[index-pt-br|Início]] [[cv em português|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[ações educativas|Ações Educativas]]  [[contato|Contato]]
+> [[index-pt-br|Início]] [[cv em português|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[ações educativas|Ações Educativas]] [[códigos e tecnologia|Códigos e Tecnologia]] [[contato|Contato]]
 
 
 > [!text] Eixos temáticos de interesse

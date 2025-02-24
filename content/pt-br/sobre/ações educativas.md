@@ -2,7 +2,7 @@
 indentation: "1"
 ---
 > [!Example] Menu
-> [[index-pt-br|Início]] [[cv em português|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[pesquisas|Pesquisas]] [[contato|Contato]]
+> [[index-pt-br|Início]] [[cv em português|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[pesquisas|Pesquisas]] [[códigos e tecnologia|Códigos e Tecnologia]] [[contato|Contato]]
 
 # 2025
 

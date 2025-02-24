@@ -3,7 +3,7 @@ indentation: "1"
 ---
 
 > [!Example] Menu
-> [[index-en-us|Home]]   [[cv in english|CV]]    [[publications|Publications]]   [[audiovisual productions|Audiovisual]]    [[educational initiatives|Educational Initiatives]]  [[contact|Contact Me]]
+> [[index-en-us|Home]]   [[cv in english|CV]]    [[publications|Publications]]   [[audiovisual productions|Audiovisual]]    [[educational initiatives|Educational Initiatives]] [[coding and technology|Coding and Technology]]  [[contact|Contact Me]]
 
 
 > [!text] Axes of thematic interest 

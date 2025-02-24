@@ -3,13 +3,13 @@ indentation: "1"
 ---
 
 > [!Example] Menu
-> [[index-en-us|Home]]  [[publications|Publications]]   [[audiovisual productions|Audiovisual]]  [[educational initiatives|Educational Initiatives]] [[research|Research]] [[contact|Contact Me]]
+> [[index-en-us|Home]]  [[publications|Publications]]   [[audiovisual productions|Audiovisual]]  [[educational initiatives|Educational Initiatives]] [[research|Research]] [[coding and technology|Coding and Technology]]  [[contact|Contact Me]]
 
 
 ---
    
 Anthropologist, Cultural Producer and Multimedia Artist. Currently enrolling a Ph.D. in Social Anthropology in the Federal University of Santa Catarina. I also hold a Master's degree in Social Anthropology from the Federal University of Santa Catarina. Bachelor's degrees in Social Sciences from São Paulo State University (Unesp - Marília, São Paulo, Brazil), both in Social Sciences and in Teaching. Technical degree in Informatics from Aristóteles Ferreira Technical School (ETEC-AF - Santos, São Paulo, Brazil).   
-[brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](http://www.brennodemarchi.art.br)
+[brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](https://www.brennodemarchi.art.br)
 
 ---
 # Languages

@@ -28,5 +28,5 @@ Brenno Brandalise Demarchi
 
 #  En los medios de comunicación
 
-![[oficinapodcast-proac-3.png]]
+![[oficina-podcast-proac-3.png]]
 Disponible en Portugués de Brasil en: https://www.instagram.com/p/Cp1NLL0IOZs/

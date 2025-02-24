@@ -2,14 +2,15 @@
 indentation: "1"
 ---
 > [!Example] Menú de Navegación
-> [[index-es-es|Inicio]] [[cv en español|CV]]  [[publicaciones|Publicaciones]]  [[acciones educativas|Acciones Educativas]]  [[investigaciones|Investigaciones]] [[contacto|Contacto]]
+> [[index-es-es|Inicio]] [[cv en español|CV]]  [[publicaciones|Publicaciones]]  [[acciones educativas|Acciones Educativas]]  [[investigaciones|Investigaciones]] [[código y tecnología|Código y Tecnología]] [[contacto|Contacto]]
 
----
+
+
 # 2025
 
 ## Um Osso que Cai (Un Hueso que Cae)
 
-![[umossoquecai-festivaldominuto-fev2025-1.png | 600]]
+![[video-umossoquecai-festivaldominuto-fev2025-1.png| 600]]
 
 <iframe title="Um Osso que Cai" src="https://www.festivaldominuto.com.br/pt-BR/contents/56005" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 

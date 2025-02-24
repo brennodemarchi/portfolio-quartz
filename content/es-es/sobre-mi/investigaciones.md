@@ -2,7 +2,7 @@
 indentation: "1"
 ---
 > [!Example] Menú de Navegación
-> [[index-es-es|Inicio]] [[cv en español|CV]]  [[publicaciones|Publicaciones]] [[producciones audiovisuales|Producciones Audiovisuales]] [[acciones educativas|Acciones Educativas]]  [[contacto|Contacto]]
+> [[index-es-es|Inicio]] [[cv en español|CV]]  [[publicaciones|Publicaciones]] [[producciones audiovisuales|Producciones Audiovisuales]] [[acciones educativas|Acciones Educativas]] [[código y tecnología|Código y Tecnología]] [[contacto|Contacto]]
 
 
 

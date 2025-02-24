@@ -4,8 +4,8 @@ indentation: "0"
 ---
 
 > [!Example] Menú de Navegación
-> [[index-es-es|Inicio]] [[cv en español|CV]]  [[publicaciones|Publicaciones]] [[producciones audiovisuales|Producciones Audiovisuales]] [[talleres y cursos|Acciones Educativas]]  
-> [[investigaciones|Investigaciones]] [[contacto|Contacto]]
+> [[index-es-es|Inicio]] [[cv en español|CV]]  [[publicaciones|Publicaciones]] [[producciones audiovisuales|Producciones Audiovisuales]] [[acciones educativas|Acciones Educativas]]  
+> [[investigaciones|Investigaciones]] [[código y tecnología|Código y Tecnología]] [[contacto|Contacto]]
 
 # ¡Hola, mi nombre es Brenno Brandalise Demarchi, qué bueno verte por aquí!
 

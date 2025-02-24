@@ -3,14 +3,14 @@ indentation: "1"
 ---
 
 > [!Example] Menu
-> [[index-en-us|Home]]   [[cv in english|CV]]    [[publications|Publications]]  [[educational initiatives|Educational Initiatives]] [[research|Research]] [[contact|Contact Me]]
+> [[index-en-us|Home]]   [[cv in english|CV]]    [[publications|Publications]]  [[educational initiatives|Educational Initiatives]] [[research|Research]] [[coding and technology|Coding and Technology]] [[contact|Contact Me]]
 
 ---
 
 # 2025
 ### Um Osso que Cai (A Bone That Falls)
 
-![[umossoquecai-festivaldominuto-fev2025-1.png | 600]]
+![[video-umossoquecai-festivaldominuto-fev2025-1.png| 600]]
 
 <iframe title="Um Osso que Cai" src="https://www.festivaldominuto.com.br/pt-BR/contents/56005" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 

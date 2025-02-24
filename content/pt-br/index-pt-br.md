@@ -5,7 +5,7 @@ indentation: "0"
 
 > [!Example] Menu
 > [[index-pt-br|Início]] [[cv em português|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[ações educativas|Ações Educativas]]  
-> [[pesquisas|Pesquisas]] [[contato|Contato]]
+> [[pesquisas|Pesquisas]] [[códigos e tecnologia|Códigos e Tecnologia]]  [[contato|Contato]]
 
 # Olá, eu me chamo Brenno Brandalise Demarchi, que bom te ver por aqui!
 

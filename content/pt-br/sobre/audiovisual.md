@@ -2,16 +2,16 @@
 indentation: "1"
 ---
 > [!Example] Menu
-> [[index-pt-br|Início]] [[cv em português|Currículo]]  [[publicações|Publicações]] [[ações educativas|Ações Educativas]] [[pesquisas|Pesquisas]] [[contato|Contato]]
+> [[index-pt-br|Início]] [[cv em português|Currículo]]  [[publicações|Publicações]] [[ações educativas|Ações Educativas]] [[pesquisas|Pesquisas]] [[códigos e tecnologia|Códigos e Tecnologia]] [[contato|Contato]]
 
 ---
 # 2025
 
 ## Um Osso que Cai
 
-![[umossoquecai-festivaldominuto-fev2025-1.png | 600]]
+![[video-umossoquecai-festivaldominuto-fev2025-1.png| 600]]
 
-<iframe title="Um Osso que Cai" src="https://www.festivaldominuto.com.br/pt-BR/contents/56005" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe title="Um Osso que Cai" src="https://www.festivaldominuto.com.br/pt-BR/contents/56005" height="560" width="600"></iframe>
 
 ### Sinopse 
 
@@ -27,7 +27,7 @@ Equipe: Nemo (Cachorro)
 **Cor:** Colorido
 **Origem:** Brasil
 **Ano de Produção:** 2025 
-**Gênero:** Ficção  
+**Gênero:** Ficção
 **Duração:** 1min
 **Classificação indicativa:** Livre
 **Distribuição:** Festival do Minuto - TEMA LIVRE - DEZ/JAN/FEV 2024-25, 2025
@@ -109,13 +109,13 @@ Victor Brasil
 ### Ficha Técnica
 
 **Cor filmada:** colorida  
-**Origem:** Irlanda e Brasil  
+**Origem:** Irlanda e Brasil
 **Ano de produção:** 2020  
-**Gênero:** documentário  
-**Duração:** 8m16s  
+**Gênero:** documentário
+**Duração:** 8m16s
 **Classificação:** livre
 **Distribuição:** Nupepa/ImaRgens/USP
-**Disponível em:** https://www.youtube.com/watch?v=w-zDKlyX9T4. 
+**Disponível em:** https://www.youtube.com/watch?v=w-zDKlyX9T4
 
 ### Exibições e Premiações
 
