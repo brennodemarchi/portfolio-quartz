@@ -13,6 +13,8 @@ indentation: "1"
 
 <iframe title="Um Osso que Cai" src="https://www.festivaldominuto.com.br/pt-BR/contents/56005" height="560" width="600"></iframe>
 
+**Disponível em:** https://festivaldominuto.com.br/pt-BR/contents/56005
+
 ### Sinopse 
 
 Um osso cai inexplicavelmente do céu e um cachorro começa a devorá-lo, sem saber de onde veio ou o que isso pode significar.
@@ -24,14 +26,13 @@ Equipe: Nemo (Cachorro)
 
 ### Ficha Técnica
 
-**Cor:** Colorido
-**Origem:** Brasil
-**Ano de Produção:** 2025 
-**Gênero:** Ficção
-**Duração:** 1min
-**Classificação indicativa:** Livre
-**Distribuição:** Festival do Minuto - TEMA LIVRE - DEZ/JAN/FEV 2024-25, 2025
-**Disponível em:** https://festivaldominuto.com.br/pt-BR/contents/56005
+- **Cor:** Colorido
+- **Origem:** Brasil
+- **Ano de Produção:** 2025 
+- **Gênero:** Ficção
+- **Duração:** 1min
+- **Classificação indicativa:** Livre
+- **Distribuição:** Festival do Minuto - TEMA LIVRE - DEZ/JAN/FEV 2024-25, 2025
 
 ### Equipamentos
 
@@ -45,27 +46,29 @@ Objetiva: Canon EF-S 18-55mm f/3.5-5.6 IS STM
 ## Chico Voltou Só
 
 <iframe title="Meu Olhar apresenta &quot;Chico Voltou Só&quot;, de Douglas Gadelha Sá" src="https://www.youtube.com/embed/eyckuFLYndw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+**Disponível em:** https://www.youtube.com/watch?v=eyckuFLYndw
+
 ### Sinopse 
 
 O documentário reflete sobre a trajetória de um operário nordestino em meio a ditadura militar na cidade de Cubatão (SP), através de imagens e vídeos de arquivo inéditos.
 
 ### Créditos
 
-**Direção, Argumento e Pesquisa:** Douglas Gadelha Sá
-**Direção de Fotografia:** Rodrigo Samia
-**Montagem:** Leandro Olimpio
-**Mixagem e Som:** Brenno Brandalise Demarchi
+- **Direção, Argumento e Pesquisa:** Douglas Gadelha Sá
+- **Direção de Fotografia:** Rodrigo Samia
+- **Montagem:** Leandro Olimpio
+- **Mixagem e Som:** Brenno Brandalise Demarchi
 
 ### Ficha Técnica
 
-**Cor:** Preto e Branco
-**Origem:** Brasil
-**Ano de Produção:** 2023  
-**Gênero:** Documentário  
-**Duração:** 5min
-**Classificação indicativa:** Livre
-**Distribuição:** Globo Play & Canal Futura
-**Disponível em:** https://www.youtube.com/watch?v=eyckuFLYndw
+- **Cor:** Preto e Branco
+- **Origem:** Brasil
+- **Ano de Produção:** 2023  
+- **Gênero:** Documentário  
+- **Duração:** 5min
+- **Classificação indicativa:** Livre
+- **Distribuição:** Globo Play & Canal Futura
 
 ### Exibições e Premiações
 
@@ -82,6 +85,8 @@ Mais informações [[Documentário - Chico Voltou Só (2023)|neste link]].
 ## Um Fone no Ouvido e o Outro na Cidade
 
 <iframe title="Um Ouvido no Fone e o Outro na Cidade - Mustela - filme resultante da 7ª Oficina do NUPEPA/ImaRgens" src="https://www.youtube.com/embed/u8w5tb4R1hc?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+**Disponível em:** https://www.youtube.com/watch?v=w-zDKlyX9T4
 
 ### Sinopse 
 
@@ -108,14 +113,13 @@ Victor Brasil
 
 ### Ficha Técnica
 
-**Cor filmada:** colorida  
-**Origem:** Irlanda e Brasil
-**Ano de produção:** 2020  
-**Gênero:** documentário
-**Duração:** 8m16s
-**Classificação:** livre
-**Distribuição:** Nupepa/ImaRgens/USP
-**Disponível em:** https://www.youtube.com/watch?v=w-zDKlyX9T4
+- **Cor filmada:** colorida  
+- **Origem:** Irlanda e Brasil
+- **Ano de produção:** 2020  
+- **Gênero:** documentário
+- **Duração:** 8m16s
+- **Classificação:** livre
+- **Distribuição:** Nupepa/ImaRgens/USP
 
 ### Exibições e Premiações
 
@@ -128,6 +132,10 @@ Mais informações [[Documentário - Um Fone no Ouvido e o Outro na Cidade (2020
 ## Poemas Soprados Pelo Vento Noroeste
 
 <iframe title="Poemas soprados pelo vento noroeste" src="https://www.youtube.com/embed/uufGfdThMHk?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+**Disponível em:** 
+Youtube: https://www.youtube.com/watch?v=uufGfdThMHk 
+Spotify: https://open.spotify.com/episode/5Xja2CWPD4MDux6iViGXXI?go=1&sp_cid=780325d8f007aadc0f84744a9071d81d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=18b5caccb0274c13 
 
 ### Sobre
 
@@ -142,18 +150,13 @@ Fiquei responsável pela direção, som direto e edição de vídeo e som, resul
 
 ### Ficha Técnica
 
-**Cor filmada:** colorida  
-**Origem:** Brasil
-**Ano de produção:** 2021 
-**Gênero:** Vídeo-Ensaio  
-**Duração:** 23m50s  
-**Classificação:** livre
-**Distribuição:** Youtube/Spotify
-
-**Disponível em:** 
-Youtube: https://www.youtube.com/watch?v=uufGfdThMHk 
-Spotify: https://open.spotify.com/episode/5Xja2CWPD4MDux6iViGXXI?go=1&sp_cid=780325d8f007aadc0f84744a9071d81d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=18b5caccb0274c13 
-
+- **Cor filmada:** colorida  
+- **Origem:** Brasil
+- **Ano de produção:** 2021 
+- **Gênero:** Vídeo-Ensaio  
+- **Duração:** 23m50s  
+- **Classificação:** livre
+- **Distribuição:** Youtube/Spotify
 
 Mais informações [[Vídeo - Poemas Soprados pelo Vento Noroeste - Ademir Demarchi (2021)|neste link]].
 
@@ -163,7 +166,8 @@ Mais informações [[Vídeo - Poemas Soprados pelo Vento Noroeste - Ademir Demar
 ## Inclusive - Redes Comunitárias para Ambientes Virtuais de Aprendizagem
 
 ![[inclusive-redescomunitariasava5 1.png]]
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x3ezYRKeA84?si=LyTd_hvuRVb4das9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Disponível em:** https://www.youtube.com/watch?v=x3ezYRKeA84
 
 ### Sinopse
 
@@ -187,14 +191,13 @@ Vídeo institucional produzido para o projeto “Inclusive – Redes Comunitári
 
 ### Ficha Técnica
 
-**Cor:** colorida  
-**Origem:** Brasil
-**Ano de produção:** 2020
-**Gênero:** Vídeo Institucional 
-**Duração:** 6min  
-**Classificação:** livre
-**Distribuição:** Youtube
-**Disponível em:** https://www.youtube.com/watch?v=x3ezYRKeA84
+- **Cor:** colorida  
+- **Origem:** Brasil
+- **Ano de produção:** 2020
+- **Gênero:** Vídeo Institucional 
+- **Duração:** 6min  
+- **Classificação:** livre
+- **Distribuição:** Youtube
 
 Mais informações [[Vídeo Institucional - Inclusive (2020)|neste link]].
 
@@ -204,7 +207,14 @@ Mais informações [[Vídeo Institucional - Inclusive (2020)|neste link]].
 
 <iframe src="https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
-PODCAST DE MARTE: Um podcast narrativo para refletirmos criticamente sobre a nossa sociedade. Produção, pesquisa, roteiro, host e edição: Brenno Brandalise Demarchi. 
+**Disponível em:**
+**Feed RSS:** [https://anchor.fm/s/9bd587c/podcast/rss](https://anchor.fm/s/9bd587c/podcast/rss)
+**Spotify:** https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE
+**iTunes:** https://podcasts.apple.com/us/podcast/podcast-de-marte/id1489768981?uo=4
+**Google Podcasts:** https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85YmQ1ODdjL3BvZGNhc3QvcnNz
+**CastBox:** https://castbox.fm/channel/Podcast-de-Marte-id2451350?country=br
+**RadioPublic (pelo navegador):** https://radiopublic.com/podcast-de-marte-WozrLy/episodes
+**Linktree:** https://linktr.ee/podcastdemarte. 
 
 ### Sinopse 
 
@@ -216,19 +226,10 @@ Um podcast narrativo para refletirmos criticamente sobre a nossa sociedade.
 
 ### Ficha Técnica
 
-**Origem:** Brasil
-**Ano de produção:** 2019-2022 
-**Gênero:** Podcast  
-**Classificação:** livre
-**Distribuição:** Spotify/iTunes/CastBox/Google Podcasts
-
-**Disponível em:**
-**Feed RSS:** [https://anchor.fm/s/9bd587c/podcast/rss](https://anchor.fm/s/9bd587c/podcast/rss)
-**Spotify:** https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE
-**iTunes:** https://podcasts.apple.com/us/podcast/podcast-de-marte/id1489768981?uo=4
-**Google Podcasts:** https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85YmQ1ODdjL3BvZGNhc3QvcnNz
-**CastBox:** https://castbox.fm/channel/Podcast-de-Marte-id2451350?country=br
-**RadioPublic (pelo navegador):** https://radiopublic.com/podcast-de-marte-WozrLy/episodes
-**Linktree:** https://linktr.ee/podcastdemarte. 
+- **Origem:** Brasil
+- **Ano de produção:** 2019-2022 
+- **Gênero:** Podcast  
+- **Classificação:** livre
+- **Distribuição:** Spotify/iTunes/CastBox/Google Podcasts
 
 Mais informações [[Podcast de Marte|neste link]].
