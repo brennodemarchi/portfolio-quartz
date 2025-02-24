@@ -16,8 +16,8 @@
 
 ## Available at
 
-**Live View:** https://links.brennodemarchi.art.br
-**Github Repository:** https://github.com/brennodemarchi/portfolio-links
+- **Live View:** https://links.brennodemarchi.art.br
+- **Github Repository:** https://github.com/brennodemarchi/portfolio-links
 
 
 ---
@@ -34,5 +34,5 @@
 
 ## Available at
 
-**Live View:** https://www.brennodemarchi.art.br
-**Github Repository:** https://github.com/brennodemarchi/portfolio-quartz
+- **Live View:** https://www.brennodemarchi.art.br
+- **Github Repository:** https://github.com/brennodemarchi/portfolio-quartz

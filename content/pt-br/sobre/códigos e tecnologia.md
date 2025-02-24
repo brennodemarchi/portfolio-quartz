@@ -19,8 +19,8 @@
 
 ## Acesso
 
-* ***Visualização:** https://links.brennodemarchi.art.br
-* ***Repositório no Github:** https://github.com/brennodemarchi/portfolio-links
+* **Visualização:** https://links.brennodemarchi.art.br
+* **Repositório no Github:** https://github.com/brennodemarchi/portfolio-links
 
 
 ---
@@ -37,5 +37,5 @@
 
 ## Acesso 
 
-* ***Visualização:** https://www.brennodemarchi.art.br
-* ***Repositório no Github:** https://github.com/brennodemarchi/portfolio-quartz
+* **Visualização:** https://www.brennodemarchi.art.br
+* **Repositório no Github:** https://github.com/brennodemarchi/portfolio-quartz
