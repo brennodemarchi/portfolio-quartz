@@ -3,7 +3,7 @@ indentation: "2"
 ---
 # About
 
-The workshop "**How to Create a Digital Garden with Your Ideas in Obsidian**" aimed to introduce participants to the possibilities of using the **Obsidian** software for creating portfolios, artistic practices, RPG campaigns, mappings, or even academic research.
+The workshop _"How to Create a Digital Garden with Your Ideas in Obsidian"_ was selected in the call for proposals for the _"9th Edition of Experimenta"_ by the Secretariat of Culture, Arts, and Sports of UFSC (SeCArtE/UFSC) and aimed to provide participants with an introduction to the possibilities of using the **Obsidian** software for creating portfolios, artistic practices, RPG campaigns, cartographies, or even academic research.
 
 # Methodology Approach
 

@@ -17,17 +17,15 @@ In it, I presented my doctoral research, addressing the initial proposal for the
 
 ## How to Create a Digital Garden with Your Ideas in Obsidian (Call for Proposals 9th Edition of Experimenta - Department of Arts and Culture at the Federal University of Santa Catarina, Brazil)
 
-The workshop "How to Create a Digital Garden with Your Ideas in Obsidian" aims to promote the process of creating a digital garden and make its use easier, linked to note-taking and summarizing practices using the Obsidian software. 
+The workshop _"How to Create a Digital Garden with Your Ideas in Obsidian"_ was selected in the call for proposals for the _"9th Edition of Experimenta"_ by the Secretariat of Culture, Arts, and Sports of UFSC (SeCArtE/UFSC) and aimed to provide participants with an introduction to the possibilities of using the **Obsidian** software for creating portfolios, artistic practices, RPG campaigns, cartographies, or even academic research.
 
-A digital garden is a network of interconnected thoughts and ideas, grouped according to the way the summaries and notes relate to each other. As a non-linear and non-hierarchical organizational system of thought and creativity, the digital garden offers an alternative to conventional methods of archiving, researching, and visualizing various information, and can be used for creating portfolios, artistic practices, RPG campaigns, mappings, or even academic research. 
-
-Participants in the workshop will be able to interconnect different concepts, ideas, and categories by spatializing them as nodes in a mesh (network maps or graphs). The digital gardens created in the workshop can be published online for free and later cultivated by the creators. 
+Participants in the workshop were able to interconnect different concepts, ideas, and categories by spatializing them into nodes within a network (network or graph maps), using the tool for creating portfolios, artistic practices, RPG campaigns, cartographies, or academic research. The digital gardens created during the workshop can be published online for free and further cultivated by those who created/conceived them.
 
 More information [[Obsidian Workshop - How to Create a Digital Garden with Your Ideas in Obsidian - Secarte UFSC 2024|click here]].
 
 ## Obsidian: Managing Knowledge and Cultivating Digital Gardens (Module 2)
 
-The workshop "Obsidian: Managing Knowledge and Cultivating Digital Gardens (Module 2)" aimed to empower participants to master advanced techniques for personal knowledge management and the creation of digital gardens in Obsidian by using plugins, automations, and integrations that expand the software's functionalities, transforming it into a powerful tool for organization, creativity, and productivity in various contexts.
+The workshop _"Obsidian: Managing Knowledge and Cultivating Digital Gardens (Module 2)"_, aimed at students of the Graduate Program in Architecture and Urbanism at the Federal University of Santa Catarina (Pós-Arq/UFSC), sought to train participants in the use of advanced techniques for personal knowledge management and the creation of digital gardens in Obsidian, utilizing plugins, automations, and integrations that expand the software's functionalities, turning it into a powerful tool for organization, creativity, and productivity in diverse contexts.
 
 In this module, we covered the use of **Toggl Track** (time tracking), **Mind Map** (mind maps), **%Waypoint%** (summaries), **Excalidraw** (diagrams and flowcharts), **%Templater%** (advanced automations and templates), **Obsidian Copilot** (AI integration into the vault), **Dataview** (advanced tables), **Zotero Integration** and **BetterBibTex** (integrating notes from Zotero), **Pandoc Reference List** (creating reference lists), **File Info Panel** (word count and page estimation), and finally, the **Export Settings** plugin (exporting markdown files to DOCX or ODT).
 
@@ -35,7 +33,7 @@ In this module, we covered the use of **Toggl Track** (time tracking), **Mind
 
 ## A recorded video class with the theme  "How to produce and edit your podcast" (supported with Brazilian public funds from the "*ProAc Expresso Direto nº39/2021*" notice)
 
-The video lesson "How to produce and edit your podcast" was produced and distributed free of charge in return for the award given by the Secretariat of Culture and Creative Economy of the Government of the State of São Paulo through "*ProAc Expresso Direto no. 39/2021*", a Brazilian public notice to provide public funds for cultural projects to professionals in the creative cultural sector through a selection made by an examining board. 
+In the video class "How to Produce and Edit Your Podcast", I aimed to explain all the stages - from pre to post-production - for those who wish to produce their podcast with quality and without needing many resources. It serves as a counterpart for the prize given by the Secretariat of Culture and Creative Economy of the State Government of São Paulo through "ProAc Expresso Direto n.º 39/2021", to professionals in the creative cultural sector.
 
 For more info [[Video Class - Podcast Production and Edition - ProAc Expresso Direto (2021)|click here]].
 
