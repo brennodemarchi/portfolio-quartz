@@ -13,7 +13,7 @@ After enabling `generateSocialImages` in `quartz.config.ts`, the social media li
 | ----------------------------------- | ---------------------------------- |
 | ![[social-image-preview-light.png]] | ![[social-image-preview-dark.png]] |
 
-For testing, it is recommended to use [opengraph.xyz](https://www.opengraph.xyz/) to see what the link to your page will look like on various platforms (more info under [[social images#local testing]]).
+For testing, it is recommended to use [opengraph.xyz](https://www..xyz/) to see what the link to your page will look like on various platforms (more info under [[social images#local testing]]).
 
 ## Customization
 
