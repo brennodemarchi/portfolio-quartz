@@ -13,7 +13,7 @@ indentation: "0"
 
 > [!text] Esto no es un CV, aunque lo sea
 
-Inspirado en los principios de los [[Jardins Digitais|jardines digitales (digital gardens)]], me gustaría que mi sitio web fuera una representación viva de los trabajos que he estado desarrollando en lugar de una página estática que difícilmente me describiría.
+Inspirado en los principios de los [[content/pt-br/pesquisas/Jardins Digitais/Jardins Digitais|jardines digitales (digital gardens)]], me gustaría que mi sitio web fuera una representación viva de los trabajos que he estado desarrollando en lugar de una página estática que difícilmente me describiría.
 
 Soy un antropólogo inquieto que deambula, experimenta y busca comprender diferentes temas, técnicas y perspectivas desde enfoques interdisciplinarios que parten de las ciencias humanas y sociales y atraviesan otros campos del conocimiento.
 

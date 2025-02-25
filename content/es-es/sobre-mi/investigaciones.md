@@ -26,12 +26,12 @@ Aunque la lista es larga, mis intereses y proyectos de investigación se circuns
 > [!faq] Jardín Digital 
 > (En este momento, disponible solo en Portugués de Brasil)
 
-* [[Antropologia das Infraestruturas|Antropología de las Infraestructuras]]
+* [[content/pt-br/pesquisas/Antropologia das Infraestruturas/Antropologia das Infraestruturas|Antropología de las Infraestructuras]]
 - [[Antropologia do Som e Etnografias Sonoras | Antropología del Sonido y Etnografías Sonoras]]
 - [[Etnografar a ecologia dos jogos | Etnografía de la ecología de los juegos]]
-- [[Etnografias Multiespécies | Etnografías Multiespecies]]
-- [[Jardins Digitais | Jardines Digitales]]
-- [[Metodologias de Autogestão | Metodologías de Autogestión]]
+- [[content/pt-br/pesquisas/Etnografias Multiespécies/Etnografias Multiespécies| Etnografías Multiespecies]]
+- [[content/pt-br/pesquisas/Jardins Digitais/Jardins Digitais| Jardines Digitales]]
+- [[content/pt-br/pesquisas/Metodologias de Autogestão/Metodologias de Autogestão| Metodologías de Autogestión]]
 
 
 
