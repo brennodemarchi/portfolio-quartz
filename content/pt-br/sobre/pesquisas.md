@@ -2,7 +2,7 @@
 indentation: "1"
 ---
 > [!Example] Menu
-> [[index-pt-br|Início]] [[cv em português|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[ações educativas|Ações Educativas]] [[códigos e tecnologia|Códigos e Tecnologia]] [[contato|Contato]]
+> [[index-pt-br|Início]] [[cv em português|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[ações educativas|Ações Educativas]]  [[contato|Contato]]
 
 
 > [!text] Eixos temáticos de interesse
@@ -25,12 +25,12 @@ Apesar de ser uma lista extensa, meus interesses de pesquisas e projetos permeia
 
 >[!faq] Jardim Digital
 
-* [[content/pt-br/pesquisas/Antropologia das Infraestruturas/Antropologia das Infraestruturas]] 
+* [[Antropologia das Infraestruturas]] 
 * [[Antropologia do Som e Etnografias Sonoras]] 
 * [[Etnografar a ecologia dos jogos]] 
-* [[content/pt-br/pesquisas/Etnografias Multiespécies/Etnografias Multiespécies]]
-* [[content/pt-br/pesquisas/Jardins Digitais/Jardins Digitais]]
-* [[content/pt-br/pesquisas/Metodologias de Autogestão/Metodologias de Autogestão]]
+* [[Etnografias Multiespécies]]
+* [[Jardins Digitais]]
+* [[Metodologias de Autogestão]]
 
 
 

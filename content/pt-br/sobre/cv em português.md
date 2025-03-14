@@ -3,12 +3,12 @@ indentation: "1"
 ---
 
 > [!Example] Menu
-> [[index-pt-br|Início]] [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[ações educativas|Ações Educativas]] [[pesquisas|Pesquisas]] [[códigos e tecnologia|Códigos e Tecnologia]] [[contato|Contato]]
+> [[index-pt-br|Início]] [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[ações educativas|Ações Educativas]] [[pesquisas|Pesquisas]] [[contato|Contato]]
 
 ---
 
-Antropólogo, produtor cultural e artista multimídia. Doutorando e Mestre em Antropologia Social pela Universidade Federal de Santa Catarina (PPGAS/UFSC). Graduado no Bacharelado e Licenciatura em Ciências Sociais pela Universidade Estadual Paulista (Unesp). Técnico em Informática pela Escola Aristóteles Ferreira (ETEC-AF).   
-[brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](https://www.brennodemarchi.art.br)
+Antropólogo e Produtor Cultural independente. Doutorando e Mestre em Antropologia Social pela Universidade Federal de Santa Catarina (PPGAS/UFSC). Graduado no Bacharelado e Licenciatura em Ciências Sociais pela Universidade Estadual Paulista (Unesp). Técnico em Informática pela Escola Aristóteles Ferreira (ETEC-AF).   
+[brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](http://www.brennodemarchi.art.br)
 
 ---
 # Idiomas
@@ -85,7 +85,7 @@ A videoaula "Como produzir e editar o seu podcast" foi produzida e distribuída 
 
 ### Lei Aldir Blanc - Prêmio Alcides Mesquisa 2020
 
-A "Oficina de Produção e Divulgação de Podcasts de Poesia" foi realizada com o incentivo da Lei Aldir Blanc – Prêmio Alcides Mesquita 2020, da Prefeitura Municipal de Santos e do Governo Federal. Mais informações [[Oficina de Produção e Divulgação de Podcasts de Poesia - Aldir Blanc (2021)|neste link]] e também na seção "[[ações educativas]]".
+A "Oficina de Produção e Divulgação de Podcasts de Poesia" foi realizada com o incentivo da Lei Aldir Blanc – Prêmio Alcides Mesquita 2020, da Prefeitura Municipal de Santos e do Governo Federal. Mais informações [[Oficina - Produção e Divulgação de Podcasts de Poesia - Aldir Blanc (2021)|neste link]] e também na seção "[[ações educativas]]".
 
 ---
 # Grupos de Estudos e Pesquisas
@@ -97,15 +97,11 @@ Este grupo de pesquisa tem por objetivo fomentar o uso e a produção de materia
 
 #### 2020 - Atual | Grupo de Estudos de Imagem, Fotografia e Cinema - GEI
 
-Coordenado pelo Prof. Dr. Paulo Eduardo Teixeira e pela Profª. Drª. Maria Leandra Bizello, vinculado com o Departamento de Ciências Políticas e Econômicas (Unesp-FFC, Marília-SP) e cadastrado no diretório do CNPq: http://www.dgp.cnpq.br/dgp/espelhogrupo/3011092794865160
+Coordenado pelo Prof. Dr. Paulo Eduardo Teixeira e pela Profª. Drª. Maria Leandra Bizello, vinculado com o Departamento de Ciências Políticas e Econômicas (Unesp-FFC, Marília-SP) e cadastrado no CNPq: http://www.dgp.cnpq.br/dgp/espelhogrupo/3011092794865160
 
 ### 2018 - Atual | Grupo de Estudo e Pesquisa em Epistemologia Genética e Educação - GEPEGE
 
-Coordenado pelo Profs. Drs. Adrian Oscar Dongo Montoya e Ricardo Pereira Tassinari. O grupo está vinculado com o Departamento de Psicologia da Educação (Unesp-FFC, Marília-SP) e cadastrado no diretório do CNPq: http://www.dgp.cnpq.br/dgp/espelhogrupo/9960155130261480.
-
-### 2020 - 2021 | Grupo de Pesquisa CUAL - Comuns Urbanos na América Latina
-
-Coordenado pelas Profs.ª Drs.ª Maria Carolina Maziviero e Marina Toneli Siqueira. O grupo tem vínculo com a Universidade Federal do Paraná (UFPR), mas tem parceria com outras universidades como a Universidade Federal de Santa Catarina (UFSC), a Universidade de São Paulo (USP), a Universidade Federal de São Carlos (UFSCAR/Sorocaba), a Universidade São Judas Tadeu (USJT), a Faculdade de Arquitetura e Urbanismo da Mackenzie, dentre outras. O grupo tem cadastro no diretório do CNPq: http://dgp.cnpq.br/dgp/espelhogrupo/678953. Também é possível conferir mais informações no seguinte link: https://pt.wikiversity.org/wiki/Comum_-_Grupo_de_Estudos.
+Coordenado pelo Profs. Drs. Adrian Oscar Dongo Montoya e Ricardo Pereira Tassinari. O está vinculado com o Departamento de Psicologia da Educação (Unesp-FFC, Marília-SP) e cadastrado no CNPq: http://www.dgp.cnpq.br/dgp/espelhogrupo/9960155130261480.
 
 ---
 # Educação Continuada & Treinamentos Profissionais

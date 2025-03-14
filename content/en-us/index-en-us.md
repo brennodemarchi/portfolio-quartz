@@ -4,7 +4,7 @@ indentation: "0"
 ---
 
 > [!Example] Menu
-> [[index-en-us|Home]]   [[cv in english|CV]]    [[publications|Publications]]   [[audiovisual productions|Audiovisual]]    [[educational initiatives|Educational Initiatives]] [[research|Research]] [[coding and technology|Coding and Technology]] [[contact|Contact Me]]
+> [[index-en-us|Home]]   [[cv in english|CV]]    [[publications|Publications]]   [[audiovisual productions|Audiovisual]]    [[educational initiatives|Educational Initiatives]] [[research|Research]] [[contact|Contact Me]]
 
 # Greeting, I'm Brenno Brandalise Demarchi, it's nice to see you here!
 

@@ -3,13 +3,13 @@ indentation: "1"
 ---
 
 > [!Example] Menu
-> [[index-en-us|Home]]  [[publications|Publications]]   [[audiovisual productions|Audiovisual]]  [[educational initiatives|Educational Initiatives]] [[research|Research]] [[coding and technology|Coding and Technology]]  [[contact|Contact Me]]
+> [[index-en-us|Home]]  [[publications|Publications]]   [[audiovisual productions|Audiovisual]]  [[educational initiatives|Educational Initiatives]] [[research|Research]] [[contact|Contact Me]]
 
 
 ---
    
-Anthropologist, Cultural Producer and Multimedia Artist. Currently enrolling a Ph.D. in Social Anthropology in the Federal University of Santa Catarina. I also hold a Master's degree in Social Anthropology from the Federal University of Santa Catarina. Bachelor's degrees in Social Sciences from São Paulo State University (Unesp - Marília, São Paulo, Brazil), both in Social Sciences and in Teaching. Technical degree in Informatics from Aristóteles Ferreira Technical School (ETEC-AF - Santos, São Paulo, Brazil).   
-[brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](https://www.brennodemarchi.art.br)
+Anthropologist and independent Cultural Producer. Currently enrolling a Ph.D. in Social Anthropology in the Federal University of Santa Catarina. I also hold a Master's degree in Social Anthropology from the Federal University of Santa Catarina. Bachelor's degrees in Social Sciences from São Paulo State University (Unesp - Marília, São Paulo, Brazil), both in Social Sciences and in Teaching. Technical degree in Informatics from Aristóteles Ferreira Technical School (ETEC-AF - Santos, São Paulo, Brazil).   
+[brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](http://www.brennodemarchi.art.br)
 
 ---
 # Languages
@@ -101,10 +101,6 @@ Coordinated by Prof. Dr. Paulo Eduardo Teixeira and Prof. Dr. Maria Leandra Bize
 ### 2018 - At the moment | Genetic Epistemology and Education Study and Research Group ["Grupo de Estudo e Pesquisa em Epistemologia Genética e Educação - GEPEGE"]
 
 Coordinated by Profs. Drs. Adrian Oscar Dongo Montoya and Ricardo Pereira Tassinari. The is linked to the Department of Educational Psychology (Unesp-FFC, Marília-SP) and registered in CNPq database: http://www.dgp.cnpq.br/dgp/espelhogrupo/9960155130261480.
-
-### 2020 - 2021 | Research Group CUAL - Urban Commons in Latin America
-
-Coordinated by Profs. Drs. Maria Carolina Maziviero and Marina Toneli Siqueira. The group is affiliated with the Federal University of Paraná (UFPR) but collaborates with other universities such as the Federal University of Santa Catarina (UFSC), the University of São Paulo (USP), the Federal University of São Carlos (UFSCAR/Sorocaba), São Judas Tadeu University (USJT), the Mackenzie School of Architecture and Urbanism, among others. The group is registered in the CNPq directory: [http://dgp.cnpq.br/dgp/espelhogrupo/678953](http://dgp.cnpq.br/dgp/espelhogrupo/678953). More information can also be found at the following link: [https://pt.wikiversity.org/wiki/Comum_-_Grupo_de_Estudos](https://pt.wikiversity.org/wiki/Comum_-_Grupo_de_Estudos).
 
 ---
 # Continuing Education and Professional Training

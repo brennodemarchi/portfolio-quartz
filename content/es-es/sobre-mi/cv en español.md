@@ -1,14 +1,14 @@
 ---
 indentation: "1"
 ---
-> [!Example] Menú de Navegación
-> [[index-es-es|Inicio]] [[publicaciones|Publicaciones]] [[producciones audiovisuales|Producciones Audiovisuales]] [[acciones educativas|Acciones Educativas]] [[investigaciones|Investigaciones]] [[código y tecnología|Código y Tecnología]] [[contacto|Contacto]]
 
+> [!Example] Menú de Navegación
+> [[index-es-es|Inicio]] [[publicaciones|Publicaciones]] [[producciones audiovisuales|Producciones Audiovisuales]] [[acciones educativas|Acciones Educativas]] [[investigaciones|Investigaciones]] [[contacto|Contacto]]
 
 ---
 
-Antropólogo, productor cultural y artista multimedia. Actualmente cursando un doctorado en Antropología Social en la Universidad Federal de Santa Catarina, donde también obtuve un Máster en Antropología Social. Título de Bachiller y Licencia de Enseñanza en Ciencias Sociales por la Universidade Estadual Paulista (Unesp). Técnico de Grado Medio en Informática en la Escuela Técnica Aristóteles Ferreira (ETEC-AF).   
-[brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](https://www.brennodemarchi.art.br)
+Antropólogo y productor cultural independiente. Actualmente cursando un doctorado en Antropología Social en la Universidad Federal de Santa Catarina, donde también obtuve un Máster en Antropología Social. Título de Bachiller y Licencia de Enseñanza en Ciencias Sociales por la Universidade Estadual Paulista (Unesp). Técnico de Grado Medio en Informática en la Escuela Técnica Aristóteles Ferreira (ETEC-AF).   
+[brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](http://www.brennodemarchi.art.br)
 
 ---
 # Idiomas
@@ -99,10 +99,6 @@ Coordinado por el Prof. Dr. Paulo Eduardo Teixeira y la Prof. Dra. Maria Leandra
 ### 2018 - hasta el momento | Grupo de Estudio e Investigación sobre Epistemología Genética y Educación - GEPEGE
 
 Coordinado por el Prof. Dr. Adrian Oscar Dongo Montoya y el Prof. Dr. Ricardo Pereira Tassinari. El programa está vinculado al Departamento de Psicología de la Educación, Facultad de Filosofía y Ciencias, Universidad del Estado de São Paulo (Marília, São Paulo, Brasil) y registrado en la base de datos CNPq: http://www.dgp.cnpq.br/dgp/espelhogrupo/9960155130261480.
-
-### 2020 - 2021 | Grupo de Investigación CUAL - Comunes Urbanos en América Latina
-
-Coordinado por las Profs.ª Drs.ª Maria Carolina Maziviero y Marina Toneli Siqueira. El grupo está vinculado a la Universidad Federal de Paraná (UFPR), pero cuenta con asociaciones con otras universidades como la Universidad Federal de Santa Catarina (UFSC), la Universidad de São Paulo (USP), la Universidad Federal de São Carlos (UFSCAR/Sorocaba), la Universidad São Judas Tadeo (USJT), la Facultad de Arquitectura y Urbanismo de Mackenzie, entre otras. El grupo está registrado en el directorio del CNPq: [http://dgp.cnpq.br/dgp/espelhogrupo/678953](http://dgp.cnpq.br/dgp/espelhogrupo/678953). También es posible consultar más información en el siguiente enlace: [https://pt.wikiversity.org/wiki/Comum_-_Grupo_de_Estudos](https://pt.wikiversity.org/wiki/Comum_-_Grupo_de_Estudos).
 
 ---
 # Formación Continua y Entrenamiento Profesional

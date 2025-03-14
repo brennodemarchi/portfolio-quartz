@@ -5,7 +5,7 @@ indentation: "0"
 
 > [!Example] Menu
 > [[index-pt-br|Início]] [[cv em português|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[ações educativas|Ações Educativas]]  
-> [[pesquisas|Pesquisas]] [[códigos e tecnologia|Códigos e Tecnologia]]  [[contato|Contato]]
+> [[pesquisas|Pesquisas]] [[contato|Contato]]
 
 # Olá, eu me chamo Brenno Brandalise Demarchi, que bom te ver por aqui!
 
@@ -13,7 +13,7 @@ indentation: "0"
 
 > [!text] Isto não é um currículo, apesar de ser
 
-Inspirado nos princípios dos [[content/pt-br/pesquisas/Jardins Digitais/Jardins Digitais|jardins digitais (digital gardens)]], eu gostaria que meu site fosse uma representação viva dos trabalhos que venho desenvolvendo ao invés de uma página estática que dificilmente me descreveria. 
+Inspirado nos princípios dos [[Jardins Digitais|jardins digitais (digital gardens)]], eu gostaria que meu site fosse uma representação viva dos trabalhos que venho desenvolvendo ao invés de uma página estática que dificilmente me descreveria. 
 
 Sou um Antropólogo inquieto que perambula, experimenta e busca compreender diferentes assuntos, técnicas e perspectivas a partir de abordagens indisciplinares que partem das ciências humanas e sociais e atravessam outros campos de saber.
 

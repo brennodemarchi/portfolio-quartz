@@ -3,7 +3,7 @@ indentation: "2"
 ---
 # Resumen
 
-El taller _"Cómo crear un jardín digital con tus ideas en Obsidian"_ fue seleccionado en la convocatoria de la _"9ª Edición del Experimenta"_ de la Secretaría de Cultura, Artes y Deportes de la UFSC (SeCArtE/UFSC) y tuvo como objetivo general proporcionar a los participantes una introducción sobre las posibilidades de uso del software **Obsidian** para la creación de portafolios, prácticas artísticas, campañas de RPG, cartografías o incluso para investigaciones académicas.
+El taller "**Cómo crear un jardín digital con tus ideas en Obsidian**" tuvo como objetivo general proporcionar a los participantes una introducción sobre las posibilidades del software **Obsidian** para crear portafolios, prácticas artísticas, campañas de RPG, cartografías o incluso investigaciones académicas.
 
 # Metodología
 

@@ -67,6 +67,6 @@ Jackson Francisco da Conceição Müller
 
 # Press Releases
 
-![[iv-eavam-oficina-podcast-01.png]]*Publication drafted and disseminated by the event committee*
+![[iv-eavam_oficina-01.png]]*Publication drafted and disseminated by the event committee*
 
-![[iv-eavam-oficina-02.png]]*Page on the event website with further information about the workshop in Brazilian Portuguese*
+![[iv-eavam_oficina-02.png]]*Page on the event website with further information about the workshop in Brazilian Portuguese*

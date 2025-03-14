@@ -28,5 +28,5 @@ Brenno Brandalise Demarchi
 
 # Press Releases
 
-![[oficina-podcast-proac-3.png]]
+![[oficinapodcast-proac-3.png]]
 Available in Brazilian Portuguese at the following link: https://www.instagram.com/p/Cp1NLL0IOZs/

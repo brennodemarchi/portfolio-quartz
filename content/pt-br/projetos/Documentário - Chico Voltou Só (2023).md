@@ -4,11 +4,20 @@ indentation: "2"
 
 <iframe title="Meu Olhar apresenta &quot;Chico Voltou Só&quot;, de Douglas Gadelha Sá" src="https://www.youtube.com/embed/eyckuFLYndw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
-CHICO VOLTOU SÓ. Direção, Argumento e Pesquisa: Douglas Gadelha Sá. Direção de Fotografia: Rodrigo Samia. Montagem: Leandro Olimpio. Mixagem e Som: Brenno Brandalise Demarchi. **Canal Futura (Youtube)**, 2023. Disponível em: https://www.youtube.com/watch?v=eyckuFLYndw. 
+# Atuação
+
+Mixagem e Som
 
 # Sinopse 
 
 O documentário reflete sobre a trajetória de um operário nordestino em meio a ditadura militar na cidade de Cubatão (SP), através de imagens e vídeos de arquivo inéditos.
+
+# Créditos
+
+**Direção, Argumento e Pesquisa:** Douglas Gadelha Sá
+**Direção de Fotografia:** Rodrigo Samia
+**Montagem:** Leandro Olimpio
+**Mixagem e Som:** Brenno Brandalise Demarchi
 
 # Ficha Técnica
 
@@ -19,12 +28,6 @@ O documentário reflete sobre a trajetória de um operário nordestino em meio a
 **Duração:** 5min
 **Classificação Indicativa:** Livre
 **Distribuição:** Globo Play & Canal Futura
-# Créditos
-
-**Direção, Argumento e Pesquisa:** Douglas Gadelha Sá
-**Direção de Fotografia:** Rodrigo Samia
-**Montagem:** Leandro Olimpio
-**Mixagem e Som:** Brenno Brandalise Demarchi
 
 # Ferramentas e Tecnologias
 
@@ -47,24 +50,43 @@ Exibido no dia 9 de Novembro de 2023, "Chico Voltou Só" foi finalista da Mostra
 
 # Na Mídia
 
-![[doc-chicovoltouso-fundacaorobertomarinho-instagram-1.png]]
-![[doc-chicovoltouso-fundacaorobertomarinho-instagram-2.png]]Disponível em: https://www.instagram.com/p/C0ADxcgpjVD/
+## Lista de Filmes Selecionados da Mostra "Olhar Caiçara" do Curta Santos no Release do jornal A Tribuna
 
+![[doc-chicovoltouso-pressrelease-10-atribuna.png]]
+![[doc-chicovoltouso-pressrelease-11-atribuna.png]]
 
-![[doc-chicovoltouso-fundacaorobertomarinho-2.png]]
+Disponível em: https://www.atribuna.com.br/variedades/pop-art/curta-santos-divulga-filmes-da-mostra-olhar-caicara-1.439522
+
+## Divulgação dos Filmes Selecionados no Instagram da Coliga Digital
+
+![[doc-chicovoltouso-pressrelease-1-coliga.png]]
+![[doc-chicovoltouso-pressrelease-2-coliga.png]]Disponível em: https://www.instagram.com/p/C0ADxcgpjVD/
+
+## Press Release na Fundação Roberto Marinho
+
+![[doc-chicovoltouso-pressrelease-3-fundacaorobertomarinho.png]]
 Disponível em: https://www.frm.org.br/conteudo/midias-educativas/noticia/projeto-meu-olhar-celebra-sua-conclusao-com-apresentacao-de
 
-![[doc-chicovoltouso-prefeituracubatão.png]]
+## Press Release no jornal da Prefeitura de Cubatão
+
+![[doc-chicovoltouso-pressrelease-4-prefeituracubatao.png]]
 Disponível em: https://www.cubatao.sp.gov.br/cineasta-cubatense-tem-obra-concorrendo-a-premio-no-canal-futura/
 
-![[doc-chicovoltouso-bs9litoral.png]]
+## Press Release no Jornal BS9
+
+![[doc-chicovoltouso-doc-chicovoltouso-pressrelease-5-bs9litoral.png]]
 Disponível em: https://www.bs9.com.br/litoral/cineasta-cubatense-tem-obra-concorrendo-a-premio-no-canal-futura/19597/
 
+## Press Release sobre a premiação no Festival Curta Santos no jornal da Prefeitura de Cubatão
 
-![[doc-chicovoltouso-festivalcurtasantos-prefeituracubatao-1.png]]
-![[doc-chicovoltouso-festivalcurtasantos-prefeituracubatao-2.png]]
+![[doc-chicovoltouso-pressrelease-6-prefeituracubatao.png]]
+![[doc-chicovoltouso-pressrelease-7-prefeituracubatao.png]]
 Disponível em: https://www.cubatao.sp.gov.br/curtas-com-direcao-e-atuacao-de-cubatenses-sao-premiados-no-festival-curta-santos/
 
-![[doc-chicovoltouso-festivalsantosfilmfestival-prefeituracubatao-1.png]]
-![[doc-chicovoltouso-festivalsantosfilmfestival-prefeituracubatao-2.png]]
+## Press Release sobre a premiação no 10º Santos Film Fest no jornal da Prefeitura de Cubatão
+
+
+![[doc-chicovoltouso-pressrelease-8-prefeituracubatao.png]]
+![[doc-chicovoltouso-pressrelease-9-prefeituracubatao.png]]
 Disponível em: https://www.cubatao.sp.gov.br/curta-metragem-cubatense-conquista-dois-premios-no-10o-santos-film-fest/
+

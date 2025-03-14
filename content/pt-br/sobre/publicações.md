@@ -2,7 +2,7 @@
 indentation: "1"
 ---
 > [!Example] Menu
-> [[index-pt-br|Início]] [[cv em português|Currículo]] [[audiovisual|Audiovisual]] [[ações educativas|Ações Educativas]] [[pesquisas|Pesquisas]] [[códigos e tecnologia|Códigos e Tecnologia]] [[contato|Contato]]
+> [[index-pt-br|Início]] [[cv em português|Currículo]] [[audiovisual|Audiovisual]] [[ações educativas|Ações Educativas]] [[pesquisas|Pesquisas]] [[contato|Contato]]
 # 2024
 
 DEMARCHI, Brenno B.; OLIVEIRA, Wesley V. Reinventar a cidade: reflexões sobre o movimento Hip Hop e suas insurgências políticas. **Sociologias Plurais**, v. 10, n. 1, p. 32-50, jan. 2024. ISSN: 2316-9249. Disponível em: https://revistas.ufpr.br/sclplr/article/view/94244; DOI: https://revistas.ufpr.br/sclplr/article/view/94245. Mais informações [[Artigo - Reinventar a cidade (2024)|neste link]].

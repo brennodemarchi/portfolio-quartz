@@ -3,7 +3,7 @@ indentation: "2"
 ---
 # Ementa
 
-A oficina "**Como criar um jardim digital com as suas ideias no Obsidian**" foi selecionada no edital da “9ª Edição do Experimenta” da Secretaria de Cultura, Artes e Esportes da UFSC (SeCArtE/UFSC) e teve como objetivo geral proporcionar aos participantes uma introdução a respeito das  possibilidades de utilização do software **Obisidian** para a criação de portfólios, práticas artísticas, campanhas de RPG, cartografias ou até para pesquisas acadêmicas. 
+A oficina "**Como criar um jardim digital com as suas ideias no Obsidian**" teve como objetivo geral proporcionar aos participantes uma introdução a respeito das  possibilidades de utilização do software **Obisidian** para a criação de portfólios, práticas artísticas, campanhas de RPG, cartografias ou até para pesquisas acadêmicas. 
 
 # Metodologia
 

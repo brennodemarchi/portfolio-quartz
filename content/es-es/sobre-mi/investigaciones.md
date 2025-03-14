@@ -2,7 +2,7 @@
 indentation: "1"
 ---
 > [!Example] Menú de Navegación
-> [[index-es-es|Inicio]] [[cv en español|CV]]  [[publicaciones|Publicaciones]] [[producciones audiovisuales|Producciones Audiovisuales]] [[acciones educativas|Acciones Educativas]] [[código y tecnología|Código y Tecnología]] [[contacto|Contacto]]
+> [[index-es-es|Inicio]] [[cv en español|CV]]  [[publicaciones|Publicaciones]] [[producciones audiovisuales|Producciones Audiovisuales]] [[acciones educativas|Acciones Educativas]]  [[contacto|Contacto]]
 
 
 
@@ -26,12 +26,12 @@ Aunque la lista es larga, mis intereses y proyectos de investigación se circuns
 > [!faq] Jardín Digital 
 > (En este momento, disponible solo en Portugués de Brasil)
 
-* [[content/pt-br/pesquisas/Antropologia das Infraestruturas/Antropologia das Infraestruturas|Antropología de las Infraestructuras]]
+* [[Antropologia das Infraestruturas|Antropología de las Infraestructuras]]
 - [[Antropologia do Som e Etnografias Sonoras | Antropología del Sonido y Etnografías Sonoras]]
 - [[Etnografar a ecologia dos jogos | Etnografía de la ecología de los juegos]]
-- [[content/pt-br/pesquisas/Etnografias Multiespécies/Etnografias Multiespécies| Etnografías Multiespecies]]
-- [[content/pt-br/pesquisas/Jardins Digitais/Jardins Digitais| Jardines Digitales]]
-- [[content/pt-br/pesquisas/Metodologias de Autogestão/Metodologias de Autogestão| Metodologías de Autogestión]]
+- [[Etnografias Multiespécies | Etnografías Multiespecies]]
+- [[Jardins Digitais | Jardines Digitales]]
+- [[Metodologias de Autogestão | Metodologías de Autogestión]]
 
 
 

@@ -37,24 +37,24 @@ Proyectado el 9 de noviembre de 2023, "Chico Voltou Só" fue finalista de la Mue
 
 # En los medios de comunicación
 
-![[doc-chicovoltouso-fundacaorobertomarinho-instagram-1.png]]
-![[doc-chicovoltouso-fundacaorobertomarinho-instagram-2.png]]Disponible en Portugués de Brasil en: https://www.instagram.com/p/C0ADxcgpjVD/
+![[doc-chicovoltouso-pressrelease-1-coliga.png]]
+![[doc-chicovoltouso-pressrelease-2-coliga.png]]Disponible en Portugués de Brasil en: https://www.instagram.com/p/C0ADxcgpjVD/
 
 
-![[doc-chicovoltouso-fundacaorobertomarinho-2.png]]
+![[doc-chicovoltouso-pressrelease-3-fundacaorobertomarinho.png]]
 Disponible en Portugués de Brasil en: https://www.frm.org.br/conteudo/midias-educativas/noticia/projeto-meu-olhar-celebra-sua-conclusao-com-apresentacao-de
 
-![[doc-chicovoltouso-prefeituracubatão.png]]
+![[doc-chicovoltouso-pressrelease-4-prefeituracubatao.png]]
 Disponible en Portugués de Brasil en: https://www.cubatao.sp.gov.br/cineasta-cubatense-tem-obra-concorrendo-a-premio-no-canal-futura/
 
-![[doc-chicovoltouso-bs9litoral.png]]
+![[doc-chicovoltouso-doc-chicovoltouso-pressrelease-5-bs9litoral.png]]
 Disponible en Portugués de Brasil en: https://www.bs9.com.br/litoral/cineasta-cubatense-tem-obra-concorrendo-a-premio-no-canal-futura/19597/
 
 
-![[doc-chicovoltouso-festivalcurtasantos-prefeituracubatao-1.png]]
-![[doc-chicovoltouso-festivalcurtasantos-prefeituracubatao-2.png]]
+![[doc-chicovoltouso-pressrelease-6-prefeituracubatao.png]]
+![[doc-chicovoltouso-pressrelease-7-prefeituracubatao.png]]
 Disponible en Portugués de Brasil en: https://www.cubatao.sp.gov.br/curtas-com-direcao-e-atuacao-de-cubatenses-sao-premiados-no-festival-curta-santos/
 
-![[doc-chicovoltouso-festivalsantosfilmfestival-prefeituracubatao-1.png]]
-![[doc-chicovoltouso-festivalsantosfilmfestival-prefeituracubatao-2.png]]
+![[doc-chicovoltouso-pressrelease-8-prefeituracubatao.png]]
+![[doc-chicovoltouso-pressrelease-9-prefeituracubatao.png]]
 Disponible en Portugués de Brasil en: https://www.cubatao.sp.gov.br/curta-metragem-cubatense-conquista-dois-premios-no-10o-santos-film-fest/

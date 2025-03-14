@@ -10,22 +10,22 @@ Na videoaula "Como produzir e editar o seu podcast", procurei explicar todas as 
 
 # Equipe
 
-- **Proponente, Pesquisa, Produção, Instrutor, Edição e Design de Som:**   
+**Proponente, Pesquisa, Produção, Instrutor, Edição e Design de Som:**   
 Brenno Brandalise Demarchi
 
 # Ferramentas e Tecnologias
 
-- **Gravação de Tela:** OBS Studio
+**Gravação de Tela:** OBS Studio
 
-- **Mixer Virtual:** VB-Audio Voicemeeter
+**Mixer Virtual:** VB-Audio Voicemeeter
 
-- **Apresentação de Slides:** Microsoft PowerPoint
+**Apresentação de Slides:** Microsoft PowerPoint
 
-- **Edição de Vídeo:** Adobe Premiere Pro
+**Edição de Vídeo:** Adobe Premiere Pro
 
-- **Edição de Áudio:** Cockos Reaper
+**Edição de Áudio:** Cockos Reaper
 
 # Na Mídia
 
-![[oficina-podcast-proac-3.png]]
+![[oficinapodcast-proac-3.png]]
 Disponível em: https://www.instagram.com/p/Cp1NLL0IOZs/

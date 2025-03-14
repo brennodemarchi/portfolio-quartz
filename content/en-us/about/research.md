@@ -3,7 +3,7 @@ indentation: "1"
 ---
 
 > [!Example] Menu
-> [[index-en-us|Home]]   [[cv in english|CV]]    [[publications|Publications]]   [[audiovisual productions|Audiovisual]]    [[educational initiatives|Educational Initiatives]] [[coding and technology|Coding and Technology]]  [[contact|Contact Me]]
+> [[index-en-us|Home]]   [[cv in english|CV]]    [[publications|Publications]]   [[audiovisual productions|Audiovisual]]    [[educational initiatives|Educational Initiatives]]  [[contact|Contact Me]]
 
 
 > [!text] Axes of thematic interest 
@@ -27,12 +27,12 @@ Although it is a long list, my research interests and projects encompass the fol
 >[!faq] Digital Garden
 > (for now only available in Brazilian Portuguese)
 
-* [[content/pt-br/pesquisas/Antropologia das Infraestruturas/Antropologia das Infraestruturas]] 
+* [[Antropologia das Infraestruturas]] 
 * [[Antropologia do Som e Etnografias Sonoras]] 
-* [[content/pt-br/pesquisas/Etnografias Multiespécies/Etnografias Multiespécies]] 
+* [[Etnografias Multiespécies]] 
 * [[Etnografar a ecologia dos jogos]]
-* [[content/pt-br/pesquisas/Jardins Digitais/Jardins Digitais|Jardins Digitais]]
-* [[content/pt-br/pesquisas/Metodologias de Autogestão/Metodologias de Autogestão]]
+* [[Jardins Digitais|Jardins Digitais]]
+* [[Metodologias de Autogestão]]
 
 
 
