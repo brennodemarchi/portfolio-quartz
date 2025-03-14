@@ -42,7 +42,7 @@ Foram três encontros com duração de até 2 horas, em que a primeira parte foi
 
 # Equipe
 
-**Pesquisa, Produção, Instrutor, Edição e Design de Som:**    
+**Produção, Pesquisa, Instrutor, Edição e Design de Som:**    
 Brenno Brandalise Demarchi (Proponente)    
    
 **Pesquisa e Mediação Pedagógica:**   

@@ -8,7 +8,7 @@ A "Oficina de Produção e Divulgação de Podcasts de Poesia" foi uma iniciativ
 # Equipe
 
 
-**Pesquisa, Produção, Instrutor, Edição e Design de Som:**   
+**Proponente, Produção, Pesquisa, Instrutor, Edição e Design de Som:**   
 Brenno Brandalise Demarchi (Proponente do Projeto)   
 
 **Assessoria de Projeto:**  

@@ -14,7 +14,7 @@ O curso se desenvolve de maneira teórica, ao apresentar aos alunos as ideias fu
 
 Ele foi proposto, produzido e ministrado por Leandro Olimpio da Rocha e realizado através da Lei Federal Paulo Gustavo – LPG, no município de São Vicente/SP, durante os dias 04, 06, 11, 15, 18, 22, 25 e 27 de Fevereiro de 2025 no Espaço Multicultural, localizado na Praça 22 de Janeiro, s./nº., Centro, São Vicente-SP.
 
-Esse projeto nasce a partir de uma experiência anterior de curso realizada por Leandro Olimpio da Rocha no Sesc Santos, em Abril de 2022.
+Esse projeto nasceu a partir de uma experiência anterior de curso realizada por Leandro Olimpio da Rocha no Sesc Santos, em Abril de 2022.
 
 Leandro Olimpio é diretor e montador, residente em São Vicente, sua filmografia se concentra nessa corrente cinematográfica. Com "Imagens de um Sonho", "Memórias do Fogo" e "Nosso Panfleto Seria Assim", curtas que dirigiu e montou a partir de materiais de arquivo, foi selecionado, exibido e premiado em diversos festivais no Brasil e no exterior, como o Festival Internacional de Cinema de Arquivo (Brasil), a 46ª edição do Festival Guarnicê de Cinema (Brasil), a 35ª edição do Cinélatino Rencontres de Toulouse (França), 14º Visões Periféricas - Rio de Janeiro (Brasil), Mostra Olhar Caiçara do 17° Curta Santos (Brasil), 12º Festival de Cine y Artes Visuales Bugarte (Colômbia), 5º Festival de Cine Corto de Envigado (Colômbia), Indian International Film Festival (Índia), a 30ª edição do Festival de Cinema de Vitória (Brasil), dentre outros.
 
