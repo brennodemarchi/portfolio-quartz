@@ -2,7 +2,7 @@
 indentation: "2"
 ---
 
-![[monografia-brennobdemarchi.webp]]
+![[2019-monografia-cienciassociais-unesp-1.webp]]
 Available in Brazilian Portuguese at: https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_-_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo
 
 Photographs: https://www.behance.net/gallery/91704471/Nem-tao-longe-nem-tao-perto

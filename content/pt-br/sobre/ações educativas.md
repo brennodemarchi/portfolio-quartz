@@ -12,7 +12,9 @@ indentation: "1"
 
 Assistência de produção, registro fotográfico e legendagem descritiva
 
-Realizei os trabalhos de **assistência de produção**, **registro fotográfico** e **legendagem descritiva** no curso "Documentário com Imagens de Arquivo: Práticas e Reflexões", proposto, produzido e ministrado por Leandro Olimpio da Rocha e realizado através da Lei Federal Paulo Gustavo – LPG, no município de São Vicente/SP, durante os dias 04, 06, 11, 15, 18, 22, 25 e 27 de Fevereiro de 2025 no Espaço Multicultural, localizado na Praça 22 de Janeiro, s./nº., Centro, São Vicente-SP.
+### Resumo 
+
+Realizei os trabalhos de **assistência de produção**, **registro fotográfico** e **legendagem descritiva** no curso "Documentário com Imagens de Arquivo: Práticas e Reflexões", proposto, produzido e ministrado por Leandro Olimpio da Rocha com a Lei Federal Paulo Gustavo – LPG, no município de São Vicente/SP, em Fevereiro de 2025 no Espaço Multicultural.
 
 Mais informações [[Curso - Documentário com Imagens de Arquivo - Práticas e Reflexões|neste link]].
 
@@ -24,6 +26,8 @@ Palestrante
 
 A palestra "Um panorama histórico das práticas de compostagem" foi realizada durante o VI Curso de Horta e Compostagem, organizado pelo Composta & Cultiva, em pareceria com a EcoFábrica Criativa – Zona Noroeste, em Santos-SP, no dia 29 de Janeiro de 2025. 
 
+### Resumo
+
 Nela, apresentei minha pesquisa de doutorado, abordando a proposta inicial dos capítulos da tese e explorando práticas de compostagem adotadas por povos ocidentais e não-ocidentais mapeadas até o momento. Na sequência, relatei minha experiência no VIII Curso de Gestão Comunitária de Resíduos do Centro de Estudos e Promoção da Agricultura de Grupo (Cepagro), ilustrando-a com fotos e tecendo comentários sobre os projetos de compostagem visitados em Florianópolis, além de outras iniciativas compartilhadas pelos participantes em diferentes regiões do Brasil. 
 
 ---
@@ -34,6 +38,8 @@ Nela, apresentei minha pesquisa de doutorado, abordando a proposta inicial dos c
 ### Atuação
 
 Produção, Instrutor e Facilitador
+
+### Resumo
 
 A oficina "Como criar um jardim digital com as suas ideias no Obsidian" buscou divulgar o processo de criação de um jardim digital e facilitar o seu uso, atrelado às práticas de anotações e fichamentos utilizando o software Obsidian. 
 
@@ -49,6 +55,8 @@ Mais informações [[Oficina - Como criar um jardim digital com as suas ideias n
 
 Instrutor e Facilitador
 
+## Resumo
+
 A oficina "Obsidian: gerir o conhecimento e cultivar jardins digitais (Módulo 2)" teve por objetivo capacitar as pessoas participantes a dominar técnicas avançadas de gestão do conhecimento pessoal e criação de jardins digitais no Obsidian ao utilizar plugins, automatizações e integrações que ampliam as funcionalidades do software, transformando-o em uma ferramenta poderosa para organização, criatividade e produtividade em diversos contextos. 
 
 Neste módulo, abordamos a utilização do **Toggls Track** (rastreamento de tempo), **Mind Map** (mapas mentais), **%Waypoint%** (sumários), **Excalidraw** (diagramas e fluxogramas), **%Templater** (automatizações e templates avançados), **Obisidian Copilot** (integração do uso de IA ao cofre), **Dataview** (tabelas avançadas), **Zotero Integration** e **BetterBibTex** (integrando notas do Zotero), **Pandoc Reference Lis** (criar lista de referências), **File Info Panel** (contagem de palavras e estimativa de páginas) e, por fim, o plugin **Export Settings** (exportação de arquivos markdown para DOCX ou ODT)
@@ -62,6 +70,8 @@ Neste módulo, abordamos a utilização do **Toggls Track** (rastreamento de tem
 ### Atuação
 
 Proponente, Produção, Pesquisa, Instrutor, Edição e Design de Som
+
+## Resumo
 
 A videoaula "Como produzir e editar o seu podcast" foi produzida e distribuída gratuitamente como contrapartida pelo prêmio dado pela Secretaria de Cultura e Economia Criativa do Governo do Estado de São Paulo através do ProAc Expresso Direto n.º 39/2021, à profissionais do setor cultural criativo. 
 

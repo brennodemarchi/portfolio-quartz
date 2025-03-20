@@ -2,7 +2,7 @@
 indentation: "2"
 ---
 
-![[artigo-hiphop-sociologiasplurais-UFPR-2024.png]]Disponible en: https://revistas.ufpr.br/sclplr/article/view/94244.
+![[2024-artigo-hiphop-sociologiasplurais-UFPR.png]]Disponible en: https://revistas.ufpr.br/sclplr/article/view/94244.
 
 # Resumen
 

@@ -40,5 +40,5 @@ También se creó un folleto instructivo sobre el concepto e implementación del
 
 # En los medios de comunicación
 
-![[inclusive-redescomunitariasava6.png]]
+![[2020-audiovisual-inclusive-redescomunitarias-7-ava2.png]]
 Disponible en Portugués de Brasil en: https://labdeemergencia.silo.org.br/2ed/pt/imprensa/inclusive/

@@ -67,6 +67,6 @@ Jackson Francisco da Conceição Müller
 
 # En los medios de comunicación
 
-![[iv-eavam_oficina-01.png]]*Publicación elaborada y divulgada por la comisión del evento.*
+![[2020-oficina-podcast-eavaam-1.png]]*Publicación elaborada y divulgada por la comisión del evento.*
 
-![[iv-eavam_oficina-02.png]]
+![[2020-oficina-podcast-eavaam-2.png]]

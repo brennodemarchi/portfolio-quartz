@@ -37,24 +37,24 @@ Exhibited on November 9th, 2023, "Chico Came Back Alone" was a finalist in the C
 
 # Press Releases
 
-![[doc-chicovoltouso-pressrelease-1-coliga.png]]
-![[doc-chicovoltouso-pressrelease-2-coliga.png]]Available in Brazilian Portuguese at: https://www.instagram.com/p/C0ADxcgpjVD/
+![[2023-audiovisual-doc-chicovoltouso-1-coliga-1.png]]
+![[2023-audiovisual-doc-chicovoltouso-2-coliga-2.png]]Available in Brazilian Portuguese at: https://www.instagram.com/p/C0ADxcgpjVD/
 
 
-![[doc-chicovoltouso-pressrelease-3-fundacaorobertomarinho.png]]
+![[2023-audiovisual-doc-chicovoltouso-4-fundrobertomarinho.png]]
 Available in Brazilian Portuguese at: https://www.frm.org.br/conteudo/midias-educativas/noticia/projeto-meu-olhar-celebra-sua-conclusao-com-apresentacao-de
 
-![[doc-chicovoltouso-pressrelease-4-prefeituracubatao.png]]
+![[2023-audiovisual-doc-chicovoltouso-5-prefeituracubatao.png]]
 Available in Brazilian Portuguese at: https://www.cubatao.sp.gov.br/cineasta-cubatense-tem-obra-concorrendo-a-premio-no-canal-futura/
 
-![[doc-chicovoltouso-doc-chicovoltouso-pressrelease-5-bs9litoral.png]]
+![[2023-audiovisual-doc-chicovoltouso-6-bs9litoral.png]]
 Available in Brazilian Portuguese at: https://www.bs9.com.br/litoral/cineasta-cubatense-tem-obra-concorrendo-a-premio-no-canal-futura/19597/
 
 
-![[doc-chicovoltouso-pressrelease-6-prefeituracubatao.png]]
-![[doc-chicovoltouso-pressrelease-7-prefeituracubatao.png]]
+![[2023-audiovisual-doc-chicovoltouso-7-prefeituracubatao-1-curtasantos.png]]
+![[2023-audiovisual-doc-chicovoltouso-7-prefeituracubatao-2-curtasantos.png]]
 Available in Brazilian Portuguese at: https://www.cubatao.sp.gov.br/curtas-com-direcao-e-atuacao-de-cubatenses-sao-premiados-no-festival-curta-santos/
 
-![[doc-chicovoltouso-pressrelease-8-prefeituracubatao.png]]
-![[doc-chicovoltouso-pressrelease-9-prefeituracubatao.png]]
+![[2023-audiovisual-doc-chicovoltouso-8-prefeituracubatao-1-santosfilmfestival.png]]
+![[2023-audiovisual-doc-chicovoltouso-8-prefeituracubatao-2-santosfilmfestival.png]]
 Available in Brazilian Portuguese at: https://www.cubatao.sp.gov.br/curta-metragem-cubatense-conquista-dois-premios-no-10o-santos-film-fest/

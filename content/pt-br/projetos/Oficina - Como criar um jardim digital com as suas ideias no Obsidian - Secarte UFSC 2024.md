@@ -39,16 +39,16 @@ Inscrições: https://inscricoes.ufsc.br/jardim-digital-obsidian-participantes (
 
 # Na Mídia
 
-![[oficina-obsidian-secarteufsc2024-instagram-1.png]]
+![[2024-oficina-obsidian-secarteufsc-1-instagram-1.png]]
 
-![[oficina-obsidian-secarteufsc2024-instagram-2.png]]
+![[2024-oficina-obsidian-secarteufsc-2-instagram-2.png]]
 https://www.instagram.com/p/DATfc8fP0vL/
 
 ### Programação
 
-![[oficina-obsidian-secarteufsc2024-programacao.png]]
+![[2024-oficina-obsidian-secarteufsc-3-programacao-site.png]]
 
 ### Sobre o evento
 
-![[oficina-obsidian-secarteufsc2024-sobre.png]]
+![[2024-oficina-obsidian-secarteufsc-4-sobre-evento.png]]
 https://secarte.ufsc.br/20697-2/

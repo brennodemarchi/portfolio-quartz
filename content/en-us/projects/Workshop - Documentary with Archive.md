@@ -45,10 +45,10 @@ Brenda Pepe
 # Na Mídia
 
 
-![[curso-documentario-arquivo-leandro-olimpio-lpg-sv-2025-1.png]]
+![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-1.png]]
 
-![[curso-documentario-arquivo-leandro-olimpio-lpg-sv-2025-2.png]]
+![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-2.png]]
 
-![[curso-documentario-arquivo-leandro-olimpio-lpg-sv-2025-3.png]]
+![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-3.png]]
 
-![[curso-documentario-arquivo-leandro-olimpio-lpg-sv-2025-4.png]]
+![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-4.png]]

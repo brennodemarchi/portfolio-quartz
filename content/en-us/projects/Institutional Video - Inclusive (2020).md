@@ -40,5 +40,5 @@ An instructional booklet was also created on the concept and implementation of t
 
 # Press Release
 
-![[inclusive-redescomunitariasava6.png]]
+![[2020-audiovisual-inclusive-redescomunitarias-7-ava2.png]]
 Available in Brazilian Portuguese at: https://labdeemergencia.silo.org.br/2ed/pt/imprensa/inclusive/

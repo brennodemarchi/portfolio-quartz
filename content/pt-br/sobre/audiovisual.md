@@ -13,24 +13,24 @@ indentation: "1"
 
 ### Atuação
 
-Realização
+Direção
 
 # Ficha Técnica
 
-**Cor filmada:** colorida  
-**Origem:** Santos/Brasil
-**Ano de produção:** 2025
-**Gênero:** ficção  
-**Duração:** 1min  
-**Classificação:** livre
-**Distribuição:** Núcleo de Pesquisa e Produção Audiovisual (Nupepa/ImaRgens/USP), em parceria com o Laboratório de Pesquisa Social do Departamento de Sociologia da USP (LAPS/USP) e o Instituto de Comunicação da Universidade Nova de Lisboa (ICNOVA/NOVA)
+- **Cor filmada:** colorida  
+- **Origem:** Santos/Brasil
+- **Ano de produção:** 2025
+- **Gênero:** ficção  
+- **Duração:** 1min  
+- **Classificação:** livre
+- **Distribuição:** Núcleo de Pesquisa e Produção Audiovisual (Nupepa/ImaRgens/USP), em parceria com o Laboratório de Pesquisa Social do Departamento de Sociologia da USP (LAPS/USP) e o Instituto de Comunicação da Universidade Nova de Lisboa (ICNOVA/NOVA)
 
 Mais informações [[Vídeo - De quem é a autoria|neste link]].
 
 
 ## Um Osso que Cai
 
-![[umossoquecai-festivaldominuto-fev2025-1.png | 500]]
+![[2025-audiovisual-video-umossoquecai-festivalminuto-1.png| 500]]
 
 ### Atuação
 
@@ -38,14 +38,14 @@ Direção
 
 ### Ficha Técnica
 
-**Cor:** Colorido
-**Origem:** Brasil
-**Ano de Produção:** 2025 
-**Gênero:** Ficção  
-**Duração:** 1min
-**Classificação indicativa:** Livre
-**Distribuição:** Festival do Minuto
-**Disponível em:** https://festivaldominuto.com.br/pt-BR/contents/56005
+- **Cor:** Colorido
+- **Origem:** Brasil
+- **Ano de Produção:** 2025 
+- **Gênero:** Ficção  
+- **Duração:** 1min
+- **Classificação indicativa:** Livre
+- **Distribuição:** Festival do Minuto
+- **Disponível em:** https://festivaldominuto.com.br/pt-BR/contents/56005
 
 ### Exibições e Premiações
 
@@ -61,7 +61,7 @@ Mais informações [[Vídeo - Um Osso que Cai|neste link]].
 ## Os Sonhos Não Envelhecem
 
 
-![[doc-os-sonhos-nao-envelhecem-1-poster.jpg|400]]
+![[2024-audiovisual-doc-ossonhosnaoenvelhecem-1-poster.jpg|400]]
 
 # Atuação
 
@@ -69,13 +69,13 @@ Técnico de Som
 
 ### Ficha Técnica
 
-**Cor filmada:** colorida  
-**Origem:** Brasil  
-**Ano de produção:** 2024 
-**Gênero:** documentário  
-**Duração:** 15min  
-**Classificação:** livre
-**Distribuição:** Fábrica Audiovisual, Fábrica da Dança e Fábrica da Longevidade
+- **Cor filmada:** colorida  
+- **Origem:** Brasil  
+- **Ano de produção:** 2024 
+- **Gênero:** documentário  
+- **Duração:** 15min  
+- **Classificação:** livre
+- **Distribuição:** Fábrica Audiovisual, Fábrica da Dança e Fábrica da Longevidade
 
 ### Exibições e Premiações
 
@@ -98,14 +98,14 @@ Mixagem e Som
 
 ### Ficha Técnica
 
-**Cor:** Preto e Branco
-**Origem:** Brasil
-**Ano de Produção:** 2023  
-**Gênero:** Documentário  
-**Duração:** 5min
-**Classificação indicativa:** Livre
-**Distribuição:** Globo Play & Canal Futura
-**Disponível em:** https://www.youtube.com/watch?v=eyckuFLYndw
+- **Cor:** Preto e Branco
+- **Origem:** Brasil
+- **Ano de Produção:** 2023  
+- **Gênero:** Documentário  
+- **Duração:** 5min
+- **Classificação indicativa:** Livre
+- **Distribuição:** Globo Play & Canal Futura
+- **Disponível em:** https://www.youtube.com/watch?v=eyckuFLYndw
 
 ### Exibições e Premiações
 
@@ -128,14 +128,14 @@ Realização
 
 ### Ficha Técnica
 
-**Cor filmada:** colorida  
-**Origem:** Irlanda e Brasil  
-**Ano de produção:** 2020  
-**Gênero:** documentário  
-**Duração:** 8m16s  
-**Classificação:** livre
-**Distribuição:** Nupepa/ImaRgens/USP
-**Disponível em:** https://www.youtube.com/watch?v=w-zDKlyX9T4. 
+- **Cor filmada:** colorida  
+- **Origem:** Irlanda e Brasil  
+- **Ano de produção:** 2020  
+- **Gênero:** documentário  
+- **Duração:** 8m16s  
+- **Classificação:** livre
+- **Distribuição:** Nupepa/ImaRgens/USP
+- **Disponível em:** https://www.youtube.com/watch?v=w-zDKlyX9T4. 
 
 ### Exibições e Premiações
 
@@ -155,17 +155,17 @@ Direção, som direto, edição e distribuição
 
 ### Ficha Técnica
 
-**Cor filmada:** colorida  
-**Origem:** Brasil
-**Ano de produção:** 2021 
-**Gênero:** Vídeo-Ensaio  
-**Duração:** 23m50s  
-**Classificação:** livre
-**Distribuição:** Youtube/Spotify
+- **Cor filmada:** colorida  
+- **Origem:** Brasil
+- **Ano de produção:** 2021 
+- **Gênero:** Vídeo-Ensaio  
+- **Duração:** 23m50s  
+- **Classificação:** livre
+- **Distribuição:** Youtube/Spotify
 
 **Disponível em:** 
-Youtube: https://www.youtube.com/watch?v=uufGfdThMHk 
-Spotify: https://open.spotify.com/episode/5Xja2CWPD4MDux6iViGXXI?go=1&sp_cid=780325d8f007aadc0f84744a9071d81d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=18b5caccb0274c13 
+- Youtube: https://www.youtube.com/watch?v=uufGfdThMHk 
+- Spotify: https://open.spotify.com/episode/5Xja2CWPD4MDux6iViGXXI?go=1&sp_cid=780325d8f007aadc0f84744a9071d81d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=18b5caccb0274c13 
 
 
 Mais informações [[Vídeo - Poemas Soprados pelo Vento Noroeste - Ademir Demarchi (2021)|neste link]].
@@ -175,23 +175,22 @@ Mais informações [[Vídeo - Poemas Soprados pelo Vento Noroeste - Ademir Demar
 
 ## Inclusive - Redes Comunitárias para Ambientes Virtuais de Aprendizagem
 
-![[inclusive-redescomunitariasava5 1.png]]
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x3ezYRKeA84?si=LyTd_hvuRVb4das9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![[2020-audiovisual-inclusive-redescomunitarias-6-ava1.png|560]]
 
 ### Atuação 
 
-Colaboração na realização (edição de vídeo institucional)
+Colaboração na realização do vídeo institucional (narração e edição de áudio e vídeo)
 
 ### Ficha Técnica
 
-**Cor:** colorida  
-**Origem:** Brasil
-**Ano de produção:** 2020
-**Gênero:** Vídeo Institucional 
-**Duração:** 6min  
-**Classificação:** livre
-**Distribuição:** Youtube
-**Disponível em:** https://www.youtube.com/watch?v=x3ezYRKeA84
+- **Cor:** colorida  
+- **Origem:** Brasil
+- **Ano de produção:** 2020
+- **Gênero:** Vídeo Institucional 
+- **Duração:** 6min  
+- **Classificação:** livre
+- **Distribuição:** Silo - Arte e Latitude Rural
+- **Disponível em:** https://www.youtube.com/watch?v=x3ezYRKeA84
 
 Mais informações [[Vídeo Institucional - Inclusive (2020)|neste link]].
 
@@ -199,7 +198,7 @@ Mais informações [[Vídeo Institucional - Inclusive (2020)|neste link]].
 
 # 2019
 
-<iframe src="https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+![[PodcastDeMarteCover.jpg.png|400]]
 
 ### Atuação
 
@@ -207,19 +206,19 @@ Produção, pesquisa, roteiro, host e edição
 
 ### Ficha Técnica
 
-**Origem:** Brasil
-**Ano de produção:** 2019-2022 
-**Gênero:** Podcast  
-**Classificação:** livre
-**Distribuição:** Spotify/iTunes/CastBox/Google Podcasts
+- **Origem:** Brasil
+- **Ano de produção:** 2019-2022 
+- **Gênero:** Podcast  
+- **Classificação:** livre
+- **Distribuição:** Spotify/iTunes/CastBox/Google Podcasts
 
 **Disponível em:**
-**Feed RSS:** [https://anchor.fm/s/9bd587c/podcast/rss](https://anchor.fm/s/9bd587c/podcast/rss)
-**Spotify:** https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE
-**iTunes:** https://podcasts.apple.com/us/podcast/podcast-de-marte/id1489768981?uo=4
-**Google Podcasts:** https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85YmQ1ODdjL3BvZGNhc3QvcnNz
-**CastBox:** https://castbox.fm/channel/Podcast-de-Marte-id2451350?country=br
-**RadioPublic (pelo navegador):** https://radiopublic.com/podcast-de-marte-WozrLy/episodes
-**Linktree:** https://linktr.ee/podcastdemarte. 
+- **Feed RSS:** [https://anchor.fm/s/9bd587c/podcast/rss](https://anchor.fm/s/9bd587c/podcast/rss)
+- **Spotify:** https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE
+- **iTunes:** https://podcasts.apple.com/us/podcast/podcast-de-marte/id1489768981?uo=4
+- **Google Podcasts:** https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85YmQ1ODdjL3BvZGNhc3QvcnNz
+- **CastBox:** https://castbox.fm/channel/Podcast-de-Marte-id2451350?country=br
+- **RadioPublic (pelo navegador):** https://radiopublic.com/podcast-de-marte-WozrLy/episodes
+- **Linktree:** https://linktr.ee/podcastdemarte. 
 
 Mais informações [[Podcast de Marte|neste link]].

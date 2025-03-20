@@ -2,7 +2,7 @@
 indentation: "2"
 ---
 
-![[artigo-umouvidonofone-revistagis.png]]Disponível em: https://www.revistas.usp.br/gis/article/view/176158.
+![[2021-artigo-umouvidonofone-revistagis-USP.png]]Disponível em: https://www.revistas.usp.br/gis/article/view/176158.
 
 # Resumen
 

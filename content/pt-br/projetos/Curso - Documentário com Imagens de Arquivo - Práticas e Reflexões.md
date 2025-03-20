@@ -40,9 +40,8 @@ Brenda Pepe
 
 # Ferramentas e Tecnologias
 
-**Edição de Fotografias:** RawTherapee
 **Equipamento Fotográfico:** Canon EOS Rebel T5i + objetiva Canon EF-S 18-55mm f/3.5-5.6 IS STM 
-
+**Edição de Fotografias:** RawTherapee
 
 # Na Mídia
 
@@ -52,26 +51,27 @@ Brenda Pepe
 @contraarquivosv: https://www.instagram.com/contraarquivosv/
 
 
-![[curso-documentario-arquivo-leandro-olimpio-lpg-sv-2025-1.png]]
-![[curso-documentario-arquivo-leandro-olimpio-lpg-sv-2025-2.png]]
+![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-9.png]]
+![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-1.png]]
+![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-2.png]]
 
-![[curso-documentario-arquivo-leandro-olimpio-lpg-sv-2025-3.png]]
+![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-3.png]]
 
-![[curso-documentario-arquivo-leandro-olimpio-lpg-sv-2025-4.png]]
+![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-4.png]]
 
 ## Release publicado na Prefeitura de São Vicente
 
 
-![[curso-documentario-arquivo-leandro-olimpio-lpg-sv-2025-5.png]]
+![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-5.png]]
 
-![[curso-documentario-arquivo-leandro-olimpio-lpg-sv-2025-6.png]]
+![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-6.png]]
 Disponível em: https://g1.globo.com/sp/santos-regiao/noticia/2025/01/13/sao-vicente-abre-inscricoes-para-curso-gratuito-de-documentario-com-imagens-de-arquivo-saiba-como-participar.ghtml
 
 ## Release publicado no G1
 
 
-![[curso-documentario-arquivo-leandro-olimpio-lpg-sv-2025-7.png]]
+![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-7.png]]
 
-![[curso-documentario-arquivo-leandro-olimpio-lpg-sv-2025-8.png]]
+![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-8.png]]
 
 Disponível em: https://g1.globo.com/sp/santos-regiao/noticia/2025/01/13/sao-vicente-abre-inscricoes-para-curso-gratuito-de-documentario-com-imagens-de-arquivo-saiba-como-participar.ghtml

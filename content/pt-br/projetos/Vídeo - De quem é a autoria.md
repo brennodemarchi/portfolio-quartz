@@ -42,9 +42,9 @@ Repositório do Pixabay e Pexels, com vídeos de: Pixabay, Elchao, Invideo.io, u
 
 ## Cartaz de Divulgação
 
-![[video-de-quem-e-a-autoria-1-cartaz.png|280]]
+![[2025-audiovisual-video-dequemeaautoria-1-cartaz.png|280]]
 
 ## Playlist de Divulgação do Canal do Núcleo de Pesquisa e Produção Audiovisual (Nupepa/ImaRgens/USP)
 
-![[video-de-quem-e-a-autoria-2-nupepa.png]]
-![[video-de-quem-e-a-autoria-3-nupepa-yt.png]]
+![[2025-audiovisual-video-dequemeaautoria-2-nupepa.png]]
+![[2025-audiovisual-video-dequemeaautoria-3-nupepa-yt.png]]

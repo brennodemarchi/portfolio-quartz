@@ -40,10 +40,8 @@ The best way to get in touch with me is by email, but you can follow my work on 
 
 ## For general use
 
-| ![[instagram.png\|40]] | **Instagram** |  [@brennodemarchi](https://www.instagram.com/brennodemarchi/)   |
-| :--------------------: | :-----------: | :-------------------------------------------------------------: |
-|   ![[imdb.png\|40]]    |   **IMDB**    |     [brennodemarchi](https://www.imdb.com/user/ur43026569)      |
-|  ![[discord.png\|40]]  |  **Discord**  |                            br2n#5451                            |
-|   ![[steam.png\|40]]   |   **Steam**   |           [br2n](https://steamcommunity.com/id/br2n/)           |
+| ![[instagram.png\|40]] | **Instagram** | [@brennodemarchi](https://www.instagram.com/brennodemarchi/) |
+| :--------------------: | :-----------: | :----------------------------------------------------------: |
+|   ![[steam.png\|40]]   |   **Steam**   |         [br2n](https://steamcommunity.com/id/br2n/)          |
 
 ---

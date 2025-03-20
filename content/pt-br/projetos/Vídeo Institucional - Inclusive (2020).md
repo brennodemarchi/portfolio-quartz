@@ -40,5 +40,5 @@ Também foi criada uma cartilha instrutiva sobre o conceito e implementação do
 
 # Na Mídia
 
-![[inclusive-redescomunitariasava6.png]]
+![[2020-audiovisual-inclusive-redescomunitarias-7-ava2.png]]
 Disponível em: https://labdeemergencia.silo.org.br/2ed/pt/imprensa/inclusive/

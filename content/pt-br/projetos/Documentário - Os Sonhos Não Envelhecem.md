@@ -1,5 +1,5 @@
 
-![[doc-os-sonhos-nao-envelhecem-1-poster.jpg|460]]
+![[2024-audiovisual-doc-ossonhosnaoenvelhecem-1-poster.jpg|460]]
 
 # Contexto
 
@@ -69,21 +69,21 @@ Dancin Brasil - Artigos para Dança (@dancinbrasil)
 
 ## Teaser
 
-![[doc-os-sonhos-nao-envelhecem-2.png]]
+![[2024-audiovisual-doc-ossonhosnaoenvelhecem-2.png]]
 https://www.instagram.com/p/DARTCsoxmbB/
 
 ## Cartaz de Exibição no Cine Arte Posto 4
 
-![[doc-os-sonhos-nao-envelhecem-3.png]]
-![[doc-os-sonhos-nao-envelhecem-4.png]]
+![[2024-audiovisual-doc-ossonhosnaoenvelhecem-3.png]]
+![[2024-audiovisual-doc-ossonhosnaoenvelhecem-4.png]]
 
 
 ## Cartaz de Exibição no MISS - Museu da Imagem e do Som de Santos-SP
 
-![[doc-os-sonhos-nao-envelhecem-5.png]]
+![[2024-audiovisual-doc-ossonhosnaoenvelhecem-5.png]]
 https://www.instagram.com/p/DAJxRd0xNw9/
 
 
 ## Cartaz para a "Mostra Mulheres na Cidade" no Juicy Hub -Santos
 
-![[doc-os-sonhos-nao-envelhecem-6.png]]
+![[2024-audiovisual-doc-ossonhosnaoenvelhecem-6.png]]

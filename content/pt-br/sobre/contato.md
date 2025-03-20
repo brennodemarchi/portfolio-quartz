@@ -37,11 +37,9 @@ A melhor forma para entrar em contato comigo é pelo e-mail, mas você pode acom
 
 ## Para uso geral
 
-| ![[instagram.png\|40]] | **Instagram** |  [@brennodemarchi](https://www.instagram.com/brennodemarchi/)   |
-| :--------------------: | :-----------: | :-------------------------------------------------------------: |
-|   ![[imdb.png\|40]]    |   **IMDB**    |     [brennodemarchi](https://www.imdb.com/user/ur43026569)      |
-|  ![[discord.png\|40]]  |  **Discord**  |                            br2n#5451                            |
-|   ![[steam.png\|40]]   |   **Steam**   |           [br2n](https://steamcommunity.com/id/br2n/)           |
+| ![[instagram.png\|40]] | **Instagram** | [@brennodemarchi](https://www.instagram.com/brennodemarchi/) |
+| :--------------------: | :-----------: | :----------------------------------------------------------: |
+|   ![[steam.png\|40]]   |   **Steam**   |         [br2n](https://steamcommunity.com/id/br2n/)          |
 
 
 ---

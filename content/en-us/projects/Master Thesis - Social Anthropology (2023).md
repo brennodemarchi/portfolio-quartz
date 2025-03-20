@@ -2,7 +2,7 @@
 indentation: "2"
 ---
 
-![[dissertacao-brennodemarchi.png|700]]Available in Brazilian Portuguese at: https://repositorio.ufsc.br/handle/123456789/247633.
+![[2023-dissertacao-antropologia-ufsc-1.png|700]]Available in Brazilian Portuguese at: https://repositorio.ufsc.br/handle/123456789/247633.
 
 # Summary
 

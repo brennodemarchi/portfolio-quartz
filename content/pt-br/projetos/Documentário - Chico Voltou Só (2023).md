@@ -52,41 +52,42 @@ Exibido no dia 9 de Novembro de 2023, "Chico Voltou Só" foi finalista da Mostra
 
 ## Lista de Filmes Selecionados da Mostra "Olhar Caiçara" do Curta Santos no Release do jornal A Tribuna
 
-![[doc-chicovoltouso-pressrelease-10-atribuna.png]]
-![[doc-chicovoltouso-pressrelease-11-atribuna.png]]
+![[2023-audiovisual-doc-chicovoltouso-9-atribuna-1.png]]
+![[2023-audiovisual-doc-chicovoltouso-9-atribuna-2.png]]
 
 Disponível em: https://www.atribuna.com.br/variedades/pop-art/curta-santos-divulga-filmes-da-mostra-olhar-caicara-1.439522
 
 ## Divulgação dos Filmes Selecionados no Instagram da Coliga Digital
 
-![[doc-chicovoltouso-pressrelease-1-coliga.png]]
-![[doc-chicovoltouso-pressrelease-2-coliga.png]]Disponível em: https://www.instagram.com/p/C0ADxcgpjVD/
+![[2023-audiovisual-doc-chicovoltouso-1-coliga-1.png]]
+![[2023-audiovisual-doc-chicovoltouso-2-coliga-2.png]]
+![[2023-audiovisual-doc-chicovoltouso-3-coliga-3.png]]
+Disponível em: https://www.instagram.com/p/C0ADxcgpjVD/
 
 ## Press Release na Fundação Roberto Marinho
 
-![[doc-chicovoltouso-pressrelease-3-fundacaorobertomarinho.png]]
+![[2023-audiovisual-doc-chicovoltouso-4-fundrobertomarinho.png]]
 Disponível em: https://www.frm.org.br/conteudo/midias-educativas/noticia/projeto-meu-olhar-celebra-sua-conclusao-com-apresentacao-de
 
 ## Press Release no jornal da Prefeitura de Cubatão
 
-![[doc-chicovoltouso-pressrelease-4-prefeituracubatao.png]]
+![[2023-audiovisual-doc-chicovoltouso-5-prefeituracubatao.png]]
 Disponível em: https://www.cubatao.sp.gov.br/cineasta-cubatense-tem-obra-concorrendo-a-premio-no-canal-futura/
 
 ## Press Release no Jornal BS9
 
-![[doc-chicovoltouso-doc-chicovoltouso-pressrelease-5-bs9litoral.png]]
+![[2023-audiovisual-doc-chicovoltouso-6-bs9litoral.png]]
 Disponível em: https://www.bs9.com.br/litoral/cineasta-cubatense-tem-obra-concorrendo-a-premio-no-canal-futura/19597/
 
 ## Press Release sobre a premiação no Festival Curta Santos no jornal da Prefeitura de Cubatão
 
-![[doc-chicovoltouso-pressrelease-6-prefeituracubatao.png]]
-![[doc-chicovoltouso-pressrelease-7-prefeituracubatao.png]]
+![[2023-audiovisual-doc-chicovoltouso-7-prefeituracubatao-1-curtasantos.png]]
+![[2023-audiovisual-doc-chicovoltouso-7-prefeituracubatao-2-curtasantos.png]]
 Disponível em: https://www.cubatao.sp.gov.br/curtas-com-direcao-e-atuacao-de-cubatenses-sao-premiados-no-festival-curta-santos/
 
 ## Press Release sobre a premiação no 10º Santos Film Fest no jornal da Prefeitura de Cubatão
 
 
-![[doc-chicovoltouso-pressrelease-8-prefeituracubatao.png]]
-![[doc-chicovoltouso-pressrelease-9-prefeituracubatao.png]]
+![[2023-audiovisual-doc-chicovoltouso-8-prefeituracubatao-1-santosfilmfestival.png]]
+![[2023-audiovisual-doc-chicovoltouso-8-prefeituracubatao-2-santosfilmfestival.png]]
 Disponível em: https://www.cubatao.sp.gov.br/curta-metragem-cubatense-conquista-dois-premios-no-10o-santos-film-fest/
-

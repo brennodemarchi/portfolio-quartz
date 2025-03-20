@@ -2,7 +2,7 @@
 indentation: "2"
 ---
 
-![[monografia-brennobdemarchi.webp]]Disponível em: https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_-_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo
+![[2019-monografia-cienciassociais-unesp-1.webp]]Disponível em: https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_-_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo
 
 Fotografias: https://www.behance.net/gallery/91704471/Nem-tao-longe-nem-tao-perto
 

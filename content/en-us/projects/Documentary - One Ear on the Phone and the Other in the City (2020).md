@@ -65,8 +65,8 @@ For more info about the event, check the following link: [https://sigaa.ufrn.br
 
 # Press Releases
 
-![[I-mostra-audiovisual-latinoamericana-filme-etnografico-ufrn1.png]]
-![[I-mostra-audiovisual-latinoamericana-filme-etnografico-ufrn2.png]]
-![[3-festival-mostra-audiovisual-nupepa-imargens-2020-filmes-documentarios.png]]
-![[3-festival-mostra-audiovisual-nupepa-imargens-2020-programação-oficial.png]]
-![[3-festival-mostra-audiovisual-nupepa-imargens-poster.webp]]
+![[2020-audiovisual-mostra-filmesetnograficos-ufrn-1.png]]
+![[2020-audiovisual-mostra-filmesetnograficos-ufrn-2.png]]
+![[2020-audiovisual-festival-nupepa-usp-documentarios-1.png]]
+![[2020-audiovisual-festival-nupepa-usp-documentarios-2.png]]
+![[2020-audiovisual-festival-nupepa-usp-documentarios-3-poster.webp]]

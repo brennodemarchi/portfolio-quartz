@@ -52,14 +52,14 @@ Aparecida Larissa
 
 # Na Mídia
 
-![[oficina-podcast-aldirblanc-atribuna-1.png]]
-![[oficina-podcast-aldirblanc-atribuna-2.png]]
+![[2021-oficina-podcast-aldirblanc-2020-1-atribuna-1.png]]
+![[2021-oficina-podcast-aldirblanc-2020-2-atribuna-2.png]]
 Disponível em: https://www.atribuna.com.br/variedades/programe-se/oficina-santista-de-podcasts-de-poesia-encerra-inscricoes-neste-domingo
 
-![[oficina-podcast-aldirblanc-jornal-da-orla-1.png]]
-![[oficina-podcast-aldirblanc-jornal-da-orla-2.png]]
+![[2021-oficina-podcast-aldirblanc-2020-4-jornalorla-1.png]]
+![[2021-oficina-podcast-aldirblanc-2020-5-jornalorla-2.png]]
 Disponível em: https://www.jornaldaorla.com.br/noticias/46841-oficina-de-podcast-santista-ensina-a-produzir-programas-com-qualidade-poucos-recursos/
 
-![[oficina-podcast-aldirblanc-podcast-instagram-1.png | 500]]
-![[oficina-podcast-aldirblanc-podcast-instagram-2.jpg | 500]]
-![[oficina-podcast-aldirblanc-podcast-instagram-3.jpg | 500]]
+![[2021-oficina-podcast-aldirblanc-2020-6-instagram-1.png| 500]]
+![[2021-oficina-podcast-aldirblanc-2020-7-instagram-2.jpg| 500]]
+![[2021-oficina-podcast-aldirblanc-2020-8-instagram-3.jpg| 500]]

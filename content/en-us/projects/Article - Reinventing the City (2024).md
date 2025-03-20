@@ -2,7 +2,7 @@
 indentation: "2"
 ---
 
-![[artigo-hiphop-sociologiasplurais-UFPR-2024.png]]Disponível em: https://revistas.ufpr.br/sclplr/article/view/94244
+![[2024-artigo-hiphop-sociologiasplurais-UFPR.png]]Disponível em: https://revistas.ufpr.br/sclplr/article/view/94244
 
 # Reinventing the City: thoughts about the hip hop movement and its political insurgencies
 

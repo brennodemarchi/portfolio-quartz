@@ -1,6 +1,6 @@
 
 
-![[umossoquecai-festivaldominuto-fev2025-1.png | 600]]
+![[2025-audiovisual-video-umossoquecai-festivalminuto-1.png| 600]]
 
 <iframe title="Um Osso que Cai" src="https://www.festivaldominuto.com.br/pt-BR/contents/56005" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
@@ -33,4 +33,4 @@ Objetiva: Canon EF-S 18-55mm f/3.5-5.6 IS STM
 
 ## Cartaz de Divulgação
 
-![[umossoquecai-festivaldominuto-fev2025-1.png | 600]]
+![[2025-audiovisual-video-umossoquecai-festivalminuto-1.png| 600]]

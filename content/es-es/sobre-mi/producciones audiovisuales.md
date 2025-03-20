@@ -9,7 +9,7 @@ indentation: "1"
 
 ## Um Osso que Cai (Un Hueso que Cae)
 
-![[umossoquecai-festivaldominuto-fev2025-1.png | 600]]
+![[2025-audiovisual-video-umossoquecai-festivalminuto-1.png| 600]]
 
 <iframe title="Um Osso que Cai" src="https://www.festivaldominuto.com.br/pt-BR/contents/56005" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
@@ -161,7 +161,7 @@ Más informaciones en [[Vídeo - Poemas Soplados por el Viento del Noroeste|este
 ## Inclusive - Redes Comunitarias para Entornos Virtuales de Aprendizaje
 
 
-![[inclusive-redescomunitariasava5 1.png]]
+![[2020-audiovisual-inclusive-redescomunitarias-6-ava1.png]]
 <iframe title="Inclusive | 2ed LABORATÓRIO DE EMERGÊNCIA | COVID–19" src="https://www.youtube.com/embed/x3ezYRKeA84?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 ### Sinopsis
 

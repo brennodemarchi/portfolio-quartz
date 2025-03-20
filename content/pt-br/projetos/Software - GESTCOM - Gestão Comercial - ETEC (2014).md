@@ -2,7 +2,7 @@
 indentation: "2"
 ---
 
-![[etec-gestcom-presentation.webp]]
+![[2014-etecaff-gestcom-1-presentation.webp]]
 # Sobre 
 
 GESTCOM - Gestão Comercial foi um software desenvolvido entre Fevereiro a Junho de 2014 como parte dos critérios para obtenção do título de Técnico de Nível Médio em Informática (com ênfase em programação) na Escola Técnica Estadual Aristótteles Ferreira – Santos, SP, Brasil.
@@ -50,52 +50,60 @@ Nowadays the gastronomical area is growing a lot and drives many businesses in B
 
 ## Trechos do Código
 
-![[etecaf-gestcom-code-cadastrar-cliente.png]]
+### Cadastrar Cliente
 
-![[etecaf-gestcom-code-formlogin.png]]
+![[2014-etecaff-gestcom-2-codigo-adastrar-cliente.png]]
 
-![[etecaf-gestcom-code-historicopedidos.png]]
+### Fazer login
 
-![[etecaf-gestcom-code-listarpedidosatuais.png]]
+![[2014-etecaff-gestcom-3-codigo-fazer-login.png]]
+
+### Histórico de Pedidos
+
+![[2014-etecaff-gestcom-4-codigo-historicopedidos.png]]
+
+### Listar os Pedidos Atuais
+
+![[2014-etecaff-gestcom-5-codigo-listarpedidosatuais.png]]
 
 ## Pedido Exportado
 
-![[etecaf-gestcom-export-pedido-1.png]]
+![[2014-etecaff-gestcom-6-pedidoexportado.png]]
 
 ## Splash Screen (Tela de Abertura)
 
-![[etecaf-gestcom-splashscreen.jpg]]
+![[2014-etecaff-gestcom-7-splashscreen.jpg]]
 
 ## Menu Inicial
 
-![[etecaf-gestcom-home-1.png]]
+![[2014-etecaff-gestcom-8-telainicial.png]]
 
 ## Modelagem do Banco de Dados 
 
-![[etecaf-gestcom-modelodedados.png]]
+![[2014-etecaff-gestcom-9-modelo-database.png]]
 
 # Apresentação de Slides
 
-![[etecaf-gestcom-slide-1.png]]
+![[2014-etecaff-gestcom-10-slide-1.png]]
 
-![[etecaf-gestcom-slide-2.png]]
+![[2014-etecaff-gestcom-11-slide-2.png]]
 
-![[etecaf-gestcom-slide-3.png]]
+![[2014-etecaff-gestcom-12-slide-3.png]]
 
-![[etecaf-gestcom-slide-4.png]]
+![[2014-etecaff-gestcom-13-slide-4.png]]
 
 # Monografia
 
-![[etecaff-gestcom-monografia-1.png]]
-![[etecaff-gestcom-monografia-2.png]]
-![[etecaff-gestcom-monografia-3.png]]
-![[etecaff-gestcom-monografia-4.png]]
-![[etecaff-gestcom-monografia-5-dfd0.png]]
+![[2014-etecaff-gestcom-14-monografia-1.png]]
+![[2014-etecaff-gestcom-15-monografia-2.png]]
+![[2014-etecaff-gestcom-16-monografia-3.png]]
+![[2014-etecaff-gestcom-17-monografia-4.png]]
+![[2014-etecaff-gestcom-18-monografia-5-dfd-zero.png]]
 
-![[etecaff-gestcom-monografia-6-dfd1.png]]
+![[2014-etecaff-gestcom-19-monografia-5-dfd-um.png]]
 
-![[etecaff-gestcom-monografia-7-modelagem-dados.png]]
+![[2014-etecaff-gestcom-20-monografia-6-modelagem-dados.png]]
 
-![[etecaff-gestcom-monografia-8-dicionariodados.png]]
+![[2014-etecaff-gestcom-21-monografia-7-dicionario-dados.png]]
 
-![[etecaff-gestcom-monografia-8-listadeeventos.png]]
+![[2014-etecaff-gestcom-22-monografia-8-lista-eventos.png]]

@@ -64,6 +64,6 @@ Jackson Francisco da Conceição Müller
 
 # Na Mídia
 
-![[iv-eavam_oficina-01.png]]*Publicação elaborada e divulgada pena comissão do evento*
+![[2020-oficina-podcast-eavaam-1.png]]*Publicação elaborada e divulgada pena comissão do evento*
 
-![[iv-eavam_oficina-02.png]]
+![[2020-oficina-podcast-eavaam-2.png]]
