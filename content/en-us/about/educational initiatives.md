@@ -7,60 +7,116 @@ indentation: "1"
 
 # 2025
 
-## Documentário com Imagens de Arquivo: Práticas e Reflexões
+## Documentary with Archival Images: Practices and Reflections
 
-Realizei os trabalhos de **assistência de produção**, **registro fotográfico** e **legendagem descritiva** no curso "Documentário com Imagens de Arquivo: Práticas e Reflexões", proposto, produzido e ministrado por Leandro Olimpio da Rocha e realizado através da Lei Federal Paulo Gustavo – LPG, no município de São Vicente/SP, durante os dias 04, 06, 11, 15, 18, 22, 25 e 27 de Fevereiro de 2025 no Espaço Multicultural, localizado na Praça 22 de Janeiro, s./nº., Centro, São Vicente-SP.
+### Role
 
-Mais informações [[Curso - Documentário com Imagens de Arquivo - Práticas e Reflexões|neste link]].
+Production assistance, photographic documentation, and descriptive captioning
+
+### Summary
+
+The course was proposed, produced, and taught by Leandro Olimpio da Rocha, through the Paulo Gustavo Federal Law (LPG), and was held during February 2025 at the Multicultural Space in the municipality of São Vicente/SP.
+
+More information [[Workshop - Documentary with Archive|at this link]].
 
 ## A Historical Overview of Composting Practices
 
-The lecture "A Historical Overview of Composting Practices" was held during the VI Course on Gardening and Composting, organized by Composta & Cultiva in partnership with EcoFábrica Criativa – Zona Noroeste, in Santos-SP, on January 29, 2025.
+### Role
 
-In it, I presented my doctoral research, addressing the initial proposal for the chapters of the thesis and exploring composting practices adopted by Western and non-Western peoples mapped so far. Subsequently, I shared my experience at the VIII Community Waste Management Course by the Centro de Estudos e Promoção da Agricultura de Grupo [Center for Studies and Promotion of Group Agriculture] (Cepagro), illustrating it with photos and providing comments on the composting projects visited in Florianópolis (Santa Catarina, Brazil), as well as other initiatives shared by participants from different regions of Brazil.
+Speaker
+
+### Summary
+
+I presented my doctoral research in one of the classes of the VI Course on Gardening and Composting, held on January 29, 2025, in Santos-SP, organized by Composta & Cultiva in partnership with EcoFábrica Criativa.
+
+The presentation covered the initial structure of the thesis and the composting practices of Western and non-Western peoples mapped. Additionally, I shared my experience as a student of the _VIII Course on Community Waste Management_ by [Cepagro](http://www.cepagro.org.br/), showing photos and commenting on composting projects visited in Florianópolis-SC, as well as other initiatives reported by participants from different regions of Brazil.
 
 ---
+
 # 2024
 
-## How to Create a Digital Garden with Your Ideas in Obsidian (Call for Proposals 9th Edition of Experimenta - Department of Arts and Culture at the Federal University of Santa Catarina, Brazil)
+## How to Create a Digital Garden with Your Ideas in Obsidian (9th Edition of Experimenta - SeCArtE/UFSC)
 
-The workshop "How to Create a Digital Garden with Your Ideas in Obsidian" aims to promote the process of creating a digital garden and make its use easier, linked to note-taking and summarizing practices using the Obsidian software. 
+### Role
 
-A digital garden is a network of interconnected thoughts and ideas, grouped according to the way the summaries and notes relate to each other. As a non-linear and non-hierarchical organizational system of thought and creativity, the digital garden offers an alternative to conventional methods of archiving, researching, and visualizing various information, and can be used for creating portfolios, artistic practices, RPG campaigns, mappings, or even academic research. 
+Production, Instructor, and Facilitator
 
-Participants in the workshop will be able to interconnect different concepts, ideas, and categories by spatializing them as nodes in a mesh (network maps or graphs). The digital gardens created in the workshop can be published online for free and later cultivated by the creators. 
+### Summary
 
-More information [[Obsidian Workshop - How to Create a Digital Garden with Your Ideas in Obsidian - Secarte UFSC 2024|click here]].
+It was selected through a public notice to be part of the program of the 9th Edition of "Experimenta," organized by the Secretariat of Arts and Culture of the Federal University of Santa Catarina (SeCArtE/UFSC).
+
+In it, we sought to promote the process of creating a digital garden and facilitate its use, linked to note-taking and annotation practices using the Obsidian software. Participants in the workshop were able to interconnect different concepts, ideas, and categories by spatializing them into nodes in a mesh (network or graph maps).
+
+More information [[Workshop - How to Create a Digital Garden with Your Ideas in Obsidian - Secarte-UFSC (2024)||at this link]].
 
 ## Obsidian: Managing Knowledge and Cultivating Digital Gardens (Module 2)
 
-The workshop "Obsidian: Managing Knowledge and Cultivating Digital Gardens (Module 2)" aimed to empower participants to master advanced techniques for personal knowledge management and the creation of digital gardens in Obsidian by using plugins, automations, and integrations that expand the software's functionalities, transforming it into a powerful tool for organization, creativity, and productivity in various contexts.
+### Role
 
-In this module, we covered the use of **Toggl Track** (time tracking), **Mind Map** (mind maps), **%Waypoint%** (summaries), **Excalidraw** (diagrams and flowcharts), **%Templater%** (advanced automations and templates), **Obsidian Copilot** (AI integration into the vault), **Dataview** (advanced tables), **Zotero Integration** and **BetterBibTex** (integrating notes from Zotero), **Pandoc Reference List** (creating reference lists), **File Info Panel** (word count and page estimation), and finally, the **Export Settings** plugin (exporting markdown files to DOCX or ODT).
+Instructor and Facilitator
+
+### Summary
+
+The workshop "Obsidian: Managing Knowledge and Cultivating Digital Gardens (Module 2)" was held for students of the Graduate Program in Architecture and Urbanism at the Federal University of Santa Catarina (PósArq/UFSC).
+
+It aimed to equip participants with advanced techniques for personal knowledge management and the creation of digital gardens in Obsidian by using plugins, automations, and integrations that expand the software's functionalities, turning it into a powerful tool for organization, creativity, and productivity in various contexts.
+
+In this module, we covered the use of **Toggl Track** (time tracking), **Mind Map** (mind maps), **%Waypoint%** (summaries), **Excalidraw** (diagrams and flowcharts), **%Templater%** (automations and advanced templates), **Obsidian Copilot** (AI integration into the vault), **Dataview** (advanced tables), **Zotero Integration** and **BetterBibTex** (integrating Zotero notes), **Pandoc Reference List** (creating reference lists), **File Info Panel** (word count and page estimation), and finally, the **Export Settings** plugin (exporting markdown files to DOCX or ODT).
 
 ---
+
 # 2022
 
-## A recorded video class with the theme  "How to produce and edit your podcast" (supported with Brazilian public funds from the "*ProAc Expresso Direto nº39/2021*" notice)
+## Instructional Video "How to Produce and Edit Your Podcast" (ProAc Expresso Direto No. 39/2021)
 
-The video lesson "How to produce and edit your podcast" was produced and distributed free of charge in return for the award given by the Secretariat of Culture and Creative Economy of the Government of the State of São Paulo through "*ProAc Expresso Direto no. 39/2021*", a Brazilian public notice to provide public funds for cultural projects to professionals in the creative cultural sector through a selection made by an examining board. 
+### Role
 
-For more info [[Video Class - Podcast Production and Edition - ProAc Expresso Direto (2021)|click here]].
+Proponent, Production, Research, Instructor, Editing, and Sound Design
+
+### Summary
+
+The instructional  video was produced and distributed for free as a counterpart to the award given by the _Secretariat of Culture and Creative Economy of the State of São Paulo_ through ProAc Expresso Direto No. 39/2021.
+
+More information [[Instructional Video - Podcast Production and Edition - ProAc Expresso Direto (2021)|at this link]].
 
 ---
+
 # 2021
 
-## Workshop on Production and Distribution of Poetry Podcasts (supported with Brazilian public funding from the "Lei Aldir Blanc - Prêmio Alcides Mesquita 2020"notice)
+## Production and Promotion of Poetry Podcasts (Lei Aldir Blanc - Alcides Mesquita Award 2020)
 
-The workshop on "Production and Distribution of Poetry Podcasts" was held with the financial support of the "Aldir Blanc Law – Alcides Mesquita Award 2020", a Brazilian public notice to provide public funds for cultural projects through a selection made by an examining board managed by the Municipality of Santos and the Federal Government. 
+### Role
 
-For more info [[Poetry Podcast Workshop - Aldir Blanc (2021)|click here]].
+Proponent, Production, Research, Instructor, Editing, and Sound Design
+
+### Summary
+
+The workshop was held with the support of the Lei Aldir Blanc – Alcides Mesquita Award 2020, from the Municipal Government of Santos and the Federal Government.
+
+More information [[Workshop - Poetry Podcast Workshop - Aldir Blanc (2021)|at this link]].
+
+## Special Edition of the Audiovisual Workshop
+
+### Role
+
+Collaborator
+
+### Summary
+
+This audiovisual workshop was an initiative of the _Núcleo de Pesquisa e Produção Audiovisual_ (NUPEPA/ImaRgens/USP), the _Instituto de Comunicação da Universidade Nova de Lisboa_ (ICNOVA/FCSH/NOVA), and the _Laboratório de Pesquisa Social da USP_ (LAPS/FFLCH/USP) for students of the _Technische Universität Berlin_ [Technical University of Berlin] (TU-Berlin).
 
 ---
+
 # 2020
 
-##  Podcast Workshop: from idea to independent production
+## Podcast Workshop: From Idea to Independent Production
 
-"Podcast Workshop: from idea to independent production" took place at the IV Visual Anthropology Meeting of the Amazon America (EAVAAM), from November 18th to 20th, 2020. 
+### Role
 
-For more info [[Podcast Workshop - IV EAVAAM (2020)|click here]]. 
+Production, Research, Instructor, Editing, and Sound Design
+
+### Summary
+
+It was selected and held at the IV Encontro de Antropologia Visual da América Amazônica (EAVAAM), which took place on November 18, 19, and 20, 2020.
+
+More information [[Workshop - Podcast Workshop - IV EAVAAM (2020)|at this link]].

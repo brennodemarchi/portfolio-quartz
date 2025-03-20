@@ -6,226 +6,216 @@ indentation: "1"
 
 ---
 # 2025
+## De quem é a autoria? (Who is the Author?)
 
-## Um Osso que Cai (Un Hueso que Cae)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hQSzUnBndrc?si=XW2G6f_NMmukbjd6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![[2025-audiovisual-video-umossoquecai-festivalminuto-1.png| 600]]
+### Role
 
-<iframe title="Um Osso que Cai" src="https://www.festivaldominuto.com.br/pt-BR/contents/56005" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+Direction
 
-### Sinopsis
+# Technical Details
 
-Un hueso cae inexplicablemente del cielo y un perro comienza a devorarlo, sin saber de dónde viene ni qué puede significar.
+- **Color:** Color
+- **Origin:** Santos/Brazil
+- **Year of Production:** 2025
+- **Genre:** Fiction
+- **Duration:** 1min
+- **Rating:** Free for all ages
+- **Distribution:** Núcleo de Pesquisa e Produção Audiovisual (Nupepa/ImaRgens/USP), in partnership with the Laboratório de Pesquisa Social do Departamento de Sociologia da USP (LAPS/USP) and the Instituto de Comunicação da Universidade Nova de Lisboa (ICNOVA/NOVA)
 
-### Créditos
+More information [[Video - Who is the Author|at this link]].
 
-**Dirección:** Brenno Brandalise Demarchi  
-**Equipo:** Nemo (Perro)
+## Um Osso que Cai (A Bone That Falls)
 
-### Ficha Técnica
+![[2025-audiovisual-video-umossoquecai-festivalminuto-1.png| 500]]
 
-**Color:** Color  
-**Origen:** Brasil  
-**Año de Producción:** 2025  
-**Género:** Ficción  
-**Duración:** 1 min  
-**Clasificación:** Apta para todo público  
-**Distribución:** Festival del Minuto - TEMA LIBRE - DIC/ENE/FEB 2024-25, 2025  
-**Disponible en:** https://festivaldominuto.com.br/pt-BR/contents/56005
+### Role
 
-### **Equipamiento
+Direction
 
-**Cámara:** Canon EOS Rebel T5i  
-**Objetivo:** Canon EF-S 18-55mm f/3.5-5.6 IS STM
+### Technical Details
 
+- **Color:** Color
+- **Origin:** Brazil
+- **Year of Production:** 2025
+- **Genre:** Fiction
+- **Duration:** 1min
+- **Rating:** Free for all ages
+- **Distribution:** Festival do Minuto
+- **Available at:** [https://festivaldominuto.com.br/pt-BR/contents/56005](https://festivaldominuto.com.br/pt-BR/contents/56005)
+
+### Exhibition and Awards
+
+- Festival do Minuto - FREE THEME - DEC/JAN/FEB 2024-25, 2025 - Screening
+
+More information [[Video - A Bone That Falls|at this link]].
 
 ---
+
+# 2024
+
+## Os Sonhos Não Envelhecem (Dreams Do Not Age)
+
+![[2024-audiovisual-doc-ossonhosnaoenvelhecem-1-poster.jpg|400]]
+
+# Role
+
+Sound Technician
+
+### Technical Details
+
+- **Color:** Color
+- **Origin:** Brazil
+- **Year of Production:** 2024
+- **Genre:** Documentary
+- **Duration:** 15min
+- **Rating:** Free for all ages
+- **Distribution:** Fábrica Audiovisual, Fábrica da Dança e Fábrica da Longevidade
+
+### Exhibition and Awards
+
+- Mostra Mulheres na Cidade at Juicy Hub - Santos - Screening
+- Cine Arte Posto 4 (Santos-SP) - Screening
+- MISS - Museu da Imagem e do Som (Santos-SP) - Screening
+
+More information [[Documentary - Dreams Do Not Age|at this link]].
+
+---
+
 # 2023
 
-## Chico Voltou Só (Chico Volvió Solo)
+## Chico Voltou Só
 
 <iframe title="Meu Olhar apresenta &quot;Chico Voltou Só&quot;, de Douglas Gadelha Sá" src="https://www.youtube.com/embed/eyckuFLYndw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+## Atuação
 
-### Sinopsis
-
-El documental reflexiona sobre la trayectoria de un trabajador nordestino en plena dictadura militar en la ciudad de Cubatão (SP), a través de imágenes de archivo y vídeos inéditos.
-
-### Créditos
-
-**Dirección, Guión e Investigación:** Douglas Gadelha Sá
-**Cinematografía:** Rodrigo Samia
-**Edición:** Leandro Olimpio
-**Mezcla y Sonido:** Brenno Brandalise Demarchi
+Mixagem e Som
 
 ### Ficha Técnica
 
-**Color:** Blanco y negro
-**Origen:** Brasil
-**Año de Producción:** 2023  
-**Género:** Documental  
-**Duración:** 5min
-**Clasificación Indicativa:** Libre
-**Distribución:** Globo Play & Canal Futura
-**Disponible en Portugués de Brasil en:** [https://www.youtube.com/watch?v=eyckuFLYndw](https://www.youtube.com/watch?v=eyckuFLYndw).
+- **Cor:** Preto e Branco
+- **Origem:** Brasil
+- **Ano de Produção:** 2023  
+- **Gênero:** Documentário  
+- **Duração:** 5min
+- **Classificação indicativa:** Livre
+- **Distribuição:** Globo Play & Canal Futura
+- **Disponível em:** https://www.youtube.com/watch?v=eyckuFLYndw
 
-### Proyecciones y Premios
+### Exibições e Premiações
 
-- 10º Festival de Cine de Santos (2024) - Mejor Guión y 2º Mejor Película Regional
-- 22º Festival Curta Santos (2024) - Mejor Montaje
-- Muestra Competitiva del proyecto «Meu Olhar - Cortometrajes realizados por la Juventud Periférica de São Paulo» (2023) - Finalista
+- 10º Santos Film Festival (2024) - Melhor Roteiro e 2º Melhor Filme Regional
+- 22º Festival Curta Santos (2024) - Melhor Montagem
+- Mostra Competitiva do projeto “Meu Olhar – Filmes curtos feitos pela Juventude Periférica de São Paulo” (2023) - Finalista
 
-Más informaciones en [[Película Documental - Chico Volvió Solo (2023)|este enlace]].
+Mais informações [[Documentário - Chico Voltou Só (2023)|neste link]]. 
 
 ---
 # 2021
 
-## Um Fone no Ouvido e o Outro na Cidade (Un audífono en el oído y el otro en la ciudad)
+## Um Fone no Ouvido e o Outro na Cidade
 
 <iframe title="Um Ouvido no Fone e o Outro na Cidade - Mustela - filme resultante da 7ª Oficina do NUPEPA/ImaRgens" src="https://www.youtube.com/embed/u8w5tb4R1hc?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
-### Sinopsis 
+### Atuação
 
-Hacer entregas por app forma parte de la realidad de muchos brasileños, incluidos los que viven en el extranjero. La película, a su vez, examina la vida de los repartidores brasileños que viven en Dublín. En conversaciones informales con estos repartidores, cuentan al entrevistador cómo la música, los podcasts y los sonidos de la ciudad suavizan y hacen posible su trabajo diario.
+Realização
 
-### Créditos
+### Ficha Técnica
 
-### Realizadores/as
+- **Cor filmada:** colorida  
+- **Origem:** Irlanda e Brasil  
+- **Ano de produção:** 2020  
+- **Gênero:** documentário  
+- **Duração:** 8m16s  
+- **Classificação:** livre
+- **Distribuição:** Nupepa/ImaRgens/USP
+- **Disponível em:** https://www.youtube.com/watch?v=w-zDKlyX9T4. 
 
-Alexsânder Nakaóka Elias  
-Anna Flávia Guimarães Hartmann  
-Arthur Silva Barbosa  
-Brenno Brandalise Demarchi  
-Luiz Henrique Campos Pereira  
-Noelle Rodrigues Ventura  
-Renan Moretti Bertho
+### Exibições e Premiações
 
-### Entrevistados/as
+- **3º Festival e Mostra de Audiovisual do NUPEPA/ImaRgens – ICNOVA/LAPS (2020)** - Selecionado
+- **I Mostra Latino-Americana de Filmes Etnográficos da Universidade Federal do Rio Grande do Norte (2020)** - Selecionado
 
-Henrique Nascimento  
-Juliana  
-Rodrigo Scapin - Didi  
-Victor Brasil
+Mais informações [[Documentário - Um Fone no Ouvido e o Outro na Cidade (2020)|neste link]].
 
-### Créditos
-
-**Color de rodaje:** color  
-**Origen:** Irlanda y Brasil  
-**Año de producción:** 2020  
-**Género:** Documental  
-**Duración:** 8m16s  
-**Clasificación:** libre
-**Distribución:** Nupepa/ImaRgens/USP
-
-### Proyecciones y Premios
-
-- **III Festival y Muestra Audiovisual NUPEPA/ImaRgens - ICNOVA/LAPS (2020)** - Seleccionado
-- **I Festival de Cine Etnográfico Latinoamericano de la Universidad Federal de Rio Grande do Norte (2020)** - Seleccionado
-
-Más informaciones en [[Película Documental - Un audífono en el oído y el otro en la ciudad (2020)|este enlace]].
-   
-## Poemas Soplados por el Viento del Noroeste
+ 
+## Poemas Soprados Pelo Vento Noroeste
 
 <iframe title="Poemas soprados pelo vento noroeste" src="https://www.youtube.com/embed/uufGfdThMHk?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
-### Sinopsis
+### Atuação
 
-En este proyecto, Ademir Demarchi (proponente), con el estímulo de la Ley Aldir Blanc - Premio Alcides Mesquita, de la Alcaldía de Santos y del Gobierno Federal, hizo una selección y grabación de poemas propios que hablan de su experiencia de vivir en la ciudad de Santos. Pueden leerse en el libro «Pirão de Sereia», publicado por Realejo Edições, que fue producido con el Programa de Apoyo Cultural del Ayuntamiento de Santos en 2010.
+Direção, som direto, edição e distribuição
 
-Fui responsable de la dirección, sonido directo y edición de vídeo y sonido, resultando en la producción de un vídeo y un episodio de podcast que constituyeron la contrapartida del proyecto.
+### Ficha Técnica
 
-### Ficha técnica
+- **Cor filmada:** colorida  
+- **Origem:** Brasil
+- **Ano de produção:** 2021 
+- **Gênero:** Vídeo-Ensaio  
+- **Duração:** 23m50s  
+- **Classificação:** livre
+- **Distribuição:** Youtube/Spotify
 
-**Color de rodaje:** color  
-**Origen:** Brasil
-**Año de producción:** 2021 
-**Género:** Vídeo Ensayo  
-**Duración:** 23m50s  
-**Calificación:** libre
-**Distribución:** Youtube/Spotify
-
-**Disponible en:**
-Youtube: https://www.youtube.com/watch?v=uufGfdThMHk 
-Spotify: https://open.spotify.com/episode/5Xja2CWPD4MDux6iViGXXI?go=1&sp_cid=780325d8f007aadc0f84744a9071d81d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=18b5caccb0274c13 
-
-### Créditos
-
-- **Escritor, guión, poemas, voz en off, cámara y producción:** Ademir Demarchi
-- **Dirección, sonido directo, montaje y distribución:** Brenno Brandalise Demarchi
+**Disponível em:** 
+- Youtube: https://www.youtube.com/watch?v=uufGfdThMHk 
+- Spotify: https://open.spotify.com/episode/5Xja2CWPD4MDux6iViGXXI?go=1&sp_cid=780325d8f007aadc0f84744a9071d81d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=18b5caccb0274c13 
 
 
-Más informaciones en [[Vídeo - Poemas Soplados por el Viento del Noroeste|este enlace]].
+Mais informações [[Vídeo - Poemas Soprados pelo Vento Noroeste - Ademir Demarchi (2021)|neste link]].
 
 ---
 # 2020
 
-## Inclusive - Redes Comunitarias para Entornos Virtuales de Aprendizaje
+## Inclusive - Redes Comunitárias para Ambientes Virtuais de Aprendizagem
 
+![[2020-audiovisual-inclusive-redescomunitarias-6-ava1.png|560]]
 
-![[2020-audiovisual-inclusive-redescomunitarias-6-ava1.png]]
-<iframe title="Inclusive | 2ed LABORATÓRIO DE EMERGÊNCIA | COVID–19" src="https://www.youtube.com/embed/x3ezYRKeA84?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
-### Sinopsis
+### Atuação 
 
-Vídeo institucional producido para el proyecto «Inclusivo - Redes Comunitarias para Entornos Virtuales de Aprendizaje» durante la 2ª edición del «Laboratorio de Emergencia - COVID-19 - Reconfigurando el Futuro», una iniciativa de Silo - Arte e Latitude Rural en colaboración con otras instituciones, colectivos y laboratorios, del 15 al 21 de junio de 2020.
-
-### Créditos
-
-### Proponentes:
-
-- Aluizio Barbosa de Oliveira Neto - Belo Horizonte, MG
-- Rodrigo Borges - Belo Horizonte, MG
-
-### Colaboradores/as:
-
-- Andrey Borges Bernardes
-- Aparecida Torrecillas
-- Bernardo Baião
-- Brenno Brandalise Demarchi
-- Cristiano Tavares
-- Mariana Almeida Zani (Mediación)
+Colaboração na realização do vídeo institucional (narração e edição de áudio e vídeo)
 
 ### Ficha Técnica
 
-**Color:** colorida  
-**Origen:** Brasil
-**Año de Produción:** 2020
-**Género:** Vídeo Institucional 
-**Duración:** 6min  
-**Calificación:** libre
-**Distribución:** Youtube
-**Disponible en:** https://www.youtube.com/watch?v=x3ezYRKeA84
+- **Cor:** colorida  
+- **Origem:** Brasil
+- **Ano de produção:** 2020
+- **Gênero:** Vídeo Institucional 
+- **Duração:** 6min  
+- **Classificação:** livre
+- **Distribuição:** Silo - Arte e Latitude Rural
+- **Disponível em:** https://www.youtube.com/watch?v=x3ezYRKeA84
 
-Más informaciones en [[Vídeo - Inclusive - Redes Comunitarias para Entornos Virtuales de Aprendizaje (2020)|este enlace]].
+Mais informações [[Vídeo - Inclusive (2020)|neste link]].
 
 ---
 
 # 2019
 
-<iframe src="https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+![[PodcastDeMarteCover.jpg.png|400]]
 
-### Sinopsis 
+### Atuação
 
-Un podcast narrativo para reflexionar críticamente sobre nuestra sociedad.
-
-### Créditos
-
-**Producción, investigación, guión, presentador y edición:** Brenno Brandalise Demarchi
+Produção, pesquisa, roteiro, host e edição
 
 ### Ficha Técnica
 
-**Origen:** Brasil
-**Año de producción:** 2019-2022 
-**Género:** Podcast  
-**Clasificación:** libre
-**Distribución:** Spotify/iTunes/CastBox/Google Podcasts
+- **Origem:** Brasil
+- **Ano de produção:** 2019-2022 
+- **Gênero:** Podcast  
+- **Classificação:** livre
+- **Distribuição:** Spotify/iTunes/CastBox/Google Podcasts
 
-**Disponible en:**
-**Feed RSS:** [https://anchor.fm/s/9bd587c/podcast/rss](https://anchor.fm/s/9bd587c/podcast/rss)
-**Spotify:** https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE
-**iTunes:** https://podcasts.apple.com/us/podcast/podcast-de-marte/id1489768981?uo=4
-**Google Podcasts:** https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85YmQ1ODdjL3BvZGNhc3QvcnNz
-**CastBox:** https://castbox.fm/channel/Podcast-de-Marte-id2451350?country=br
-**RadioPublic (in browser):** https://radiopublic.com/podcast-de-marte-WozrLy/episodes
-**Linktree:** https://linktr.ee/podcastdemarte. 
+**Disponível em:**
+
+- **Linktree:** https://linktr.ee/podcastdemarte. 
+- **Feed RSS:** [https://anchor.fm/s/9bd587c/podcast/rss](https://anchor.fm/s/9bd587c/podcast/rss)
+- **Spotify:** https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE
+- **iTunes:** https://podcasts.apple.com/us/podcast/podcast-de-marte/id1489768981?uo=4
+- **Google Podcasts:** https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85YmQ1ODdjL3BvZGNhc3QvcnNz
+- **RadioPublic (pelo navegador):** https://radiopublic.com/podcast-de-marte-WozrLy/episodes
 
 
-Para más informaciones, [[Audio - Podcast de Marte|consulte este enlace]].
+Mais informações [[Podcast de Marte|neste link]].

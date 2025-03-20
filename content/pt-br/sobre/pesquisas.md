@@ -4,6 +4,8 @@ indentation: "1"
 > [!Example] Menu
 > [[index-pt-br|Início]] [[cv em português|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[ações educativas|Ações Educativas]]  [[contato|Contato]]
 
+---
+
 
 > [!text] Eixos temáticos de interesse
 

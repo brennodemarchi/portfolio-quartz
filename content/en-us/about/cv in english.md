@@ -78,13 +78,13 @@ São Paulo State Technical School "Aristóteles Ferreira", Santos, São Paulo, B
 
 ### ProAc Direct Express ["ProAc Expresso Direto"] - 2021 Edition
 
-In the video class "How to Produce and Edit Your Podcast", I aimed to explain all the stages - from pre to post-production - for those who wish to produce their podcast with quality and without needing many resources. It serves as a counterpart for the prize given by the Secretariat of Culture and Creative Economy of the State Government of São Paulo through "ProAc Expresso Direto n.º 39/2021", to professionals in the creative cultural sector. For more info [[Video Class - Podcast Production and Edition - ProAc Expresso Direto (2021)|click here]] or check the [[educational initiatives]] section.
+In the video class "How to Produce and Edit Your Podcast", I aimed to explain all the stages - from pre to post-production - for those who wish to produce their podcast with quality and without needing many resources. It serves as a counterpart for the prize given by the Secretariat of Culture and Creative Economy of the State Government of São Paulo through "ProAc Expresso Direto n.º 39/2021", to professionals in the creative cultural sector. For more info [[Instructional Video - Podcast Production and Edition - ProAc Expresso Direto (2021)|click here]] or check the [[educational initiatives]] section.
 
 # 2020
 
 ### Aldir Blanc Law – Alcides Mesquita Award - 2020 Edition
 
-The "Poetry Podcast Production and Promotion Workshop" was a free and entirely online initiative, promoted with the support of the Aldir Blanc Law – Alcides Mesquita Award, from the Municipal Government of Santos and the Federal Government. Its aim was to teach participants to produce high-quality podcasts with limited resources, covering everything from script creation to promotion. Participants had the opportunity to create an episode for the Mars Podcast, focused on the works of poets and artists from Santos, and received a certificate upon completion. The workshop originally had 20 spots planned, but due to the high number of applications, two classes were offered, each with 28 spots, held in February 2021. For more info [[Poetry Podcast Workshop - Aldir Blanc (2021)|click here]] or check the [[educational initiatives]] section.
+The "Poetry Podcast Production and Promotion Workshop" was a free and entirely online initiative, promoted with the support of the Aldir Blanc Law – Alcides Mesquita Award, from the Municipal Government of Santos and the Federal Government. Its aim was to teach participants to produce high-quality podcasts with limited resources, covering everything from script creation to promotion. Participants had the opportunity to create an episode for the Mars Podcast, focused on the works of poets and artists from Santos, and received a certificate upon completion. The workshop originally had 20 spots planned, but due to the high number of applications, two classes were offered, each with 28 spots, held in February 2021. For more info [[Workshop - Poetry Podcast Workshop - Aldir Blanc (2021)|click here]] or check the [[educational initiatives]] section.
 
 
 ---

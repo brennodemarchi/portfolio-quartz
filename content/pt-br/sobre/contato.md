@@ -4,6 +4,8 @@ indentation: "1"
 > [!Example] Menu
 > [[index-pt-br|Início]] [[cv em português|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[ações educativas|Ações Educativas]] [[pesquisas|Pesquisas]]
 
+---
+
 Estou contente por você estar aqui. Obrigado por ter se interessado nas minhas aventuras! 
 
 A melhor forma para entrar em contato comigo é pelo e-mail, mas você pode acompanhar meu trabalho pelas redes sociais, ainda que eu não publique muito por lá.

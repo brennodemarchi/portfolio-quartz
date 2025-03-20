@@ -8,36 +8,82 @@ indentation: "1"
 ---
 
 # 2025
-### Um Osso que Cai (A Bone That Falls)
 
-![[2025-audiovisual-video-umossoquecai-festivalminuto-1.png| 600]]
+## Who is the Author?
 
-<iframe title="Um Osso que Cai" src="https://www.festivaldominuto.com.br/pt-BR/contents/56005" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hQSzUnBndrc?si=XW2G6f_NMmukbjd6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### **Synopsis**
+### Role
 
-A bone inexplicably falls from the sky, and a dog begins to devour it, unaware of where it came from or what it might mean.
+Direction
 
-#### **Credits**
+### Technical Sheet
 
-**Director:** Brenno Brandalise Demarchi  
-**Crew:** Nemo (Dog)
+- **Color:** Color
+- **Origin:** Santos/Brazil
+- **Year of Production:** 2025
+- **Genre:** Fiction
+- **Duration:** 1min
+- **Rating:** Free for all ages
+- **Distribution:** Núcleo de Pesquisa e Produção Audiovisual (Nupepa/ImaRgens/USP), in partnership with the Laboratório de Pesquisa Social do Departamento de Sociologia da USP (LAPS/USP) and the Instituto de Comunicação da Universidade Nova de Lisboa (ICNOVA/NOVA)
 
-#### **Technical Information**
+More information [[Video - Who is the Author|at this link]].
 
-**Color:** Color  
-**Origin:** Brazil  
-**Year of Production:** 2025  
-**Genre:** Fiction  
-**Duration:** 1 min  
-**Rating:** General Audience  
-**Distribution:** Minute Festival - OPEN THEME - DEC/JAN/FEB 2024-25, 2025  
-**Available at:** https://festivaldominuto.com.br/pt-BR/contents/56005
 
-#### **Equipment**
+## A Bone That Falls
 
-**Camera:** Canon EOS Rebel T5i  
-**Lens:** Canon EF-S 18-55mm f/3.5-5.6 IS STM
+![[2025-audiovisual-video-umossoquecai-festivalminuto-1.png| 500]]
+
+### Role
+
+Direction
+
+### Technical Sheet
+
+- **Color:** Color
+- **Origin:** Brazil
+- **Year of Production:** 2025
+- **Genre:** Fiction
+- **Duration:** 1min
+- **Rating:** Free for all ages
+- **Distribution:** Festival do Minuto
+- **Available at:** [https://festivaldominuto.com.br/pt-BR/contents/56005](https://festivaldominuto.com.br/pt-BR/contents/56005)
+
+### Exhibition and Awards
+
+- Festival do Minuto - FREE THEME - DEC/JAN/FEB 2024-25, 2025 - Screening
+
+More information [[Video - A Bone That Falls|at this link]].
+
+---
+
+# 2024
+
+## Dreams Do Not Age
+
+![[2024-audiovisual-doc-ossonhosnaoenvelhecem-1-poster.jpg|400]]
+
+### Role
+
+Sound Technician
+
+### Technical Sheet
+
+- **Color:** Color
+- **Origin:** Brazil
+- **Year of Production:** 2024
+- **Genre:** Documentary
+- **Duration:** 15min
+- **Rating:** Free for all ages
+- **Distribution:** Fábrica Audiovisual, Fábrica da Dança e Fábrica da Longevidade
+
+### Exhibition and Awards
+
+- Mostra Mulheres na Cidade at Juicy Hub - Santos - Screening
+- Cine Arte Posto 4 (Santos-SP) - Screening
+- MISS - Museu da Imagem e do Som (Santos-SP) - Screening
+
+More information [[Documentary - Dreams Do Not Age|at this link]].
 
 ---
 
@@ -45,188 +91,135 @@ A bone inexplicably falls from the sky, and a dog begins to devour it, unaware o
 
 ## Chico Came Back Alone
 
-<iframe title="Meu Olhar apresenta &quot;Chico Voltou Só&quot;, de Douglas Gadelha Sá" src="https://www.youtube.com/embed/eyckuFLYndw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe title="Meu Olhar presents &quot;Chico Voltou Só&quot;, by Douglas Gadelha Sá" src="https://www.youtube.com/embed/eyckuFLYndw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+## Role
 
-### Synopsis 
-
-The documentary reflects on the trajectory of a northeastern worker in the midst of the military dictatorship in the city of Cubatão (SP), through unpublished archive images and videos.
-
-### Credits
-
-**Direction, Screenplay and Research:** Douglas Gadelha Sá
-**Cinematography:** Rodrigo Samia
-**Editing:** Leandro Olimpio
-**Mixing and Sound:** Brenno Brandalise Demarchi
+Sound Mixing and Sound
 
 ### Technical Sheet
 
-**Color:** Black and White
-**Origin:** Brazil
-**Year of Production:** 2023  
-**Genre:** Documentary  
-**Duration:** 5min
-**Rating:** Free
-**Distribution:** Globo Play & Canal Futura
-**Available at:** https://www.youtube.com/watch?v=eyckuFLYndw. 
+- **Color:** Black and White
+- **Origin:** Brazil
+- **Year of Production:** 2023
+- **Genre:** Documentary
+- **Duration:** 5min
+- **Rating:** Free for all ages
+- **Distribution:** Globo Play & Canal Futura
+- **Available at:** [https://www.youtube.com/watch?v=eyckuFLYndw](https://www.youtube.com/watch?v=eyckuFLYndw)
 
-### Screenings and Awards
+### Exhibition and Awards
 
-- 10th Santos Film Festival (2024) - Best Screenplay and 2nd Best Regional Film
-- 22nd Curta Santos Festival (2024) - Best Editing
-- Competitive Exhibition of the project “Meu Olhar - Short films made by the Peripheral Youth of São Paulo” (2023) - Finalist
+- 10º Santos Film Festival (2024) - Best Screenplay and 2nd Best Regional Film
+- 22º Festival Curta Santos (2024) - Best Editing
+- Competitive Showcase of the project “Meu Olhar – Short Films Made by Periphery Youth in São Paulo” (2023) - Finalist
 
-For more info [[Documentary - Chico Came Back Alone (2023)|click here]].
+More information [[Documentary - Chico Came Back Alone (2023)|at this link]].
 
 ---
 # 2021
 
-## One Ear on the Phone and the Other in the City
+## One Earphone in the Ear and the Other in the City
 
-<iframe title="Um Ouvido no Fone e o Outro na Cidade - Mustela - filme resultante da 7ª Oficina do NUPEPA/ImaRgens" src="https://www.youtube.com/embed/u8w5tb4R1hc?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe title="Um Ouvido no Fone e o Outro na Cidade - Mustela - film resulting from the 7th Workshop of NUPEPA/ImaRgens" src="https://www.youtube.com/embed/u8w5tb4R1hc?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
-### Synopsis 
+### Role
 
-Making deliveries via apps is part of the reality for many Brazilians, including Brazilians living in foreign countries. The film, in turn, looks at the lives of Brazilian riders who live in Dublin. In informal conversations with these delivery drivers, they tell the interviewer how music, podcasts and the sounds of the city both ease and make their day-to-day work possible.
-
-### Credits
-
-#### Directors
-
-Alexsânder Nakaóka Elias  
-Anna Flávia Guimarães Hartmann  
-Arthur Silva Barbosa  
-Brenno Brandalise Demarchi  
-Luiz Henrique Campos Pereira  
-Noelle Rodrigues Ventura  
-Renan Moretti Bertho
-
-#### Interviewees
-
-Henrique Nascimento  
-Juliana  
-Rodrigo Scapin - Didi  
-Victor Brasil
+Production
 
 ### Technical Sheet
 
-**Filmed color:** color  
-**Origin:** Ireland and Brazil  
-**Year of production:** 2020  
-**Genre:** documentary  
-**Duration:** 8m16s  
-**Rating:** free
-**Distribution:** Nupepa/ImaRgens/USP
+- **Color:** Color
+- **Origin:** Ireland and Brazil
+- **Year of Production:** 2020
+- **Genre:** Documentary
+- **Duration:** 8m16s
+- **Rating:** Free for all ages
+- **Distribution:** Nupepa/ImaRgens/USP
+- **Available at:** [https://www.youtube.com/watch?v=w-zDKlyX9T4](https://www.youtube.com/watch?v=w-zDKlyX9T4).
 
-### Screenings and Awards
+### Exhibitions and Awards
 
-- **3rd NUPEPA/ImaRgens Audiovisual Festival and Exhibition - ICNOVA/LAPS (2020)** - Selected
-- **I Mostra Latino-Americana de Filmes Etnográficos da Universidade Federal do Rio Grande do Norte (2020)** - Selected
+- **3º Festival e Mostra de Audiovisual do NUPEPA/ImaRgens – ICNOVA/LAPS [3rd NUPEPA/ImaRgens Audiovisual Festival and Exhibition - ICNOVA/LAPS] (2020)** - Selected
+- **I Mostra Latino-Americana de Filmes Etnográficos da Universidade Federal do Rio Grande do Norte [I Latin American Ethnographic Film Festival at the Federal University of Rio Grande do Norte] (2020)** - Selected
 
-For more info [[Documentary - One Ear on the Phone and the Other in the City (2020)|click here]].
-   
-   
+More information [[Documentary - One Ear on the Phone and the Other in the City (2020)|at this link]].
+ 
 ## Poems Blown by the Northwest Wind
 
 <iframe title="Poemas soprados pelo vento noroeste" src="https://www.youtube.com/embed/uufGfdThMHk?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
-### Synopsis
+### Role
 
-In this project, Ademir Demarchi (proponent), with the encouragement of the Aldir Blanc Law - Alcides Mesquita Award, from Santos City Hall and the Federal Government, made a selection and recording of poems of his own that talk about his experience of living in the city of Santos. They can be read in the book “Pirão de Sereia”, published by Realejo Edições, which was produced with the Cultural Support Program of Santos City Hall in 2010.
+Direction, sound recording, editing, and distribution
 
-I was responsible for directing, direct sound and video and sound editing, resulting in the production of a video and a podcast episode that constituted the counterpart of the project.
+### Technical Sheet
 
-### Credits
-
-**Writer, script, poems, voice-over, camera and production:** Ademir Demarchi
-**Direction, direct sound, editing and distribution:** Brenno Brandalise Demarchi
-
-### Technical sheet
-
-**Filmed color:** color  
-**Origin:** Brazil
-**Year of production:** 2021 
-**Genre:** Video Essay  
-**Duration:** 23m50s  
-**Rating:** free
-**Distribution:** Youtube/Spotify
+- **Color:** Color
+- **Origin:** Brazil
+- **Year of Production:** 2021
+- **Genre:** Video Essay
+- **Duration:** 23m50s
+- **Rating:** Free for all ages
+- **Distribution:** Youtube/Spotify
 
 **Available at:**
-Youtube: https://www.youtube.com/watch?v=uufGfdThMHk 
-Spotify: https://open.spotify.com/episode/5Xja2CWPD4MDux6iViGXXI?go=1&sp_cid=780325d8f007aadc0f84744a9071d81d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=18b5caccb0274c13 
+- Youtube: [https://www.youtube.com/watch?v=uufGfdThMHk](https://www.youtube.com/watch?v=uufGfdThMHk)
+- Spotify: [https://open.spotify.com/episode/5Xja2CWPD4MDux6iViGXXI?go=1&sp_cid=780325d8f007aadc0f84744a9071d81d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=18b5caccb0274c13](https://open.spotify.com/episode/5Xja2CWPD4MDux6iViGXXI?go=1&sp_cid=780325d8f007aadc0f84744a9071d81d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=18b5caccb0274c13)
 
-For more info [[Video - Poems Blown by the Northwest Wind (2021)|click here]].
+More information [[Video - Poems Blown by the Northwest Wind (2021)|at this link]].
 
 ---
 # 2020
 
 ## Inclusive - Community Networks for Virtual Learning Environments
 
-![[2020-audiovisual-inclusive-redescomunitarias-6-ava1.png]]
-<iframe title="Inclusive | 2ed LABORATÓRIO DE EMERGÊNCIA | COVID–19" src="https://www.youtube.com/embed/x3ezYRKeA84?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+![[2020-audiovisual-inclusive-redescomunitarias-6-ava1.png|560]]
 
-### Synopsis
+### Role
 
-Institutional video produced for the project “Inclusive - Community Networks for Virtual Learning Environments” during the 2nd edition of the “Emergency Laboratory - COVID-19 - Reconfiguring the Future”, an initiative of Silo - Arte e Latitude Rural in partnership with other institutions, collectives and laboratories, from June 15 to 21, 2020.
+Collaboration in the production of the institutional video (narration and audio/video editing)
 
-### Credits
+### Technical Sheet
 
-### Proponents:
+- **Color:** Color
+- **Origin:** Brazil
+- **Year of Production:** 2020
+- **Genre:** Institutional Video
+- **Duration:** 6min
+- **Rating:** Free for all ages
+- **Distribution:** Silo - Arte e Latitude Rural
+- **Available at:** [https://www.youtube.com/watch?v=x3ezYRKeA84](https://www.youtube.com/watch?v=x3ezYRKeA84)
 
-- Aluizio Barbosa de Oliveira Neto - Belo Horizonte, MG
-- Rodrigo Borges - Belo Horizonte, MG
-
-### Collaborators:
-
-- Andrey Borges Bernardes
-- Aparecida Torrecillas
-- Bernardo Baião
-- Brenno Brandalise Demarchi
-- Cristiano Tavares
-- Mariana Almeida Zani (Mediation)
-
-### Technical sheet
-
-**Filmed color:** color  
-**Origin:** Brazil
-**Year of production:** 2020
-**Genre:** Institutional Video
-**Duration:** 6min  
-**Rating:** free
-**Distribution:** Youtube
-**Available at:** https://www.youtube.com/watch?v=x3ezYRKeA84
-
-For more info [[Institutional Video - Inclusive (2020)|click here]].
+More information [[Institutional Video - Inclusive (2020)|at this link]].
 
 ---
 
 # 2019
 
-<iframe src="https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+## Podcast from Mars
 
-### Synopsis 
+![[PodcastDeMarteCover.jpg.png|400]]
 
-A narrative podcast to critically reflect on our society.
+### Role
 
-### Credits
+Production, research, scriptwriting, hosting, and editing
 
-**Production, research, script, host and editing:** Brenno Brandalise Demarchi
+### Technical Sheet
 
-### Technical sheet
+- **Origin:** Brazil
+- **Year of Production:** 2019-2022
+- **Genre:** Podcast
+- **Rating:** Free for all ages
+- **Distribution:** Spotify/iTunes/CastBox/Google Podcasts
 
-**Origin:** Brazil
-**Year of production:** 2019-2022 
-**Genre:** Podcast  
-**Rating:** free
-**Distribution:** Spotify/iTunes/CastBox/Google Podcasts
+### Available at:
 
-**Available at:**
-**Feed RSS:** [https://anchor.fm/s/9bd587c/podcast/rss](https://anchor.fm/s/9bd587c/podcast/rss)
-**Spotify:** https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE
-**iTunes:** https://podcasts.apple.com/us/podcast/podcast-de-marte/id1489768981?uo=4
-**Google Podcasts:** https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85YmQ1ODdjL3BvZGNhc3QvcnNz
-**CastBox:** https://castbox.fm/channel/Podcast-de-Marte-id2451350?country=br
-**RadioPublic (pelo navegador):** https://radiopublic.com/podcast-de-marte-WozrLy/episodes
-**Linktree:** https://linktr.ee/podcastdemarte. 
+- Linktree: https://linktr.ee/podcastdemarte.
+- RSS Feed: https://anchor.fm/s/9bd587c/podcast/rss
+- Spotify: https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE
+- iTunes: https://podcasts.apple.com/us/podcast/podcast-de-marte/id1489768981?uo=4
+- Google Podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85YmQ1ODdjL3BvZGNhc3QvcnNz
+- RadioPublic (via browser): https://radiopublic.com/podcast-de-marte-WozrLy/episodes
 
-For more information [[Audio - Podcast from Mars|click here]].
 
+More information [[Audio - Podcast from Mars|at this link]].

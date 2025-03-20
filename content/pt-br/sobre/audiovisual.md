@@ -192,11 +192,13 @@ Colaboração na realização do vídeo institucional (narração e edição de 
 - **Distribuição:** Silo - Arte e Latitude Rural
 - **Disponível em:** https://www.youtube.com/watch?v=x3ezYRKeA84
 
-Mais informações [[Vídeo Institucional - Inclusive (2020)|neste link]].
+Mais informações [[Vídeo - Inclusive (2020)|neste link]].
 
 ---
 
 # 2019
+
+## Podcast de Marte
 
 ![[PodcastDeMarteCover.jpg.png|400]]
 
@@ -213,12 +215,12 @@ Produção, pesquisa, roteiro, host e edição
 - **Distribuição:** Spotify/iTunes/CastBox/Google Podcasts
 
 **Disponível em:**
+
+- **Linktree:** https://linktr.ee/podcastdemarte
 - **Feed RSS:** [https://anchor.fm/s/9bd587c/podcast/rss](https://anchor.fm/s/9bd587c/podcast/rss)
 - **Spotify:** https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE
 - **iTunes:** https://podcasts.apple.com/us/podcast/podcast-de-marte/id1489768981?uo=4
 - **Google Podcasts:** https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85YmQ1ODdjL3BvZGNhc3QvcnNz
-- **CastBox:** https://castbox.fm/channel/Podcast-de-Marte-id2451350?country=br
 - **RadioPublic (pelo navegador):** https://radiopublic.com/podcast-de-marte-WozrLy/episodes
-- **Linktree:** https://linktr.ee/podcastdemarte. 
 
 Mais informações [[Podcast de Marte|neste link]].
