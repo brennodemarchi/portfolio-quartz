@@ -6,211 +6,216 @@ indentation: "1"
 
 ---
 # 2025
-## De quem é a autoria? (Who is the Author?)
+## ¿De quién es la autoría?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hQSzUnBndrc?si=XW2G6f_NMmukbjd6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Role
+### Rol
 
-Direction
+Dirección
 
-# Technical Details
+# Ficha Técnica
 
 - **Color:** Color
-- **Origin:** Santos/Brazil
-- **Year of Production:** 2025
-- **Genre:** Fiction
-- **Duration:** 1min
-- **Rating:** Free for all ages
-- **Distribution:** Núcleo de Pesquisa e Produção Audiovisual (Nupepa/ImaRgens/USP), in partnership with the Laboratório de Pesquisa Social do Departamento de Sociologia da USP (LAPS/USP) and the Instituto de Comunicação da Universidade Nova de Lisboa (ICNOVA/NOVA)
+- **Origen:** Santos/Brasil
+- **Año de producción:** 2025
+- **Género:** Ficción
+- **Duración:** 1min
+- **Clasificación:** Para todos los públicos
+- **Distribución:** Núcleo de Pesquisa e Produção Audiovisual (Nupepa/ImaRgens/USP), en colaboración con el Laboratório de Pesquisa Social do Departamento de Sociologia da USP (LAPS/USP) y el Instituto de Comunicação da Universidade Nova de Lisboa (ICNOVA/NOVA)
 
-More information [[Video - Who is the Author|at this link]].
+Más información [[Vídeo - De quién es la autoría|en este enlace]].
 
-## Um Osso que Cai (A Bone That Falls)
+## Un Hueso que Cae
 
 ![[2025-audiovisual-video-umossoquecai-festivalminuto-1.png| 500]]
 
-### Role
+### Rol
 
-Direction
+Dirección
 
-### Technical Details
+### Ficha Técnica
 
-- **Color:** Color
-- **Origin:** Brazil
-- **Year of Production:** 2025
-- **Genre:** Fiction
-- **Duration:** 1min
-- **Rating:** Free for all ages
-- **Distribution:** Festival do Minuto
-- **Available at:** [https://festivaldominuto.com.br/pt-BR/contents/56005](https://festivaldominuto.com.br/pt-BR/contents/56005)
+- **Color:** Color    
+- **Origen:** Brasil    
+- **Año de producción:** 2025    
+- **Género:** Ficción    
+- **Duración:** 1min    
+- **Clasificación:** Para todos los públicos
+- **Distribución:** Festival do Minuto
+- **Disponible en:** https://festivaldominuto.com.br/pt-BR/contents/56005
 
-### Exhibition and Awards
+### Exhibiciones y Premios
 
-- Festival do Minuto - FREE THEME - DEC/JAN/FEB 2024-25, 2025 - Screening
+- Festival do Minuto - TEMA LIBRE - DIC/ENE/FEB 2024-25, 2025 - Exhibición
 
-More information [[Video - A Bone That Falls|at this link]].
+
+Más información [[Vídeo - Un Hueso que Cae|en este enlace]].
 
 ---
 
 # 2024
 
-## Os Sonhos Não Envelhecem (Dreams Do Not Age)
+## Los Sueños No Envejecen
 
 ![[2024-audiovisual-doc-ossonhosnaoenvelhecem-1-poster.jpg|400]]
 
-# Role
+# Rol
 
-Sound Technician
+Técnico de Sonido
 
-### Technical Details
+### Ficha Técnica
 
-- **Color:** Color
-- **Origin:** Brazil
-- **Year of Production:** 2024
-- **Genre:** Documentary
-- **Duration:** 15min
-- **Rating:** Free for all ages
-- **Distribution:** Fábrica Audiovisual, Fábrica da Dança e Fábrica da Longevidade
+- **Color:** Color    
+- **Origen:** Brasil    
+- **Año de producción:** 2024    
+- **Género:** Documental    
+- **Duración:** 15min    
+- **Clasificación:** Para todos los públicos    
+- **Distribución:** Fábrica Audiovisual, Fábrica da Dança e Fábrica da Longevidade    
 
-### Exhibition and Awards
+### Exhibiciones y Premios
 
-- Mostra Mulheres na Cidade at Juicy Hub - Santos - Screening
-- Cine Arte Posto 4 (Santos-SP) - Screening
-- MISS - Museu da Imagem e do Som (Santos-SP) - Screening
+- Mostra Mulheres na Cidade en Juicy Hub - Santos - Exhibición    
+- Cine Arte Posto 4 (Santos-SP) - Exhibición    
+- MISS - Museu da Imagem e do Som (Santos-SP) - Exhibición    
 
-More information [[Documentary - Dreams Do Not Age|at this link]].
+Más información [[Película Documental - Los Sueños No Envejecen|en este enlace]].
 
 ---
 
 # 2023
 
-## Chico Voltou Só
+## Chico Volvió Solo
 
-<iframe title="Meu Olhar apresenta &quot;Chico Voltou Só&quot;, de Douglas Gadelha Sá" src="https://www.youtube.com/embed/eyckuFLYndw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
-## Atuação
+<iframe title="Meu Olhar presenta &quot;Chico Voltou Só&quot;, de Douglas Gadelha Sá" src="https://www.youtube.com/embed/eyckuFLYndw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+## Rol
 
-Mixagem e Som
+Mezcla y Sonido
 
 ### Ficha Técnica
 
-- **Cor:** Preto e Branco
-- **Origem:** Brasil
-- **Ano de Produção:** 2023  
-- **Gênero:** Documentário  
-- **Duração:** 5min
-- **Classificação indicativa:** Livre
-- **Distribuição:** Globo Play & Canal Futura
-- **Disponível em:** https://www.youtube.com/watch?v=eyckuFLYndw
+- **Color:** Blanco y Negro    
+- **Origen:** Brasil    
+- **Año de producción:** 2023    
+- **Género:** Documental    
+- **Duración:** 5min    
+- **Clasificación:** Para todos los públicos    
+- **Distribución:** Globo Play & Canal Futura    
+- **Disponible en:** https://www.youtube.com/watch?v=eyckuFLYndw
 
-### Exibições e Premiações
+### Exhibiciones y Premios
 
-- 10º Santos Film Festival (2024) - Melhor Roteiro e 2º Melhor Filme Regional
-- 22º Festival Curta Santos (2024) - Melhor Montagem
-- Mostra Competitiva do projeto “Meu Olhar – Filmes curtos feitos pela Juventude Periférica de São Paulo” (2023) - Finalista
+- 10º Santos Film Festival (2024) - Mejor Guion y 2º Mejor Película Regional    
+- 22º Festival Curta Santos (2024) - Mejor Montaje    
+- Muestra Competitiva del proyecto “Meu Olhar – Cortometrajes realizados por la Juventud Periférica de São Paulo” (2023) - Finalista    
 
-Mais informações [[Documentário - Chico Voltou Só (2023)|neste link]]. 
+Más información [[Película Documental - Chico Volvió Solo (2023)|en este enlace]].
 
 ---
 # 2021
 
-## Um Fone no Ouvido e o Outro na Cidade
+## Un audífono en el oído y el otro en la ciudad en el Oído y el Otro en la Ciudad
 
-<iframe title="Um Ouvido no Fone e o Outro na Cidade - Mustela - filme resultante da 7ª Oficina do NUPEPA/ImaRgens" src="https://www.youtube.com/embed/u8w5tb4R1hc?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe title="Um Ouvido no Fone e o Outro na Cidade - Mustela - película resultante del 7º Taller de NUPEPA/ImaRgens" src="https://www.youtube.com/embed/u8w5tb4R1hc?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
-### Atuação
+### Rol
 
-Realização
+Realización
 
 ### Ficha Técnica
 
-- **Cor filmada:** colorida  
-- **Origem:** Irlanda e Brasil  
-- **Ano de produção:** 2020  
-- **Gênero:** documentário  
-- **Duração:** 8m16s  
-- **Classificação:** livre
-- **Distribuição:** Nupepa/ImaRgens/USP
-- **Disponível em:** https://www.youtube.com/watch?v=w-zDKlyX9T4. 
+- **Color:** Color    
+- **Origen:** Irlanda y Brasil    
+- **Año de producción:** 2020    
+- **Género:** Documental    
+- **Duración:** 8m16s    
+- **Clasificación:** Para todos los públicos    
+- **Distribución:** Nupepa/ImaRgens/USP    
+- **Disponible en:** https://www.youtube.com/watch?v=w-zDKlyX9T4
 
-### Exibições e Premiações
+### Exhibiciones y Premios
 
-- **3º Festival e Mostra de Audiovisual do NUPEPA/ImaRgens – ICNOVA/LAPS (2020)** - Selecionado
-- **I Mostra Latino-Americana de Filmes Etnográficos da Universidade Federal do Rio Grande do Norte (2020)** - Selecionado
+- **3º Festival y Muestra Audiovisual NUPEPA/ImaRgens - ICNOVA/LAPS (2020)** - 
+ Seleccionado 
+ - **I Mostra Latino-Americana de Filmes Etnográficos da Universidade Federal do Rio Grande do Norte (2020)** - Seleccionado
 
-Mais informações [[Documentário - Um Fone no Ouvido e o Outro na Cidade (2020)|neste link]].
+Más información [[Película Documental - Un audífono en el oído y el otro en la ciudad (2020)|en este enlace]].
 
  
-## Poemas Soprados Pelo Vento Noroeste
+## Poemas Soplados por el Viento Noroeste
 
 <iframe title="Poemas soprados pelo vento noroeste" src="https://www.youtube.com/embed/uufGfdThMHk?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
-### Atuação
+### Rol
 
-Direção, som direto, edição e distribuição
+Dirección, sonido directo, edición y distribución
 
 ### Ficha Técnica
 
-- **Cor filmada:** colorida  
-- **Origem:** Brasil
-- **Ano de produção:** 2021 
-- **Gênero:** Vídeo-Ensaio  
-- **Duração:** 23m50s  
-- **Classificação:** livre
-- **Distribuição:** Youtube/Spotify
+- **Color:** Color    
+- **Origen:** Brasil    
+- **Año de producción:** 2021    
+- **Género:** Videoensayo    
+- **Duración:** 23m50s    
+- **Clasificación:** Para todos los públicos    
+- **Distribución:** Youtube/Spotify
 
-**Disponível em:** 
-- Youtube: https://www.youtube.com/watch?v=uufGfdThMHk 
-- Spotify: https://open.spotify.com/episode/5Xja2CWPD4MDux6iViGXXI?go=1&sp_cid=780325d8f007aadc0f84744a9071d81d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=18b5caccb0274c13 
+### Disponible en:
+
+- Youtube: https://www.youtube.com/watch?v=uufGfdThMHk
+- Spotify: https://open.spotify.com/episode/5Xja2CWPD4MDux6iViGXXI?go=1&sp_cid=780325d8f007aadc0f84744a9071d81d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=18b5caccb0274c13
 
 
-Mais informações [[Vídeo - Poemas Soprados pelo Vento Noroeste - Ademir Demarchi (2021)|neste link]].
+Más información [[Vídeo - Poemas Soplados por el Viento del Noroeste|neste link]].
 
 ---
 # 2020
 
-## Inclusive - Redes Comunitárias para Ambientes Virtuais de Aprendizagem
+## Inclusive - Redes Comunitarias para Entornos Virtuales de Aprendizaje
 
 ![[2020-audiovisual-inclusive-redescomunitarias-6-ava1.png|560]]
 
-### Atuação 
+### Rol
 
-Colaboração na realização do vídeo institucional (narração e edição de áudio e vídeo)
+Colaboración en la realización del vídeo institucional (narración y edición de audio y vídeo)
 
 ### Ficha Técnica
 
-- **Cor:** colorida  
-- **Origem:** Brasil
-- **Ano de produção:** 2020
-- **Gênero:** Vídeo Institucional 
-- **Duração:** 6min  
-- **Classificação:** livre
-- **Distribuição:** Silo - Arte e Latitude Rural
-- **Disponível em:** https://www.youtube.com/watch?v=x3ezYRKeA84
+- **Color:** Color    
+- **Origen:** Brasil    
+- **Año de producción:** 2020    
+- **Género:** Vídeo Institucional    
+- **Duración:** 6min    
+- **Clasificación:** Para todos los públicos    
+- **Distribución:** Silo - Arte e Latitude Rural    
+- **Disponible en:** https://www.youtube.com/watch?v=x3ezYRKeA84
 
-Mais informações [[Vídeo - Inclusive (2020)|neste link]].
+Más información [[Vídeo - Inclusive (2020)|en este enlace]].
 
 ---
 
 # 2019
 
+## Podcast de Marte
+
 ![[PodcastDeMarteCover.jpg.png|400]]
 
-### Atuação
+### Rol
 
-Produção, pesquisa, roteiro, host e edição
+Producción, investigación, guion, presentación y edición
 
 ### Ficha Técnica
 
-- **Origem:** Brasil
-- **Ano de produção:** 2019-2022 
-- **Gênero:** Podcast  
-- **Classificação:** livre
-- **Distribuição:** Spotify/iTunes/CastBox/Google Podcasts
+- **Origen:** Brasil    
+- **Año de producción:** 2019-2022    
+- **Género:** Podcast    
+- **Clasificación:** Libre    
+- **Distribución:** Spotify, iTunes, CastBox, Google Podcasts
 
-**Disponível em:**
+### Disponible en:
 
-- **Linktree:** https://linktr.ee/podcastdemarte. 
+- **Linktree:** https://linktr.ee/podcastdemarte
 - **Feed RSS:** [https://anchor.fm/s/9bd587c/podcast/rss](https://anchor.fm/s/9bd587c/podcast/rss)
 - **Spotify:** https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE
 - **iTunes:** https://podcasts.apple.com/us/podcast/podcast-de-marte/id1489768981?uo=4
@@ -218,4 +223,4 @@ Produção, pesquisa, roteiro, host e edição
 - **RadioPublic (pelo navegador):** https://radiopublic.com/podcast-de-marte-WozrLy/episodes
 
 
-Mais informações [[Podcast de Marte|neste link]].
+Más información [[Audio - Podcast de Marte|neste link]].

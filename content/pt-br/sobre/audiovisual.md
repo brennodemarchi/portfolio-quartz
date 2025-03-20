@@ -214,7 +214,7 @@ Produção, pesquisa, roteiro, host e edição
 - **Classificação:** livre
 - **Distribuição:** Spotify/iTunes/CastBox/Google Podcasts
 
-**Disponível em:**
+### Disponível em:
 
 - **Linktree:** https://linktr.ee/podcastdemarte
 - **Feed RSS:** [https://anchor.fm/s/9bd587c/podcast/rss](https://anchor.fm/s/9bd587c/podcast/rss)
@@ -222,5 +222,6 @@ Produção, pesquisa, roteiro, host e edição
 - **iTunes:** https://podcasts.apple.com/us/podcast/podcast-de-marte/id1489768981?uo=4
 - **Google Podcasts:** https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85YmQ1ODdjL3BvZGNhc3QvcnNz
 - **RadioPublic (pelo navegador):** https://radiopublic.com/podcast-de-marte-WozrLy/episodes
+
 
 Mais informações [[Podcast de Marte|neste link]].
