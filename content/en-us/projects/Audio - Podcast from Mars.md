@@ -3,34 +3,39 @@ indentation: "2"
 ---
 
 <iframe src="https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
-Disponível em: https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE
 
-# Sobre 
+# **About**
 
-Um podcast narrativo para refletirmos criticamente sobre a nossa sociedade.
+A narrative podcast for critically reflecting on our society.
 
-# Ferramentas e Tecnologias
+# **Access**
 
-**Edição de Texto:** LibreOffice Writer
-**Edição de Imagem:** Adobe Photoshop / Canva
-**Edição de Áudio:** Cockos Reaper
-**Gestão de Projeto:** Trello
+Available at: [https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE](https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE).
 
-# Redes Sociais
+# **Tools and Technologies**
+
+- **Text Editing:** LibreOffice Writer    
+- **Image Editing:** Adobe Photoshop / Canva    
+- **Audio Editing:** Cockos Reaper    
+- **Project Management:** Trello
+
+# Social Media
 
 **Linktree (agregador de links):** https://linktr.ee/podcastdemarte
 **Instagram:** [@podcastdemarte](https://www.instagram.com/podcastdemarte)
 
-# Distribuição
+# Distribution
 
 **Feed RSS:** [https://anchor.fm/s/9bd587c/podcast/rss](https://anchor.fm/s/9bd587c/podcast/rss)
 **Spotify:** https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE
 **iTunes:** https://podcasts.apple.com/us/podcast/podcast-de-marte/id1489768981?uo=4
 **Google Podcasts:** https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85YmQ1ODdjL3BvZGNhc3QvcnNz
 **CastBox:** https://castbox.fm/channel/Podcast-de-Marte-id2451350?country=br
-**RadioPublic (pelo navegador):** https://radiopublic.com/podcast-de-marte-WozrLy/episodes
+**RadioPublic (on browser):** https://radiopublic.com/podcast-de-marte-WozrLy/episodes
 
-# Na Mídia
+---
+
+# Repercussion in the Media
 
 ![[podcastdemarte-instagram.png]]
 

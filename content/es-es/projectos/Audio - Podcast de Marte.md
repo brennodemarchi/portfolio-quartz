@@ -3,11 +3,14 @@ indentation: "2"
 ---
 
 <iframe src="https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
-Disponible en Portugués de Brasil en: https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE
 
 # Sobre 
 
 Un podcast narrativo para reflexionar críticamente sobre nuestra sociedad.
+
+# Acesso
+
+Disponible en: [https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE](https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE).
 
 # Herramientas y Tecnologías
 
@@ -30,7 +33,10 @@ Un podcast narrativo para reflexionar críticamente sobre nuestra sociedad.
 **CastBox:** https://castbox.fm/channel/Podcast-de-Marte-id2451350?country=br
 **RadioPublic (a través del browser):** https://radiopublic.com/podcast-de-marte-WozrLy/episodes
 
-# En Los Medios de Comunicación
+---
+
+# Repercusión en los medios de comunicación
+
 
 ![[podcastdemarte-instagram.png]]
 

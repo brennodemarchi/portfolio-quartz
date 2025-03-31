@@ -49,8 +49,9 @@ Nowadays the gastronomical area is growing a lot and drives many businesses in B
 **Keywords:** Delivery system, grocery store, customers.
 
 
-# Mídias
+---
 
+# Media Previews
 
 ## Code
 

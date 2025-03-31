@@ -43,15 +43,26 @@ Sidney Ferreira Coutinho
 **Design de Slides:** Prezi
 
 
-# Mídias
+---
 
-## Partes del Codigo
+
+# Imágenes
+
+## Fragmentos de Código
+
+### Registrar Cliente
 
 ![[2014-etecaff-gestcom-2-codigo-adastrar-cliente.png]]
 
+### Conectarse al sistema
+
 ![[2014-etecaff-gestcom-3-codigo-fazer-login.png]]
 
+### Historial de Pedidos
+
 ![[2014-etecaff-gestcom-4-codigo-historicopedidos.png]]
+
+### Listar los Pedidos Actuales
 
 ![[2014-etecaff-gestcom-5-codigo-listarpedidosatuais.png]]
 
@@ -59,19 +70,19 @@ Sidney Ferreira Coutinho
 
 ![[2014-etecaff-gestcom-6-pedidoexportado.png]]
 
-## Splash Screen (Tela de Abertura)
+## Pantalla de Inicio (Splash Screen)
 
 ![[2014-etecaff-gestcom-7-splashscreen.jpg]]
 
-## Menu Inicial
+## Menú Inicial
 
 ![[2014-etecaff-gestcom-8-telainicial.png]]
 
-## Modelagem de la Basis de Datos 
+## Modelado de la Base de Datos
 
 ![[2014-etecaff-gestcom-9-modelo-database.png]]
 
-# Apresentacción
+# Presentación de Slides
 
 ![[2014-etecaff-gestcom-10-slide-1.png]]
 
@@ -81,7 +92,7 @@ Sidney Ferreira Coutinho
 
 ![[2014-etecaff-gestcom-13-slide-4.png]]
 
-# Monografia
+# Monografía
 
 ![[2014-etecaff-gestcom-14-monografia-1.png]]
 ![[2014-etecaff-gestcom-15-monografia-2.png]]
