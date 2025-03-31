@@ -13,7 +13,7 @@ indentation: "1"
 
 ### Função
 
-Direção
+Realização/Direção
 
 ### Mais informações
 
@@ -66,6 +66,7 @@ Técnico de Som
 ## Chico Voltou Só
 
 <iframe title="Meu Olhar apresenta &quot;Chico Voltou Só&quot;, de Douglas Gadelha Sá" src="https://www.youtube.com/embed/eyckuFLYndw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
 ### Função
 
 Mixagem e Som
@@ -106,7 +107,7 @@ Realização
 
 <iframe title="Poemas soprados pelo vento noroeste" src="https://www.youtube.com/embed/uufGfdThMHk?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
-### Atuação
+### Função
 
 Direção, som direto, edição e distribuição
 
@@ -121,7 +122,7 @@ Direção, som direto, edição e distribuição
 
 ![[2020-audiovisual-inclusive-redescomunitarias-6-ava1.png|560]]
 
-### Atuação 
+### Função 
 
 Colaboração na realização do vídeo institucional (narração e edição de áudio e vídeo)
 

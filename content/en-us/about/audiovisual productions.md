@@ -67,6 +67,7 @@ Sound Technician
 ## Chico Came Back Alone
 
 <iframe title="Meu Olhar presents &quot;Chico Voltou Só&quot;, by Douglas Gadelha Sá" src="https://www.youtube.com/embed/eyckuFLYndw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
 ### Role
 
 Sound Mixing and Sound

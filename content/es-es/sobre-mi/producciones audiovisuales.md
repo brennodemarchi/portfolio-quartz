@@ -14,17 +14,9 @@ indentation: "1"
 
 Dirección
 
-# Ficha Técnica
+### Más información
 
-- **Color:** Color
-- **Origen:** Santos/Brasil
-- **Año de producción:** 2025
-- **Género:** Ficción
-- **Duración:** 1min
-- **Clasificación:** Para todos los públicos
-- **Distribución:** Núcleo de Pesquisa e Produção Audiovisual (Nupepa/ImaRgens/USP), en colaboración con el Laboratório de Pesquisa Social do Departamento de Sociologia da USP (LAPS/USP) y el Instituto de Comunicação da Universidade Nova de Lisboa (ICNOVA/NOVA)
-
-Más información [[Vídeo - De quién es la autoría (2025)|en este enlace]].
+[[Vídeo - De quién es la autoría (2025)|Acceder a este enlace]]
 
 ## Un Hueso que Cae
 
@@ -34,23 +26,13 @@ Más información [[Vídeo - De quién es la autoría (2025)|en este enlace]].
 
 Dirección
 
-### Ficha Técnica
-
-- **Color:** Color    
-- **Origen:** Brasil    
-- **Año de producción:** 2025    
-- **Género:** Ficción    
-- **Duración:** 1min    
-- **Clasificación:** Para todos los públicos
-- **Distribución:** Festival do Minuto
-- **Disponible en:** https://festivaldominuto.com.br/pt-BR/contents/56005
-
 ### Exhibiciones y Premios
 
 - Festival do Minuto - TEMA LIBRE - DIC/ENE/FEB 2024-25, 2025 - Exhibición
 
+### Más información
 
-Más información [[Vídeo - Un Hueso que Cae (2025)|en este enlace]].
+[[Vídeo - Un Hueso que Cae (2025)|Acceder a este enlace]]
 
 ---
 
@@ -60,19 +42,9 @@ Más información [[Vídeo - Un Hueso que Cae (2025)|en este enlace]].
 
 ![[2024-audiovisual-doc-ossonhosnaoenvelhecem-1-poster.jpg|400]]
 
-# Rol
+### Rol
 
 Técnico de Sonido
-
-### Ficha Técnica
-
-- **Color:** Color    
-- **Origen:** Brasil    
-- **Año de producción:** 2024    
-- **Género:** Documental    
-- **Duración:** 15min    
-- **Clasificación:** Para todos los públicos    
-- **Distribución:** Fábrica Audiovisual, Fábrica da Dança e Fábrica da Longevidade    
 
 ### Exhibiciones y Premios
 
@@ -80,7 +52,9 @@ Técnico de Sonido
 - Cine Arte Posto 4 (Santos-SP) - Exhibición    
 - MISS - Museu da Imagem e do Som (Santos-SP) - Exhibición    
 
-Más información [[Película Documental - Los Sueños No Envejecen (2024)|en este enlace]].
+### Más información
+
+[[Película Documental - Los Sueños No Envejecen (2024)|Acceder a este enlace]]
 
 ---
 
@@ -89,20 +63,10 @@ Más información [[Película Documental - Los Sueños No Envejecen (2024)|en es
 ## Chico Volvió Solo
 
 <iframe title="Meu Olhar presenta &quot;Chico Voltou Só&quot;, de Douglas Gadelha Sá" src="https://www.youtube.com/embed/eyckuFLYndw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
-## Rol
+
+### Rol
 
 Mezcla y Sonido
-
-### Ficha Técnica
-
-- **Color:** Blanco y Negro    
-- **Origen:** Brasil    
-- **Año de producción:** 2023    
-- **Género:** Documental    
-- **Duración:** 5min    
-- **Clasificación:** Para todos los públicos    
-- **Distribución:** Globo Play & Canal Futura    
-- **Disponible en:** https://www.youtube.com/watch?v=eyckuFLYndw
 
 ### Exhibiciones y Premios
 
@@ -110,7 +74,9 @@ Mezcla y Sonido
 - 22º Festival Curta Santos (2024) - Mejor Montaje    
 - Muestra Competitiva del proyecto “Meu Olhar – Cortometrajes realizados por la Juventud Periférica de São Paulo” (2023) - Finalista    
 
-Más información [[Película Documental - Chico Volvió Solo (2023)|en este enlace]].
+### Más información
+
+[[Película Documental - Chico Volvió Solo (2023)|Acceder a este enlace]]
 
 ---
 # 2021
