@@ -1,8 +1,7 @@
 ---
 indentation: "2"
 ---
-
-<iframe src="https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+![[PodcastDeMarteCover.jpg.png|400]]
 
 # Sobre 
 

@@ -9,8 +9,7 @@ keywords:
   - locução
   - edição de vídeo
 ---
-
-<iframe src="https://labdeemergencia.silo.org.br/2ed/pt/ambientes-virtuais/" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 16 / 9;"></iframe>
+![[2020-audiovisual-inclusive-redescomunitarias-1.png]]
 
 # Função
 

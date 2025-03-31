@@ -13,8 +13,6 @@ keywords:
 
 <iframe src="https://www.youtube.com/embed/uufGfdThMHk" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
-<iframe src="https://open.spotify.com/episode/5Xja2CWPD4MDux6iViGXXI" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
-
 # Função
 
 Direção, som direto, edição e distribuição

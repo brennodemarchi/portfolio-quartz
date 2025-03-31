@@ -123,24 +123,15 @@ Más información [[Película Documental - Chico Volvió Solo (2023)|en este enl
 
 Realización
 
-### Ficha Técnica
-
-- **Color:** Color    
-- **Origen:** Irlanda y Brasil    
-- **Año de producción:** 2020    
-- **Género:** Documental    
-- **Duración:** 8m16s    
-- **Clasificación:** Para todos los públicos    
-- **Distribución:** Nupepa/ImaRgens/USP    
-- **Disponible en:** https://www.youtube.com/watch?v=w-zDKlyX9T4
-
 ### Exhibiciones y Premios
 
 - **3º Festival y Muestra Audiovisual NUPEPA/ImaRgens - ICNOVA/LAPS (2020)** - 
  Seleccionado 
  - **I Mostra Latino-Americana de Filmes Etnográficos da Universidade Federal do Rio Grande do Norte (2020)** - Seleccionado
 
-Más información [[Película Documental - Un audífono en el oído y el otro en la ciudad (2020)|en este enlace]].
+### Más información
+
+[[Película Documental - Un audífono en el oído y el otro en la ciudad (2020)|Acceder a este enlace]]
 
  
 ## Poemas Soplados por el Viento Noroeste
@@ -151,23 +142,9 @@ Más información [[Película Documental - Un audífono en el oído y el otro en
 
 Dirección, sonido directo, edición y distribución
 
-### Ficha Técnica
+### Más información
 
-- **Color:** Color    
-- **Origen:** Brasil    
-- **Año de producción:** 2021    
-- **Género:** Videoensayo    
-- **Duración:** 23m50s    
-- **Clasificación:** Para todos los públicos    
-- **Distribución:** Youtube/Spotify
-
-### Disponible en:
-
-- Youtube: https://www.youtube.com/watch?v=uufGfdThMHk
-- Spotify: https://open.spotify.com/episode/5Xja2CWPD4MDux6iViGXXI?go=1&sp_cid=780325d8f007aadc0f84744a9071d81d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=18b5caccb0274c13
-
-
-Más información [[Vídeo - Poemas Soplados por el Viento del Noroeste (2021)|neste link]].
+[[Vídeo - Poemas Soplados por el Viento del Noroeste (2021)|Acceder a este enlace]]
 
 ---
 # 2020
@@ -180,18 +157,9 @@ Más información [[Vídeo - Poemas Soplados por el Viento del Noroeste (2021)|n
 
 Colaboración en la realización del vídeo institucional (narración y edición de audio y vídeo)
 
-### Ficha Técnica
+### Más información
 
-- **Color:** Color    
-- **Origen:** Brasil    
-- **Año de producción:** 2020    
-- **Género:** Vídeo Institucional    
-- **Duración:** 6min    
-- **Clasificación:** Para todos los públicos    
-- **Distribución:** Silo - Arte e Latitude Rural    
-- **Disponible en:** https://www.youtube.com/watch?v=x3ezYRKeA84
-
-Más información [[Vídeo - Inclusive (2020)|en este enlace]].
+[[Vídeo - Inclusive (2020)|Acceder a este enlace]]
 
 ---
 
@@ -205,22 +173,6 @@ Más información [[Vídeo - Inclusive (2020)|en este enlace]].
 
 Producción, investigación, guion, presentación y edición
 
-### Ficha Técnica
+### Más información
 
-- **Origen:** Brasil    
-- **Año de producción:** 2019-2022    
-- **Género:** Podcast    
-- **Clasificación:** Libre    
-- **Distribución:** Spotify, iTunes, CastBox, Google Podcasts
-
-### Disponible en:
-
-- **Linktree:** https://linktr.ee/podcastdemarte
-- **Feed RSS:** [https://anchor.fm/s/9bd587c/podcast/rss](https://anchor.fm/s/9bd587c/podcast/rss)
-- **Spotify:** https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE
-- **iTunes:** https://podcasts.apple.com/us/podcast/podcast-de-marte/id1489768981?uo=4
-- **Google Podcasts:** https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85YmQ1ODdjL3BvZGNhc3QvcnNz
-- **RadioPublic (pelo navegador):** https://radiopublic.com/podcast-de-marte-WozrLy/episodes
-
-
-Más información [[Audio - Podcast de Marte|neste link]].
+[[Audio - Podcast de Marte|Acceder a este enlace]]

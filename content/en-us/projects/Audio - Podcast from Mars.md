@@ -1,18 +1,16 @@
 ---
 indentation: "2"
 ---
-
-<iframe src="https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
-
-# **About**
+![[PodcastDeMarteCover.jpg.png|400]]
+# About
 
 A narrative podcast for critically reflecting on our society.
 
-# **Access**
+# Access
 
 Available at: [https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE](https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE).
 
-# **Tools and Technologies**
+# Tools and Technologies
 
 - **Text Editing:** LibreOffice Writer    
 - **Image Editing:** Adobe Photoshop / Canva    

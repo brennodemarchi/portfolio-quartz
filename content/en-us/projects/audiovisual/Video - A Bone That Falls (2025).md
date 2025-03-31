@@ -14,9 +14,6 @@ keywords:
 
 ![[2025-audiovisual-video-umossoquecai-festivalminuto-1.png| 500]]
 
-<iframe title="Um Osso que Cai" src="https://www.festivaldominuto.com.br/pt-BR/contents/56005" height="113" width="150" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
-
-
 # Role
 
 Production/Direction
@@ -59,7 +56,6 @@ Available at: [https://festivaldominuto.com.br/pt-BR/contents/56005](https://fes
 ---
 
 # Repercussion in the media
-
 
 #### Promotional Poster
 
