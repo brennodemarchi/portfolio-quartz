@@ -2,7 +2,7 @@
 indentation: "2"
 ---
 
-![[2023-dissertacao-antropologia-ufsc-1.png|700]]Disponível em: https://repositorio.ufsc.br/handle/123456789/247633.
+![[2023-dissertacao-antropologia-ufsc-1.png|700]]
 
 # Resumo
 
@@ -18,6 +18,18 @@ Esta pesquisa analisa antropologicamente os desafios relacionados à água em tr
 
 Para coletar e produzir os dados, foi realizado um levantamento bibliográfico sobre os conceitos de crise, sistema e risco, além de referências relacionadas às teorias de valor, ética ambiental, antropologia das águas e infraestruturas. Os materiais consultados incluíram cartilhas de conscientização do consumo de água, manuais de metodologias de gestão de projetos e de gestão de crise, normas técnicas brasileiras sobre gestão de risco, bem como diversas obras e artigos acadêmicos publicados em periódicos.
 
+# Ferramentas e Tecnologias
+
+
+- **Métodos e Técnicas de Pesquisa:** Levantamento Bibliográfico; Pesquisa em Acervos e Repositórios; Inkscape
+
+- **Edição de Texto:** Microsoft Word
+
+
 # Palavras-chave
 
 Água; Crise Hídrica; Gestão do Risco; Teoria dos Sistemas; Antropoceno; Antropologia das Infraestruturas.
+
+# Acesso
+
+Disponível em: https://repositorio.ufsc.br/handle/123456789/247633.

@@ -11,7 +11,16 @@ Neste projeto fiquei responsável pela gestão do projeto, pela elaboração do 
 
 # Funcionalidades
 
-Auxiliar na gestão de empórios e outros estabelecimentos comerciais na organização de pedidos realizados pelos clientes, calcular tempo estimado de entrega e alternativas de rotas, mapeamento geral das entregas realizadas, controle de estoque, gerar gráficos para identificar os clientes que mais consomem, os produtos mais vendidos, para que assim o gerente do estabelecimento não perca mais clientes devido a pedidos não anotados ou que tenha sido entregue com falta de produtos.
+
+- Auxiliar na gestão de empórios e outros estabelecimentos comerciais na organização de pedidos realizados pelos clientes;
+
+- Calcular tempo estimado de entrega e alternativas de rotas;
+
+- Mapeamento geral das entregas realizadas;
+
+- Controle de estoque;
+
+- Gerar gráficos para identificar os clientes que mais consomem, os produtos mais vendidos, para que assim o gerente do estabelecimento não perca mais clientes devido a pedidos não anotados ou que tenha sido entregue com falta de produtos.
 
 # Equipe
 

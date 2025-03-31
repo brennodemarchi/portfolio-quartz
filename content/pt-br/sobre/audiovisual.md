@@ -25,7 +25,7 @@ Direção
 - **Classificação:** livre
 - **Distribuição:** Núcleo de Pesquisa e Produção Audiovisual (Nupepa/ImaRgens/USP), em parceria com o Laboratório de Pesquisa Social do Departamento de Sociologia da USP (LAPS/USP) e o Instituto de Comunicação da Universidade Nova de Lisboa (ICNOVA/NOVA)
 
-Mais informações [[Vídeo - De quem é a autoria|neste link]].
+Mais informações [[Vídeo - De quem é a autoria (2025)|neste link]].
 
 
 ## Um Osso que Cai
@@ -52,7 +52,7 @@ Direção
 - Festival do Minuto - TEMA LIVRE - DEZ/JAN/FEV 2024-25, 2025 - Exibição
 
 
-Mais informações [[Vídeo - Um Osso que Cai|neste link]].
+Mais informações [[Vídeo - Um Osso que Cai (2025)|neste link]].
 
 ---
 
@@ -83,7 +83,7 @@ Técnico de Som
 - Cine Arte Posto 4 (Santos-SP) - Exibição
 - MISS - Museu da Imagem e do Som (Santos-SP) - Exibição
 
-Mais informações [[Documentário - Os Sonhos Não Envelhecem|neste link]].
+Mais informações [[Documentário - Os Sonhos Não Envelhecem (2024)|neste link]].
 
 ---
 
@@ -168,7 +168,7 @@ Direção, som direto, edição e distribuição
 - Spotify: https://open.spotify.com/episode/5Xja2CWPD4MDux6iViGXXI?go=1&sp_cid=780325d8f007aadc0f84744a9071d81d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=18b5caccb0274c13 
 
 
-Mais informações [[Vídeo - Poemas Soprados pelo Vento Noroeste - Ademir Demarchi (2021)|neste link]].
+Mais informações [[Vídeo - Poemas Soprados pelo Vento Noroeste (2021)|neste link]].
 
 ---
 # 2020
@@ -224,4 +224,4 @@ Produção, pesquisa, roteiro, host e edição
 - **RadioPublic (pelo navegador):** https://radiopublic.com/podcast-de-marte-WozrLy/episodes
 
 
-Mais informações [[Podcast de Marte|neste link]].
+Mais informações [[Áudio - Podcast de Marte|neste link]].

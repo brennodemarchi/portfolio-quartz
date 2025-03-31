@@ -11,7 +11,17 @@ In this project, I was responsible for project management, interface design, and
 
 # Features
 
-Assist in the management of emporiums and other commercial establishments in organizing orders placed by customers, calculating estimated delivery time and route alternatives, general mapping of deliveries made, inventory control, generating charts to identify the customers who consume the most, the best-selling products, so that the establishment manager does not lose more customers due to unrecorded orders or those delivered with missing products.
+
+- Assist in the management of emporiums and other commercial establishments in organizing orders placed by customers;
+
+- Calculating estimated delivery time and route alternatives;
+
+- General mapping of deliveries made;
+
+- Inventory control;
+
+- Generating charts to identify the customers who consume the most, the best-selling products, so that the establishment manager does not lose more customers due to unrecorded orders or those delivered with missing products.
+
 
 # Team
 

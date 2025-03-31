@@ -1,51 +1,53 @@
 
+# Role
 
-# Sobre
+Production assistance, photographic documentation, and descriptive captioning
 
-Realizei os trabalhos de **assistência de produção**, **registro fotográfico** e **legendagem descritiva** no curso "Documentário com Imagens de Arquivo: Práticas e Reflexões", proposto, produzido e ministrado por Leandro Olimpio da Rocha e realizado através da Lei Federal Paulo Gustavo – LPG, no município de São Vicente/SP, durante os dias 04, 06, 11, 15, 18, 22, 25 e 27 de Fevereiro de 2025 no Espaço Multicultural, localizado na Praça 22 de Janeiro, s./nº., Centro, São Vicente-SP.
+# Context
 
-# Ementa
+The course "Documentary with Archival Footage: Practices and Reflections," proposed, produced, and taught by Leandro Olimpio da Rocha, was carried out through the Paulo Gustavo Federal Law (LPG) in the municipality of São Vicente/SP, during the days of February 4, 6, 11, 15, 18, 22, 25, and 27, 2025, at the Multicultural Space, located at Praça 22 de Janeiro, s/nº, Centro, São Vicente-SP.
 
-"Documentário com imagens de arquivo: reflexões e práticas" é um curso, composto por oito encontros, que usa a pesquisa de materiais pré-existentes e a montagem cinematográfica como elementos estratégicos para a produção de filmes independentes, com baixo custo ou até mesmo sem orçamento disponível. 
+This project stems from a previous course experience conducted by Leandro Olimpio at Sesc Santos in April 2022.
 
-O curso se desenvolve de maneira teórica, ao apresentar aos alunos as ideias fundamentais e filmes canônicos desta tradicional corrente do gênero documental, e de maneira prática, com o objetivo principal de demonstrar que a atividade cinematográfica, principalmente para quem dá seus primeiros passos, não depende exclusivamente de grandes aparatos para existir.
+Leandro Olimpio is a director and editor based in São Vicente. His filmography focuses on this cinematic movement. With "Images of a Dream," "Memories of Fire," and "Our Pamphlet Would Be Like This," short films he directed and edited using archival materials, he has been selected, screened, and awarded at various festivals in Brazil and abroad, such as the International Archive Film Festival (Brazil), the 46th Guarnicê Film Festival (Brazil), the 35th Cinélatino Rencontres de Toulouse (France), the 14th Visões Periféricas - Rio de Janeiro (Brazil), the Olhar Caiçara Showcase at the 17th Curta Santos (Brazil), the 12th Bugarte Film and Visual Arts Festival (Colombia), the 5th Envigado Short Film Festival (Colombia), the Indian International Film Festival (India), the 30th Vitória Film Festival (Brazil), among others.
 
-# Contexto
+# Syllabus
 
-Esse projeto nasce a partir de uma experiência anterior de curso realizada por Leandro Olimpio no Sesc Santos, em Abril de 2022.
+"Documentary with Archival Footage: Reflections and Practices" is an eight-session course that uses the research of pre-existing materials and film editing as strategic elements for producing independent films with low costs or even no budget.
 
-Leandro Olimpio é diretor e montador, residente em São Vicente, sua filmografia se concentra nessa corrente cinematográfica. Com "Imagens de um Sonho", "Memórias do Fogo" e "Nosso Panfleto Seria Assim", curtas que dirigiu e montou a partir de materiais de arquivo, foi selecionado, exibido e premiado em diversos festivais no Brasil e no exterior, como o Festival Internacional de Cinema de Arquivo (Brasil), a 46ª edição do Festival Guarnicê de Cinema (Brasil), a 35ª edição do Cinélatino Rencontres de Toulouse (França), 14º Visões Periféricas - Rio de Janeiro (Brasil), Mostra Olhar Caiçara do 17° Curta Santos (Brasil), 12ª Festival de Cine y Artes Visuales Bugarte (Colômbia), 5º Festival de Cine Corto de Envigado (Colômbia), Indian International Film Festival (Índia), a 30ª edição do Festival de Cinema de Vitória (Brasil), dentre outros.
+The course develops theoretically by introducing students to the fundamental ideas and canonical films of this traditional documentary genre, and practically, with the main goal of demonstrating that filmmaking, especially for beginners, does not exclusively depend on large resources to exist.
 
-# Equipe
+# Credits
 
-**Proponente, Produção e Ministrante:**    
+##### Proposer, Producer, and Instructor:  
 Leandro Olimpio da Rocha
-   
-**Assistência de Produção**
-Brenno Brandalise Demarchi
-Telmo
 
-**Registro Fotográfico:**
-Brenno Brandalise Demarchi
+##### Production Assistance:  
+Brenno Brandalise Demarchi  
+Telmo Martins
 
-**Legendagem Descritiva:**
-Leandro Olimpio da Rocha
+##### Photographic Documentation:  
 Brenno Brandalise Demarchi
 
-**Intepretação de Libras:**
-Claudia Regina Pereira Pepe
+##### Descriptive Captioning:  
+Leandro Olimpio da Rocha  
+Brenno Brandalise Demarchi
+
+##### Libras Interpretation (Brazilian Sign Language):  
+Claudia Pepe  
 Brenda Pepe
 
-# Ferramentas e Tecnologias
+# Tools and Technologies
 
-**Edição de Fotografias:** RawTherapee
-**Equipamento Fotográfico:** Canon EOS Rebel T5i + objetiva Canon EF-S 18-55mm f/3.5-5.6 IS STM 
+**Photo Editing:** RawTherapee  
+**Photographic Equipment:** Canon EOS Rebel T5i + Canon EF-S 18-55mm f/3.5-5.6 IS STM lens
 
-
-# Na Mídia
+# Repercussion in the media
 
 
 ![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-1.png]]
+
+![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-9.png]]
 
 ![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-2.png]]
 

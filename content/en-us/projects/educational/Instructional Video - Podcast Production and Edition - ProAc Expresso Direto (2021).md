@@ -26,7 +26,8 @@ Brenno Brandalise Demarchi
 
 - **Audio Editing:** Cockos Reaper
 
-# Press Releases
+# Repercussion In the media
 
-![[oficinapodcast-proac-3.png]]
+
+
 Available in Brazilian Portuguese at the following link: https://www.instagram.com/p/Cp1NLL0IOZs/

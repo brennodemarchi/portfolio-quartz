@@ -65,7 +65,7 @@ Escola Técnica Aristóteles Ferreira, Santos-SP
 
 **2020-2022** | Bolsista da Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – CAPES, enquanto aluno de Mestrado no Programa de Pós-Graduação em Antropologia Social da Universidade Federal de Santa Catarina (UFSC).
 
-**2019-2021** | Podcast de Marte: Um podcast narrativo para refletirmos criticamente sobre a nossa sociedade. Produção, roteiro, host e edição: Brenno Brandalise Demarchi. Disponível em: https://linktr.ee/podcastdemarte. Mais informações [[Podcast de Marte|neste link]].
+**2019-2021** | Podcast de Marte: Um podcast narrativo para refletirmos criticamente sobre a nossa sociedade. Produção, roteiro, host e edição: Brenno Brandalise Demarchi. Disponível em: https://linktr.ee/podcastdemarte. Mais informações [[Áudio - Podcast de Marte|neste link]].
 
 **2019** | Monitoria na disciplina "Introdução à Antropologia", 
 Monitoria selecionada através de processo seletivo, na disciplina de Introdução à Antropologia, do primeiro ano do curso de Ciências Sociais, da Faculdade de Filosofia e Ciências da Universidade Estadual Paulista (Unesp), supervisionado pelo Prof. Dr. Antonio Mendes da Costa Braga.

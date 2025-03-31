@@ -48,7 +48,7 @@ Aparecida Larissa
 - **Feed RSS:** [https://anchor.fm/s/9bd587c/podcast/rss](https://anchor.fm/s/9bd587c/podcast/rss)
 - **For more information, check out the Podcast de Marte's Linktree page (available only in Brazilian Portuguese):** [https://linktr.ee/podcastdemarte](https://linktr.ee/podcastdemarte)
 
-# Press Releases
+# Repercussion In the media
 
 ![[2021-oficina-podcast-aldirblanc-2020-1-atribuna-1.png]]
 ![[2021-oficina-podcast-aldirblanc-2020-2-atribuna-2.png]]

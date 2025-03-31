@@ -27,7 +27,7 @@ Direction
 - **Rating:** Free for all ages
 - **Distribution:** Núcleo de Pesquisa e Produção Audiovisual (Nupepa/ImaRgens/USP), in partnership with the Laboratório de Pesquisa Social do Departamento de Sociologia da USP (LAPS/USP) and the Instituto de Comunicação da Universidade Nova de Lisboa (ICNOVA/NOVA)
 
-More information [[Video - Who is the Author|at this link]].
+More information [[Video - Who is the Author (2025)|at this link]].
 
 
 ## A Bone That Falls
@@ -53,7 +53,7 @@ Direction
 
 - Festival do Minuto - FREE THEME - DEC/JAN/FEB 2024-25, 2025 - Screening
 
-More information [[Video - A Bone That Falls|at this link]].
+More information [[Video - A Bone That Falls (2025)|at this link]].
 
 ---
 
@@ -83,7 +83,7 @@ Sound Technician
 - Cine Arte Posto 4 (Santos-SP) - Screening
 - MISS - Museu da Imagem e do Som (Santos-SP) - Screening
 
-More information [[Documentary - Dreams Do Not Age|at this link]].
+More information [[Documentary - Dreams Do Not Age (2024)|at this link]].
 
 ---
 

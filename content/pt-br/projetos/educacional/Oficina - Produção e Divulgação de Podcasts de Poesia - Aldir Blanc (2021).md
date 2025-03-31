@@ -8,39 +8,39 @@ A "Oficina de Produção e Divulgação de Podcasts de Poesia" foi uma iniciativ
 # Equipe
 
 
-**Proponente, Produção, Pesquisa, Instrutor, Edição e Design de Som:**   
+##### Proponente, Produção, Pesquisa, Instrutor, Edição e Design de Som:   
 Brenno Brandalise Demarchi (Proponente do Projeto)   
 
-**Assessoria de Projeto:**  
+##### Assessoria de Projeto:  
 Ademir Demarchi 
 
-**Assessoria de Comunicação:**   
+#####  Assessoria de Comunicação:   
 Graziela Simões Santana   
    
-**Consultoria Pedagógica:**   
+##### Consultoria Pedagógica:   
 Jackson Francisco da Conceição Müller   
    
-**Mediação Pedagógica:**    
+##### Mediação Pedagógica:    
 Wesley Vaz Oliveira   
    
-**Design Gráfico:**    
+##### Design Gráfico:    
 Aparecida Larissa   
 
 # Ferramentas e Tecnologias
 
-**Metodologias de Autogestão:** Reuniões, votação e consenso, atribuição de tarefas, produção de atas e tabela de banco de horas
+- **Metodologias de Autogestão:** Reuniões, votação e consenso, atribuição de tarefas, produção de atas e tabela de banco de horas
 
-**Gestão de Projeto:** Trello e Whatsapp
+- **Gestão de Projeto:** Trello e Whatsapp
 
-**Edição de Texto:** Google Docs
+- **Edição de Texto:** Google Docs
 
-**Edição de Imagem:** Adobe Photoshop
+- **Edição de Imagem:** Adobe Photoshop
 
-**Design de Apresentação:** Microsoft Office Power Point e Canva
+- **Design de Apresentação:** Microsoft Office Power Point e Canva
 
-**Edição de Áudio (na Oficina):** Audacity, Reaper e Adobe Audition
+- **Edição de Áudio (na Oficina):** Audacity, Reaper e Adobe Audition
 
-**Edição de Áudio (na Edição):** Reaper
+- **Edição de Áudio (na Edição):** Reaper
 
 ### Disponível em:
 

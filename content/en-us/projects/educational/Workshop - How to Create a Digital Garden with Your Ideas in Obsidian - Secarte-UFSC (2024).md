@@ -31,13 +31,13 @@ Kauê Marques Romão
 **Presentation Design:** Microsoft PowerPoint  
 **Image Editing:** Adobe Photoshop
 
-# Disponível em:
+# Available at:
 
 Event schedule: https://sites.google.com/view/experimenta-2024/programa%C3%A7%C3%A3o/ufsc-florian%C3%B3polis/2609-quinta-feira
 
 Event Registration: https://inscricoes.ufsc.br/jardim-digital-obsidian-participantes (event registration closed)
 
-# Press Releases
+# Repercussion In the media
 
 ![[2024-oficina-obsidian-secarteufsc-1-instagram-1.png]]
 

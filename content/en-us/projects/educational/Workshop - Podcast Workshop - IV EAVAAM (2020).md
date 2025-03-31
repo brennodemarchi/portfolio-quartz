@@ -65,7 +65,7 @@ Jackson Francisco da Conceição Müller
 ### For more info in Brazilian Portuguese check the following link:
 [https://eavaam.com.br/2020/oficinas-aprovadas/](https://eavaam.com.br/2020/oficinas-aprovadas/)
 
-# Press Releases
+# Repercussion In the media
 
 ![[2020-oficina-podcast-eavaam-1.png]]*Publication drafted and disseminated by the event committee*
 

@@ -1,51 +1,55 @@
 
+# Rol
 
-# Sobre
-
-Realizei os trabalhos de **assistência de produção**, **registro fotográfico** e **legendagem descritiva** no curso "Documentário com Imagens de Arquivo: Práticas e Reflexões", proposto, produzido e ministrado por Leandro Olimpio da Rocha e realizado através da Lei Federal Paulo Gustavo – LPG, no município de São Vicente/SP, durante os dias 04, 06, 11, 15, 18, 22, 25 e 27 de Fevereiro de 2025 no Espaço Multicultural, localizado na Praça 22 de Janeiro, s./nº., Centro, São Vicente-SP.
-
-# Ementa
-
-"Documentário com imagens de arquivo: reflexões e práticas" é um curso, composto por oito encontros, que usa a pesquisa de materiais pré-existentes e a montagem cinematográfica como elementos estratégicos para a produção de filmes independentes, com baixo custo ou até mesmo sem orçamento disponível. 
-
-O curso se desenvolve de maneira teórica, ao apresentar aos alunos as ideias fundamentais e filmes canônicos desta tradicional corrente do gênero documental, e de maneira prática, com o objetivo principal de demonstrar que a atividade cinematográfica, principalmente para quem dá seus primeiros passos, não depende exclusivamente de grandes aparatos para existir.
+Asistencia de producción, registro fotográfico y subtitulación descriptiva
 
 # Contexto
 
-Esse projeto nasce a partir de uma experiência anterior de curso realizada por Leandro Olimpio no Sesc Santos, em Abril de 2022.
+El curso "Documental con Imágenes de Archivo: Prácticas y Reflexiones", propuesto, producido y dictado por Leandro Olimpio da Rocha, se realizó a través de la Ley Federal Paulo Gustavo (LPG) en el municipio de São Vicente/SP, durante los días 4, 6, 11, 15, 18, 22, 25 y 27 de febrero de 2025 en el Espacio Multicultural, ubicado en la Praça 22 de Janeiro, s/nº, Centro, São Vicente-SP.
 
-Leandro Olimpio é diretor e montador, residente em São Vicente, sua filmografia se concentra nessa corrente cinematográfica. Com "Imagens de um Sonho", "Memórias do Fogo" e "Nosso Panfleto Seria Assim", curtas que dirigiu e montou a partir de materiais de arquivo, foi selecionado, exibido e premiado em diversos festivais no Brasil e no exterior, como o Festival Internacional de Cinema de Arquivo (Brasil), a 46ª edição do Festival Guarnicê de Cinema (Brasil), a 35ª edição do Cinélatino Rencontres de Toulouse (França), 14º Visões Periféricas - Rio de Janeiro (Brasil), Mostra Olhar Caiçara do 17° Curta Santos (Brasil), 12ª Festival de Cine y Artes Visuales Bugarte (Colômbia), 5º Festival de Cine Corto de Envigado (Colômbia), Indian International Film Festival (Índia), a 30ª edição do Festival de Cinema de Vitória (Brasil), dentre outros.
+Este proyecto surge a partir de una experiencia previa de curso realizada por Leandro Olimpio en el Sesc Santos en abril de 2022.
 
-# Equipe
+Leandro Olimpio es director y montador, residente en São Vicente. Su filmografía se centra en esta corriente cinematográfica. Con "Imágenes de un Sueño", "Memorias del Fuego" y "Nuestro Panfleto Sería Así", cortometrajes que dirigió y montó a partir de materiales de archivo, ha sido seleccionado, exhibido y premiado en diversos festivales en Brasil y en el extranjero, como el Festival Internacional de Cine de Archivo (Brasil), la 46ª edición del Festival Guarnicê de Cine (Brasil), la 35ª edición de Cinélatino Rencontres de Toulouse (Francia), el 14º Visões Periféricas - Río de Janeiro (Brasil), la Muestra Olhar Caiçara del 17º Curta Santos (Brasil), el 12º Festival de Cine y Artes Visuales Bugarte (Colombia), el 5º Festival de Cortometrajes de Envigado (Colombia), el Indian International Film Festival (India), la 30ª edición del Festival de Cine de Vitória (Brasil), entre otros.
 
-**Proponente, Produção e Ministrante:**    
+# Contenído del Curso
+
+"Documental con imágenes de archivo: reflexiones y prácticas" es un curso, compuesto por ocho encuentros, que utiliza la investigación de materiales preexistentes y el montaje cinematográfico como elementos estratégicos para la producción de películas independientes con bajos costos o incluso sin presupuesto disponible.
+
+El curso se desarrolla de manera teórica, al presentar a los estudiantes las ideas fundamentales y las películas canónicas de esta corriente tradicional del género documental, y de manera práctica, con el objetivo principal de demostrar que la actividad cinematográfica, especialmente para quienes dan sus primeros pasos, no depende exclusivamente de grandes recursos para existir.
+
+# Equipo
+
+##### Proponente, Producción y Docente:  
 Leandro Olimpio da Rocha
-   
-**Assistência de Produção**
-Brenno Brandalise Demarchi
-Telmo
 
-**Registro Fotográfico:**
+##### Asistencia de Producción:  
+Telmo Martins
+Brenno Brandalise Demarchi  
+
+##### Registro Fotográfico:  
+Brenno Brandalise Demarchi
+Telmo Martins
+
+##### Subtitulación Descriptiva:  
+Leandro Olimpio da Rocha  
 Brenno Brandalise Demarchi
 
-**Legendagem Descritiva:**
-Leandro Olimpio da Rocha
-Brenno Brandalise Demarchi
-
-**Intepretação de Libras:**
-Claudia Regina Pereira Pepe
+##### Interpretación en Lengua de Señas Brasileña (Libras):  
+Claudia Regina Pereira Pepe  
 Brenda Pepe
 
-# Ferramentas e Tecnologias
+# Herramientas y Tecnologías
 
-**Edição de Fotografias:** RawTherapee
-**Equipamento Fotográfico:** Canon EOS Rebel T5i + objetiva Canon EF-S 18-55mm f/3.5-5.6 IS STM 
+**Edición de Fotografías:** RawTherapee  
+**Equipo Fotográfico:** Canon EOS Rebel T5i + lente Canon EF-S 18-55mm f/3.5-5.6 IS STM
 
 
-# Na Mídia
+# Repercusión en los medios de comunicación
 
 
 ![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-1.png]]
+
+![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-9.png]]
 
 ![[2025-curso-documentariocomarquivo-leandroolimpio-lpg-sv-2.png]]
 

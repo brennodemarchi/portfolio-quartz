@@ -1,9 +1,26 @@
+---
+indentation: "2"
+language: pt-br
+category: produção audiovisual
+keywords:
+  - curta metragem
+  - documentário
+  - técnico de som
+---
 
 ![[2024-audiovisual-doc-ossonhosnaoenvelhecem-1-poster.jpg|460]]
 
+# Função
+
+Técnico de Som
+
 # Contexto
 
-Colaborei como Técnico de Som no filme "Os Sonhos Não Envelhecem", dirigido por Luciana Miguel, realizado durante a formação de Cinema Básico, na Fábrica Audiovisual de Santos-SP, ministrado por Rodrigo Samia. Este filme também foi realizado em parceria com Fábrica da Dança e Fábrica da Longevidade, ambas situadas em Santos-SP.
+O filme "Os Sonhos Não Envelhecem", dirigido por Luciana Miguel, foi realizado durante a formação de Cinema Básico, na Fábrica Audiovisual de Santos-SP, ministrado por Rodrigo Samia, e teve a parceria da Fábrica da Dança e da Fábrica da Longevidade, ambas situadas em Santos-SP.
+
+# Sinopse 
+
+Três mulheres idosas revivem o sonho antigo de dançar Ballet Clássico, através de um projeto social voltado para a terceira idade.
 
 # Créditos
 

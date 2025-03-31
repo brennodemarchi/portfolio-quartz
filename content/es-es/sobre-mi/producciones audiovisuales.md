@@ -24,7 +24,7 @@ Dirección
 - **Clasificación:** Para todos los públicos
 - **Distribución:** Núcleo de Pesquisa e Produção Audiovisual (Nupepa/ImaRgens/USP), en colaboración con el Laboratório de Pesquisa Social do Departamento de Sociologia da USP (LAPS/USP) y el Instituto de Comunicação da Universidade Nova de Lisboa (ICNOVA/NOVA)
 
-Más información [[Vídeo - De quién es la autoría|en este enlace]].
+Más información [[Vídeo - De quién es la autoría (2025)|en este enlace]].
 
 ## Un Hueso que Cae
 
@@ -50,7 +50,7 @@ Dirección
 - Festival do Minuto - TEMA LIBRE - DIC/ENE/FEB 2024-25, 2025 - Exhibición
 
 
-Más información [[Vídeo - Un Hueso que Cae|en este enlace]].
+Más información [[Vídeo - Un Hueso que Cae (2025)|en este enlace]].
 
 ---
 
@@ -80,7 +80,7 @@ Técnico de Sonido
 - Cine Arte Posto 4 (Santos-SP) - Exhibición    
 - MISS - Museu da Imagem e do Som (Santos-SP) - Exhibición    
 
-Más información [[Película Documental - Los Sueños No Envejecen|en este enlace]].
+Más información [[Película Documental - Los Sueños No Envejecen (2024)|en este enlace]].
 
 ---
 
@@ -167,7 +167,7 @@ Dirección, sonido directo, edición y distribución
 - Spotify: https://open.spotify.com/episode/5Xja2CWPD4MDux6iViGXXI?go=1&sp_cid=780325d8f007aadc0f84744a9071d81d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=18b5caccb0274c13
 
 
-Más información [[Vídeo - Poemas Soplados por el Viento del Noroeste|neste link]].
+Más información [[Vídeo - Poemas Soplados por el Viento del Noroeste (2021)|neste link]].
 
 ---
 # 2020

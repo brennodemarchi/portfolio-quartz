@@ -2,7 +2,7 @@
 indentation: "2"
 ---
 
-![[2024-artigo-hiphop-sociologiasplurais-UFPR.png]]Disponible en: https://revistas.ufpr.br/sclplr/article/view/94244.
+![[2024-artigo-hiphop-sociologiasplurais-UFPR.png]]
 
 # Resumen
 
@@ -11,3 +11,7 @@ Este artículo examina cómo el movimiento Hip-Hop posibilita la contestación p
 # Palabras clave
 
 Hip-Hop; Movimiento social; Espacio urbano; Arte insurgente/Arte contestatario
+
+# Acesso
+
+Disponible en: https://revistas.ufpr.br/sclplr/article/view/94244.
