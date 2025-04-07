@@ -10,6 +10,11 @@ indentation: "1"
 
 ## Reinventar a cidade: reflexões sobre o movimento Hip Hop e suas insurgências políticas
 
+
+### Editora
+
+Revista Sociologias Plurais - Universidade Federal do Paraná (UFPR)
+
 ### Acesso
 
 https://revistas.ufpr.br/sclplr/article/view/94244
@@ -28,6 +33,11 @@ DEMARCHI, Brenno B.; OLIVEIRA, Wesley V. Reinventar a cidade: reflexões sobre o
 
 ## O presente remoto: etnografia de tela e outras metodologias de pesquisa e ensino do Núcleo de Antropologia Visual (NAVI/UFSC)
 
+
+### Editora
+
+ABA Publicações - Associação Brasileira de Antropologia (Brasil)
+
 ### Acesso
 
 https://portal.abant.org.br/aba/publicacoes/publicacao-479027
@@ -39,6 +49,7 @@ RIAL, Carmen S. M.; TORRES, Natalia P.; ROSABAL, Damaris R.; RODRIGUEZ, Cristhia
 ---
 
 ## Reflexões cibernéticas e infraestruturais sobre a pluralidade da água
+
 
 ### Acesso
 
@@ -54,6 +65,11 @@ DEMARCHI, Brenno B. Reflexões cibernéticas e infraestruturais sobre a pluralid
 ---
 
 ## Reflexões antropológicas sobre a pluralidade da água e suas infraestruturas
+
+
+### Editora
+
+Programa de Pós-Graduação em Antropologia Social da Universidade Federal de Santa Catarina (Brasil)
 
 ### Acesso
 

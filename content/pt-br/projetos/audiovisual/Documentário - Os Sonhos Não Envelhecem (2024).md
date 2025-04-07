@@ -89,11 +89,14 @@ Dancin Brasil - Artigos para Dança (@dancinbrasil)
 ![[2024-audiovisual-doc-ossonhosnaoenvelhecem-2.png]]
 https://www.instagram.com/p/DARTCsoxmbB/
 
+![[2024-audiovisual-doc-ossonhosnaoenvelhecem-7.png.png]]
+https://www.instagram.com/p/DHYp9hHuU-G/?img_index=7
+
 ## Cartaz de Exibição no Cine Arte Posto 4
 
-![[2024-audiovisual-doc-ossonhosnaoenvelhecem-3.png]]
 ![[2024-audiovisual-doc-ossonhosnaoenvelhecem-4.png]]
-
+![[2024-audiovisual-doc-ossonhosnaoenvelhecem-3.png]]
+https://www.instagram.com/p/DB2BScRxavA/?img_index=2
 
 ## Cartaz de Exibição no MISS - Museu da Imagem e do Som de Santos-SP
 
@@ -104,3 +107,4 @@ https://www.instagram.com/p/DAJxRd0xNw9/
 ## Cartaz para a "Mostra Mulheres na Cidade" no Juicy Hub -Santos
 
 ![[2024-audiovisual-doc-ossonhosnaoenvelhecem-6.png]]
+https://www.instagram.com/p/DHEsNdYOl3T/

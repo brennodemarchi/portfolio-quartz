@@ -66,6 +66,13 @@ Exibido no dia 9 de Novembro de 2023, "Chico Voltou Só" foi finalista da Mostra
 
 # Na Mídia
 
+
+#### Lista de premiação no 10º Santos Film Fest (2025)
+
+![[Pasted image 20250331165230.png]]
+![[Pasted image 20250331165219.png]]
+https://santosfilmfest.wordpress.com/2024/06/28/10-santos-film-fest-encerra-com-grande-participacao-popular/
+
 #### Lista de Filmes Selecionados da Mostra "Olhar Caiçara" do Curta Santos no Release do jornal A Tribuna
 
 ![[2023-audiovisual-doc-chicovoltouso-9-atribuna-1.png]]
